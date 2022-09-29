@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/RDeconomist/RDeconomist.github.io/main/charts/colour/martin.csv"
+    },
+
+  "title": {
+      "text": "Agnes Martin",
+      "subtitle": ["Happy Holiday (1999)",""],
+      "subtitleFontStyle":"italic",
+      "subtitleFontSize":10,
+      "anchor": "start",
+      "color": "black"
+    },
+
+  "config":{
+    "background": "#FAFAFA",
+    "view": {
+      "stroke": "black",
+      "strokeWidth":5}},
+
+  "height": 300,
+  "width": 290,
+
+  "transform":[
+    {"calculate": "datum.height*2", "as":"higher"}
+  ],
+
+  "mark":{
+     "type": "bar",
+     "width":290},
+
+  "encoding": {
+
+    "x": {
+      "field": "height", 
+      "type": "ordinal",
+      "axis": null
+      },
+
+    "y": {
+      "field": "height", 
+      "type": "quantitative",
+      "sort":"descending",
+      "axis": null
+      },
+
+    "color": {
+      "field": "name", 
+      "type": "ordinal",
+      "legend":null,
+      "scale": {
+        "range": ["rgb(227,220,214)", "rgb(226,203,179)"]}}
+  }
+}

@@ -44,7 +44,7 @@
       }
     }
   ],
-  "width": 280,
+  "width": 320,
   "height": 300,
   "encoding": {
     "x": {"field": "date3", "type": "temporal", "title": null},

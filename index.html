@@ -27,13 +27,21 @@
     <div class="myWeek1">
         <h1>Data Science for Economists.</h1>
         
+        <h3>My Homework Portfolio</h3>
+        <h3>Week 1</h3>
         <h3>GDP</h3>
-        <p>The first chart tracks UK GDP over time.</p>
+        <p>This first chart tracks UK GDP over time.</p>
         <div class="chart" id="Chart1"></div>
 
         <h3>GNI</h3>
         <p>My second chart looks GNI in the UK</p>
         <div class="chart" id="Chart2"> </div>
+        
+        <h3>Week 2</h3>
+        <IMF Lending>
+        <p>This chart hosts CSV data on IMF lending.</p>
+        <div class="chart" id="Chart3"></div>
+        
     </div> 
 </body>
 
@@ -42,10 +50,12 @@
     //Define charts:
     var myChart1 = "chartGDP1.json";
     var myChart2 = "chartGDP2.json";
+    var myChart3 = "imflending.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
+    vegaEmbed('#Chart3', myChart3);
 </script>
 
 </html>

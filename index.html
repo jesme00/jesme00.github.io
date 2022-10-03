@@ -38,9 +38,15 @@
         <div class="chart" id="Chart2"> </div>
         
         <h3>Week 2</h3>
-        <IMF Lending>
+        <h3<IMF Lending</h3>
         <p>This chart hosts CSV data on IMF lending.</p>
         <div class="chart" id="Chart3"></div>
+        
+        <h3<IMF Lending relative to GDP</h3>
+        <p>This chart divides the data above through by GDP to show IMF lending as a percentage of GDP.</p>
+        <div class="chart" id="Chart4"></div>
+
+
         
     </div> 
 </body>
@@ -51,11 +57,13 @@
     var myChart1 = "chartGDP1.json";
     var myChart2 = "chartGDP2.json";
     var myChart3 = "imflending.json";
+    var myChart4 = "imflendingaspercentageofgdp.json";
 
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);
     vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);
 </script>
 
 </html>

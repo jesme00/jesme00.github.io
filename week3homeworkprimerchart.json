@@ -1,0 +1,21 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple bar chart with embedded data.",
+    "data": {
+      "values": [
+        {"a": "A", "Hours of Work": 5, "Date":"2020-01-02"}, 
+        {"a": "B", "Hours of Work": 8, "Date":"2020-01-03"}, 
+        {"a": "C", "Hours of Work": 1, "Date":"2020-01-04"},
+        {"a": "D", "Hours of Work": 7, "Date":"2020-01-05"}, 
+        {"a": "E", "Hours of Work": 6, "Date":"2020-01-06"}, 
+        {"a": "F", "Hours of Work": 8, "Date":"2020-01-07"},
+  
+      ]
+    },
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "Date", "type": "temporal", "axis": {"labelAngle": 0}},
+      "y": {"field": "Hours of Work", "type": "quantitative"}
+    }
+  }
+  

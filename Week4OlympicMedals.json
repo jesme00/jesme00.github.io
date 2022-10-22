@@ -1,0 +1,30 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Top 10 2020 Tokyo Olympic Medal Winners",
+    "subtitle": "Source: olympics.com",
+    "subtitleFontStyle": "Arial",
+    "anchor": "start",
+    "color": "black"
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/olympicmedals.csv"
+  },
+  "height": 300,
+  "width": 300,
+  "mark": {"type": "bar", "color": "#002FA7"},
+  "encoding": {
+    "x": {
+      "field": "Country",
+      "type": "nominal",
+      "axis": {"title": null, "grid": false, "ticks": false}
+    },
+    "y": {
+      "field": "Medals",
+      "type": "quantitative",
+      "title": "",
+      "axis": {"grid": false}
+    }
+  }
+}
+

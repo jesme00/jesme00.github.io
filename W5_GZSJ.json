@@ -7592,6 +7592,8 @@
             "year": "2021"
         }]
     },
+    "height": 250,
+    "width": 250,
     "mark": "line",
     "encoding": {
       "x": {"field": "date", "type": "temporal", "axis": {"labelAngle": 0},"title": ""},

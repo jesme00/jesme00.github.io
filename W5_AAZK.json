@@ -9640,7 +9640,7 @@
     ]
 },
     "height": 250,
-    "width": 250,
+    "width": 300,
     "mark": "line",
     "encoding": {
       "x": {"field": "date", "type": "temporal", "axis": {"labelAngle": 0},"title": ""},

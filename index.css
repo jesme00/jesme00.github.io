@@ -1,4 +1,4 @@
-/* Richard Davies, Data Science for Economists */
+/* Jessica Hawley, Data Science for Economists */
 
 /* This is my first proper css file */
 
@@ -9,9 +9,30 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgb(233, 233, 233);
+    background-color: rgb(243, 243, 243);
  
 }
+
+a{
+display:table;
+margin: auto;
+margin-bottom: 3.5px;
+}
+#link1{
+backgrounf-color: rgb(243,243,243);
+border:1px;
+border_color:rgb(200,200,200);
+border-radius:2px
+border-style:solid;
+font-family:roboto;
+padding:2px;
+padding-right:5px;
+padding-left:5px;
+}
+
+#link1:hover{
+background-color:rgb(243,243,243);
+border-color:rgb(243,243,243);
 
 
 /* Choose the appearance of the tags, h1, h3 and p: */
@@ -25,13 +46,71 @@ h1, h3, p{
     margin: auto;
     max-width: 600px;
     background-color: rgb(220, 220, 220);
-    
-    border-width: 3px;
-    border-style: solid;
     border-radius: 10px;
-    border-color: rgb(100, 100, 100);
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
 }
 
+.myWeek2{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek3{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek4{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek5{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek6{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek7{
+    margin: auto;
+    max-width: 600px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
 
 /* Set the apperance of the class, chart */
 .chart{

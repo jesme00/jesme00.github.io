@@ -36,7 +36,7 @@
         <p>My second chart looks at GNI in the UK</p>
         <div class="chart" id="Chart2"> </div>
         
-                                      
+    <div class="myWeek2">                                      
         <h1>Week 2</h1> 
         <h3<IMF Lending</h3>
         <p>This chart hosts CSV data on IMF lending.</p>
@@ -48,6 +48,7 @@
     
 <p>During this period, the IMF lent most in 1984 (relative to GDP), suggesting that this was a riskier year to invest in than today, when lending is at a peak only in absolute terms.</p>
  
+    <div class="myWeek3">       
         <h1>Week 3</h1> 
         <h3<Life expectancy</h3>
         <p>This chart embeds data on life expectancy into a chart specification. In other words, the data source is defined inline. I did this by converting CSV cell data into a dictionaries format.</p>
@@ -57,6 +58,7 @@
         <div class="chart" id="Chart6"></div> 
 <p>The second chart is much more appropriate for showing life expectancy data because it allows the viewer to easily compare continents with each other. The sum of total life expectancies is not useful information so stacking the data is unnecessary in the first chart.</p>
 
+    <div class="myWeek4">    
         <h1>Week 4</h1> 
         <h3<Olympic Medals</h3>
         <p>This chart shows data that I retrieved from the Olympics website using a scraper in python. The code I wrote to do this can be seen 
@@ -65,6 +67,7 @@
             </p>
         <div class="chart" id="Chart7"></div>
 
+    <div class="myWeek5">    
         <h1>Week 5</h1> 
         <h3<ONS Time Series Data</h3>
         <p>To start this homework, I used loop code and an API from class to batch download time series data from FRED. The python notebook I used to do this can be seen
@@ -72,7 +75,7 @@
             </a> Then, using what I learnt in class from downloading this FRED data, I applied my knowledge to batch download data from the ONS. The code I wrote to do this can be seen 
             <a href="https://github.com/jesme00/jesme00.github.io/blob/main/Week5HomeworkONS.ipynb" id="link4">here.
             </a> This allowed me to very quickly generate 10 json files which could then be used to display 10 charts after copying the code into Vega to define the x and y axes.
-            </p> 
+            </p>       
             <div class="chart" id="Chart8"></div>
             <div class="chart" id="Chart9"></div>
             <div class="chart" id="Chart10"></div>
@@ -84,8 +87,14 @@
             <div class="chart" id="Chart16"></div>
             <div class="chart" id="Chart17"></div>
 
+        <div class="myWeek7"> 
+        <h1>Week 7</h1>
+        <h3<Maps</h3>
+        <div class="chart" id="Chart18"></div>
+        <p>T </p>
+        <div class="chart" id="Chart19"></div>
 
-
+    
 </div> 
 </body>
 
@@ -109,6 +118,9 @@
     var myChart15 = "W5_J5II.json";
     var myChart16 = "W5_GTAO.json";
     var myChart17 = "W5_ANSP.json";
+    var myChart18 = "";
+    var myChart19 = "";
+    
    
     
     
@@ -130,6 +142,8 @@
     vegaEmbed('#Chart15', myChart15);
     vegaEmbed('#Chart16', myChart16);
     vegaEmbed('#Chart17', myChart17);
+    vegaEmbed('#Chart18', myChart18);
+    vegaEmbed('#Chart19', myChart19);
 
     
 </script>

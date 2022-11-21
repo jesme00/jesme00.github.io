@@ -10,41 +10,45 @@
 /* Set the background color for my page: */
 body{
     background-color: rgb(243, 243, 243);
- 
 }
-
-a{
-display:table;
-margin: auto;
-margin-bottom: 3.5px;
-}
-#link1{
-backgrounf-color: rgb(243,243,243);
-border:1px;
-border_color:rgb(200,200,200);
-border-radius:2px
-border-style:solid;
-font-family:roboto;
-padding:2px;
-padding-right:5px;
-padding-left:5px;
-}
-
-#link1:hover{
-background-color:rgb(243,243,243);
-border-color:rgb(243,243,243);
 
 
 /* Choose the appearance of the tags, h1, h3 and p: */
-h1, h3, p{
+h1{
     color:rgb(0, 0, 0);
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', serif;
+    text-align: center;
+    }
+    
+h2{
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto', serif;
     text-align: center;
 }
-    
+
+h3{
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto', serif;
+    font-style: italic;
+    text-align: center;
+}
+
+p{
+    color:rgb(0, 0, 0);
+    font-family: 'Roboto', serif;
+    text-align: center;
+}
+
+
 .myWeek1{
     margin: auto;
-    max-width: 600px;
+    max-width: 1000px;
+    text-align: center;
+    border-top: 3px;
+    border-bottom: 3px;
+    border-left: 0cm;
+    border-right: 0cm;
+    border-style: solid;
     background-color: rgb(220, 220, 220);
     border-radius: 10px;
     padding-left: 5px;
@@ -52,75 +56,49 @@ h1, h3, p{
     padding-bottom: 5px;
 }
 
-.myWeek2{
-    margin: auto;
-    max-width: 600px;
-    background-color: rgb(220, 220, 220);
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek3{
-    margin: auto;
-    max-width: 600px;
-    background-color: rgb(220, 220, 220);
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek4{
-    margin: auto;
-    max-width: 600px;
-    background-color: rgb(220, 220, 220);
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek5{
-    margin: auto;
-    max-width: 600px;
-    background-color: rgb(220, 220, 220);
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek6{
-    margin: auto;
-    max-width: 600px;
-    background-color: rgb(220, 220, 220);
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek7{
-    margin: auto;
-    max-width: 600px;
-    background-color: rgb(220, 220, 220);
-    border-radius: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
 
 /* Set the apperance of the class, chart */
 .chart{
     background-color: white;
-    width:480px;
+    width:auto;
+    height: auto;
     border-width: 3px;
     border-style: solid;
-    border-radius: 10px;
-    border-color: rgb(100, 100, 100);
-
+    border-radius: 0px;
+    margin-left: 120px;
+    margin-right: 120px;
+    border-color: rgb(50, 50, 50);
+    margin-bottom: 0.5cm;
+    display: inline-block;
     
 }
+.button {
+    background-color: rgb(50, 50, 50);
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+.button:hover {opacity: 1}
+
+
+.container {
+    display: flex;
+    flex-flow: wrap;
+    column-gap: 20px;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    justify-content: center;
+    align-content: center;
+ }
+
     

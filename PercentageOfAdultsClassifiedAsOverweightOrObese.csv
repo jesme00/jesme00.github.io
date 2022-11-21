@@ -1,0 +1,310 @@
+AreaCode,AreaName,AreaType,TimePeriod,Value,ComparedToEnglandValue
+E07000223,Adur,District,2020/21,69.93,Worse
+E07000026,Allerdale,District,2020/21,57.80,Better
+E07000032,Amber Valley,District,2020/21,62.62,Similar
+E07000224,Arun,District,2020/21,66.67,Similar
+E07000170,Ashfield,District,2020/21,71.00,Worse
+E07000105,Ashford,District,2020/21,63.53,Similar
+E07000200,Babergh,District,2020/21,63.84,Similar
+E09000002,Barking and Dagenham,UA,2020/21,64.52,Similar
+E09000003,Barnet,UA,2020/21,61.12,Similar
+E08000016,Barnsley,UA,2020/21,70.56,Worse
+E07000027,Barrow-in-Furness,District,2020/21,63.92,Similar
+E07000066,Basildon,District,2020/21,69.68,Worse
+E07000084,Basingstoke and Deane,District,2020/21,59.97,Similar
+E07000171,Bassetlaw,District,2020/21,67.41,Similar
+E06000022,Bath and North East Somerset,UA,2020/21,56.28,Better
+E06000055,Bedford,UA,2020/21,63.29,Similar
+E09000004,Bexley,UA,2020/21,64.61,Similar
+E08000025,Birmingham,UA,2020/21,63.54,Similar
+E07000129,Blaby,District,2020/21,71.40,Worse
+E06000008,Blackburn with Darwen,UA,2020/21,63.62,Similar
+E06000009,Blackpool,UA,2020/21,70.46,Worse
+E07000033,Bolsover,District,2020/21,68.86,Worse
+E08000001,Bolton,UA,2020/21,63.80,Similar
+E07000136,Boston,District,2020/21,73.40,Worse
+E06000058,"Bournemouth, Christchurch and Poole",UA,2020/21,63.89,Similar
+E06000036,Bracknell Forest,UA,2020/21,63.50,Similar
+E08000032,Bradford,UA,2020/21,63.22,Similar
+E07000067,Braintree,District,2020/21,68.26,Worse
+E07000143,Breckland,District,2020/21,62.01,Similar
+E09000005,Brent,UA,2020/21,55.90,Better
+E07000068,Brentwood,District,2020/21,61.30,Similar
+E06000043,Brighton and Hove,UA,2020/21,58.81,Better
+E06000023,Bristol,UA,2020/21,55.73,Better
+E07000144,Broadland,District,2020/21,61.23,Similar
+E09000006,Bromley,UA,2020/21,58.03,Better
+E07000234,Bromsgrove,District,2020/21,59.03,Similar
+E07000095,Broxbourne,District,2020/21,66.17,Similar
+E07000172,Broxtowe,District,2020/21,63.49,Similar
+E06000060,Buckinghamshire UA,UA,2020/21,60.95,Similar
+E07000117,Burnley,District,2020/21,73.39,Worse
+E08000002,Bury,UA,2020/21,61.65,Similar
+E08000033,Calderdale,UA,2020/21,63.66,Similar
+E07000008,Cambridge,District,2020/21,49.60,Better
+E09000007,Camden,UA,2020/21,50.46,Better
+E07000192,Cannock Chase,District,2020/21,73.75,Worse
+E07000106,Canterbury,District,2020/21,59.16,Similar
+E07000028,Carlisle,District,2020/21,70.34,Worse
+E07000069,Castle Point,District,2020/21,70.45,Worse
+E06000056,Central Bedfordshire,UA,2020/21,65.84,Similar
+E07000130,Charnwood,District,2020/21,62.61,Similar
+E07000070,Chelmsford,District,2020/21,58.15,Better
+E07000078,Cheltenham,District,2020/21,59.03,Similar
+E07000177,Cherwell,District,2020/21,65.81,Similar
+E06000049,Cheshire East,UA,2020/21,68.30,Worse
+E06000050,Cheshire West and Chester,UA,2020/21,60.24,Similar
+E07000034,Chesterfield,District,2020/21,70.08,Worse
+E07000225,Chichester,District,2020/21,59.40,Similar
+E07000118,Chorley,District,2020/21,65.78,Similar
+E09000001,City of London,UA,2020/21,51.34,Better
+E07000071,Colchester,District,2020/21,66.21,Similar
+E07000029,Copeland,District,2020/21,65.59,Similar
+E06000052,Cornwall,UA,2020/21,62.71,Similar
+E07000079,Cotswold,District,2020/21,60.75,Similar
+E06000047,County Durham,UA,2020/21,70.82,Worse
+E08000026,Coventry,UA,2020/21,68.37,Worse
+E07000163,Craven,District,2020/21,54.96,Better
+E07000226,Crawley,District,2020/21,66.52,Similar
+E09000008,Croydon,UA,2020/21,61.81,Similar
+E07000096,Dacorum,District,2020/21,61.83,Similar
+E06000005,Darlington,UA,2020/21,72.53,Worse
+E07000107,Dartford,District,2020/21,70.37,Worse
+E06000015,Derby,UA,2020/21,65.42,Similar
+E07000035,Derbyshire Dales,District,2020/21,59.60,Similar
+E08000017,Doncaster,UA,2020/21,71.03,Worse
+E06000059,Dorset,UA,2020/21,59.04,Similar
+E07000108,Dover,District,2020/21,64.27,Similar
+E08000027,Dudley,UA,2020/21,66.80,Similar
+E09000009,Ealing,UA,2020/21,53.01,Better
+E07000009,East Cambridgeshire,District,2020/21,63.36,Similar
+E07000040,East Devon,District,2020/21,65.17,Similar
+E07000085,East Hampshire,District,2020/21,60.73,Similar
+E07000242,East Hertfordshire,District,2020/21,63.39,Similar
+E07000137,East Lindsey,District,2020/21,62.35,Similar
+E06000011,East Riding of Yorkshire,UA,2020/21,67.63,Similar
+E07000193,East Staffordshire,District,2020/21,70.61,Worse
+E07000244,East Suffolk,District,2020/21,61.88,Similar
+E07000061,Eastbourne,District,2020/21,60.91,Similar
+E07000086,Eastleigh,District,2020/21,65.91,Similar
+E07000030,Eden,District,2020/21,66.83,Similar
+E07000207,Elmbridge,District,2020/21,50.83,Better
+E09000010,Enfield,UA,2020/21,60.89,Similar
+E07000072,Epping Forest,District,2020/21,57.45,Better
+E07000208,Epsom and Ewell,District,2020/21,58.62,Better
+E07000036,Erewash,District,2020/21,72.16,Worse
+E07000041,Exeter,District,2020/21,61.26,Similar
+E07000087,Fareham,District,2020/21,62.47,Similar
+E07000010,Fenland,District,2020/21,67.13,Similar
+E07000112,Folkestone & Hythe,District,2020/21,66.75,Similar
+E07000080,Forest of Dean,District,2020/21,70.34,Worse
+E07000119,Fylde,District,2020/21,67.78,Similar
+E08000037,Gateshead,UA,2020/21,73.34,Worse
+E07000173,Gedling,District,2020/21,62.89,Similar
+E07000081,Gloucester,District,2020/21,72.06,Worse
+E07000088,Gosport,District,2020/21,70.96,Worse
+E07000109,Gravesham,District,2020/21,65.24,Similar
+E07000145,Great Yarmouth,District,2020/21,68.70,Worse
+E09000011,Greenwich,UA,2020/21,62.24,Similar
+E07000209,Guildford,District,2020/21,59.82,Similar
+E09000012,Hackney,UA,2020/21,52.37,Better
+E06000006,Halton,UA,2020/21,65.04,Similar
+E07000164,Hambleton,District,2020/21,64.05,Similar
+E09000013,Hammersmith and Fulham,UA,2020/21,46.44,Better
+E07000131,Harborough,District,2020/21,59.68,Similar
+E09000014,Haringey,UA,2020/21,49.55,Better
+E07000073,Harlow,District,2020/21,73.50,Worse
+E07000165,Harrogate,District,2020/21,59.41,Similar
+E09000015,Harrow,UA,2020/21,52.96,Better
+E07000089,Hart,District,2020/21,63.10,Similar
+E06000001,Hartlepool,UA,2020/21,74.58,Worse
+E07000062,Hastings,District,2020/21,63.73,Similar
+E07000090,Havant,District,2020/21,63.90,Similar
+E09000016,Havering,UA,2020/21,68.82,Worse
+E06000019,Herefordshire,UA,2020/21,66.95,Similar
+E07000098,Hertsmere,District,2020/21,62.76,Similar
+E07000037,High Peak,District,2020/21,66.96,Similar
+E09000017,Hillingdon,UA,2020/21,55.74,Better
+E07000132,Hinckley and Bosworth,District,2020/21,68.51,Worse
+E07000227,Horsham,District,2020/21,63.23,Similar
+E09000018,Hounslow,UA,2020/21,63.23,Similar
+E07000011,Huntingdonshire,District,2020/21,65.33,Similar
+E07000120,Hyndburn,District,2020/21,71.12,Worse
+E07000202,Ipswich,District,2020/21,68.24,Worse
+E06000046,Isle of Wight,UA,2020/21,61.73,Similar
+E06000053,Isles of Scilly,UA,2020/21,57.31,Similar
+E09000019,Islington,UA,2020/21,43.97,Better
+E09000020,Kensington and Chelsea,UA,2020/21,46.44,Better
+E07000146,King's Lynn and West Norfolk,District,2020/21,68.27,Worse
+E06000010,Kingston upon Hull,UA,2020/21,70.71,Worse
+E09000021,Kingston upon Thames,UA,2020/21,57.61,Better
+E08000034,Kirklees,UA,2020/21,69.67,Worse
+E08000011,Knowsley,UA,2020/21,73.97,Worse
+E09000022,Lambeth,UA,2020/21,57.77,Better
+E07000121,Lancaster,District,2020/21,66.10,Similar
+E08000035,Leeds,UA,2020/21,63.56,Similar
+E06000016,Leicester,UA,2020/21,60.22,Similar
+E07000063,Lewes,District,2020/21,61.57,Similar
+E09000023,Lewisham,UA,2020/21,51.02,Better
+E07000194,Lichfield,District,2020/21,64.89,Similar
+E07000138,Lincoln,District,2020/21,67.50,Similar
+E08000012,Liverpool,UA,2020/21,65.90,Worse
+E06000032,Luton,UA,2020/21,67.51,Similar
+E07000110,Maidstone,District,2020/21,61.03,Similar
+E07000074,Maldon,District,2020/21,69.09,Worse
+E07000235,Malvern Hills,District,2020/21,59.96,Similar
+E08000003,Manchester,UA,2020/21,61.70,Similar
+E07000174,Mansfield,District,2020/21,67.59,Similar
+E06000035,Medway,UA,2020/21,69.37,Worse
+E07000133,Melton,District,2020/21,58.35,Better
+E07000187,Mendip,District,2020/21,63.21,Similar
+E09000024,Merton,UA,2020/21,50.37,Better
+E07000042,Mid Devon,District,2020/21,63.12,Similar
+E07000203,Mid Suffolk,District,2020/21,60.44,Similar
+E07000228,Mid Sussex,District,2020/21,65.31,Similar
+E06000002,Middlesbrough,UA,2020/21,70.76,Worse
+E06000042,Milton Keynes,UA,2020/21,69.34,Worse
+E07000210,Mole Valley,District,2020/21,54.54,Better
+E07000091,New Forest,District,2020/21,65.47,Similar
+E07000175,Newark and Sherwood,District,2020/21,66.88,Similar
+E08000021,Newcastle upon Tyne,UA,2020/21,66.57,Worse
+E07000195,Newcastle-under-Lyme,District,2020/21,69.18,Worse
+E09000025,Newham,UA,2020/21,61.25,Similar
+E07000043,North Devon,District,2020/21,64.12,Similar
+E07000038,North East Derbyshire,District,2020/21,73.77,Worse
+E06000012,North East Lincolnshire,UA,2020/21,67.64,Similar
+E07000099,North Hertfordshire,District,2020/21,55.51,Better
+E07000139,North Kesteven,District,2020/21,63.34,Similar
+E06000013,North Lincolnshire,UA,2020/21,67.62,Similar
+E07000147,North Norfolk,District,2020/21,69.33,Worse
+E06000061,North Northamptonshire,UA,2020/21,69.60,Worse
+E06000024,North Somerset,UA,2020/21,64.21,Similar
+E08000022,North Tyneside,UA,2020/21,65.86,Similar
+E07000218,North Warwickshire,District,2020/21,69.39,Worse
+E07000134,North West Leicestershire,District,2020/21,70.93,Worse
+E06000057,Northumberland,UA,2020/21,65.89,Similar
+E07000148,Norwich,District,2020/21,61.76,Similar
+E06000018,Nottingham,UA,2020/21,66.92,Worse
+E07000219,Nuneaton and Bedworth,District,2020/21,69.14,Worse
+E07000135,Oadby and Wigston,District,2020/21,66.28,Similar
+E08000004,Oldham,UA,2020/21,70.38,Worse
+E07000178,Oxford,District,2020/21,48.44,Better
+E07000122,Pendle,District,2020/21,68.70,Worse
+E06000031,Peterborough,UA,2020/21,60.70,Similar
+E06000026,Plymouth,UA,2020/21,68.80,Worse
+E06000044,Portsmouth,UA,2020/21,65.44,Similar
+E07000123,Preston,District,2020/21,62.77,Similar
+E06000038,Reading,UA,2020/21,63.51,Similar
+E09000026,Redbridge,UA,2020/21,57.45,Better
+E06000003,Redcar and Cleveland,UA,2020/21,68.49,Worse
+E07000236,Redditch,District,2020/21,67.44,Similar
+E07000211,Reigate and Banstead,District,2020/21,60.95,Similar
+E07000124,Ribble Valley,District,2020/21,60.68,Similar
+E09000027,Richmond upon Thames,UA,2020/21,45.54,Better
+E07000166,Richmondshire,District,2020/21,64.39,Similar
+E08000005,Rochdale,UA,2020/21,69.73,Worse
+E07000075,Rochford,District,2020/21,67.25,Similar
+E07000125,Rossendale,District,2020/21,67.89,Similar
+E07000064,Rother,District,2020/21,66.79,Similar
+E08000018,Rotherham,UA,2020/21,68.33,Worse
+E07000220,Rugby,District,2020/21,68.47,Worse
+E07000212,Runnymede,District,2020/21,62.10,Similar
+E07000176,Rushcliffe,District,2020/21,56.35,Better
+E07000092,Rushmoor,District,2020/21,64.67,Similar
+E06000017,Rutland,UA,2020/21,59.53,Similar
+E07000167,Ryedale,District,2020/21,62.27,Similar
+E08000006,Salford,UA,2020/21,66.70,Worse
+E08000028,Sandwell,UA,2020/21,70.82,Worse
+E07000168,Scarborough,District,2020/21,59.31,Similar
+E07000188,Sedgemoor,District,2020/21,62.65,Similar
+E08000014,Sefton,UA,2020/21,71.48,Worse
+E07000169,Selby,District,2020/21,66.25,Similar
+E07000111,Sevenoaks,District,2020/21,55.32,Better
+E08000019,Sheffield,UA,2020/21,63.86,Similar
+E06000051,Shropshire,UA,2020/21,67.96,Worse
+E06000039,Slough,UA,2020/21,61.95,Similar
+E08000029,Solihull,UA,2020/21,62.75,Similar
+E07000246,Somerset West and Taunton,District,2020/21,62.65,Similar
+E07000012,South Cambridgeshire,District,2020/21,58.32,Better
+E07000039,South Derbyshire,District,2020/21,70.44,Worse
+E06000025,South Gloucestershire,UA,2020/21,62.57,Similar
+E07000044,South Hams,District,2020/21,50.82,Better
+E07000140,South Holland,District,2020/21,72.93,Worse
+E07000141,South Kesteven,District,2020/21,68.93,Worse
+E07000031,South Lakeland,District,2020/21,57.50,Better
+E07000149,South Norfolk,District,2020/21,59.76,Similar
+E07000179,South Oxfordshire,District,2020/21,59.80,Similar
+E07000126,South Ribble,District,2020/21,61.54,Similar
+E07000189,South Somerset,District,2020/21,60.53,Similar
+E07000196,South Staffordshire,District,2020/21,68.35,Worse
+E08000023,South Tyneside,UA,2020/21,65.90,Similar
+E06000045,Southampton,UA,2020/21,64.99,Similar
+E06000033,Southend-on-Sea,UA,2020/21,68.83,Worse
+E09000028,Southwark,UA,2020/21,47.92,Better
+E07000213,Spelthorne,District,2020/21,64.36,Similar
+E07000240,St Albans,District,2020/21,50.95,Better
+E08000013,St. Helens,UA,2020/21,67.56,Similar
+E07000197,Stafford,District,2020/21,61.70,Similar
+E07000198,Staffordshire Moorlands,District,2020/21,68.83,Worse
+E07000243,Stevenage,District,2020/21,68.46,Worse
+E08000007,Stockport,UA,2020/21,63.14,Similar
+E06000004,Stockton-on-Tees,UA,2020/21,75.79,Worse
+E06000021,Stoke-on-Trent,UA,2020/21,68.73,Worse
+E07000221,Stratford-on-Avon,District,2020/21,64.19,Similar
+E07000082,Stroud,District,2020/21,62.22,Similar
+E08000024,Sunderland,UA,2020/21,69.15,Worse
+E07000214,Surrey Heath,District,2020/21,62.33,Similar
+E09000029,Sutton,UA,2020/21,62.79,Similar
+E07000113,Swale,District,2020/21,70.63,Worse
+E06000030,Swindon,UA,2020/21,64.99,Similar
+E08000008,Tameside,UA,2020/21,70.35,Worse
+E07000199,Tamworth,District,2020/21,74.94,Worse
+E07000215,Tandridge,District,2020/21,56.68,Better
+E07000045,Teignbridge,District,2020/21,64.27,Similar
+E06000020,Telford and Wrekin,UA,2020/21,70.64,Worse
+E07000076,Tendring,District,2020/21,67.84,Worse
+E07000093,Test Valley,District,2020/21,62.52,Similar
+E07000083,Tewkesbury,District,2020/21,67.58,Similar
+E07000114,Thanet,District,2020/21,65.08,Similar
+E07000102,Three Rivers,District,2020/21,62.86,Similar
+E06000034,Thurrock,UA,2020/21,76.35,Worse
+E07000115,Tonbridge and Malling,District,2020/21,57.36,Better
+E06000027,Torbay,UA,2020/21,59.43,Similar
+E07000046,Torridge,District,2020/21,65.72,Similar
+E09000030,Tower Hamlets,UA,2020/21,53.54,Better
+E08000009,Trafford,UA,2020/21,60.69,Similar
+E07000116,Tunbridge Wells,District,2020/21,58.68,Better
+E07000077,Uttlesford,District,2020/21,64.34,Similar
+E07000180,Vale of White Horse,District,2020/21,57.26,Better
+E08000036,Wakefield,UA,2020/21,71.64,Worse
+E08000030,Walsall,UA,2020/21,71.53,Worse
+E09000031,Waltham Forest,UA,2020/21,54.68,Better
+E09000032,Wandsworth,UA,2020/21,49.67,Better
+E06000007,Warrington,UA,2020/21,64.18,Similar
+E07000222,Warwick,District,2020/21,62.34,Similar
+E07000103,Watford,District,2020/21,67.35,Similar
+E07000216,Waverley,District,2020/21,56.69,Better
+E07000065,Wealden,District,2020/21,68.65,Worse
+E07000241,Welwyn Hatfield,District,2020/21,64.46,Similar
+E06000037,West Berkshire,UA,2020/21,61.50,Similar
+E07000047,West Devon,District,2020/21,62.95,Similar
+E07000127,West Lancashire,District,2020/21,65.12,Similar
+E07000142,West Lindsey,District,2020/21,67.28,Similar
+E06000062,West Northamptonshire,UA,2020/21,68.92,Worse
+E07000181,West Oxfordshire,District,2020/21,61.01,Similar
+E07000245,West Suffolk,District,2020/21,60.67,Similar
+E09000033,Westminster,UA,2020/21,45.27,Better
+E08000010,Wigan,UA,2020/21,73.68,Worse
+E06000054,Wiltshire,UA,2020/21,61.79,Similar
+E07000094,Winchester,District,2020/21,57.35,Better
+E06000040,Windsor and Maidenhead,UA,2020/21,56.98,Better
+E08000015,Wirral,UA,2020/21,71.80,Worse
+E07000217,Woking,District,2020/21,56.70,Better
+E06000041,Wokingham,UA,2020/21,60.16,Similar
+E08000031,Wolverhampton,UA,2020/21,68.52,Worse
+E07000237,Worcester,District,2020/21,63.22,Similar
+E07000229,Worthing,District,2020/21,58.61,Better
+E07000238,Wychavon,District,2020/21,65.73,Similar
+E07000128,Wyre,District,2020/21,64.23,Similar
+E07000239,Wyre Forest,District,2020/21,68.92,Worse
+E06000014,York,UA,2020/21,63.59,Similar

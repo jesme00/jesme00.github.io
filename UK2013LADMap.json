@@ -20,12 +20,16 @@
 "format":{
       "property":"features"}},
 
-
   "projection": {"type": "mercator"},
   
   "mark": {
       "type": "geoshape",
-      "fill": "lightgray",
+      "color":"darkseagreen",
       "stroke": "white",
-      "strokeWidth":0.1}
+      "strokeWidth":0.1},
+
+"encoding":{
+    "tooltip":[{
+      "field":"properties.LAD13NM","type":"nominal","title":"Local Authority"}],
+    }
 }

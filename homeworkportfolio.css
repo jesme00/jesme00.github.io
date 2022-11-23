@@ -41,7 +41,7 @@ p{
     
 .myWeek1{
     margin: auto;
-    max-width: 1000px;
+    max-width: 700px;
     text-align: center;
     border-top: 3px;
     border-bottom: 3px;
@@ -64,8 +64,8 @@ p{
     border-width: 3px;
     border-style: solid;
     border-radius: 0px;
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: 50px;
+    margin-right: 50px;
     border-color: rgb(50, 50, 50);
     margin-bottom: 0.5cm;
     display: inline-block;    

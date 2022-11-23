@@ -20,11 +20,14 @@
         "unit": ""
     },
     "title": {
-    "text": "Accrued Corporation Tax: Gross of tax credits: £m NSA",
-    "subtitle": "Source: ONS",
-    "subtitleFontStyle": "Arial",
-    "anchor": "start",
-    "color": "black"
+    "text": "Accrued Corporation Tax: NSA",
+      "fontSize":11,
+      "subtitle": "Gross of tax credits. Source: ONS",
+      "subtitleFontStyle": "Arial",
+      "subtitlefontSize":10,
+      "subtitleFontStyle":"italic",
+      "anchor": "start",
+      "color": "black"
   },
     "data": {
       "values": [

@@ -20,11 +20,14 @@
         "unit": "m"
     },
     "title": {
-    "text": "Capital grants (net) within public sector (D92&D99): £m CPNSA",
-    "subtitle": "Source: ONS",
-    "subtitleFontStyle": "Arial",
-    "anchor": "start",
-    "color": "black"
+    "text": "Net capital grants within public sector: CPNSA",
+      "fontSize":11,
+      "subtitle": "Source: ONS",
+      "subtitleFontStyle": "Arial",
+      "subtitlefontSize":10,
+      "subtitleFontStyle":"italic",
+      "anchor": "start",
+      "color": "black"
   },
     "data": {
       "values": [ 

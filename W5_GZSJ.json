@@ -20,11 +20,13 @@
         "unit": "m"
     },
     "title": {
-    "text": "Current expenditure: Net social benefits payable: £m CPNSA",
-    "subtitle": "Source: ONS",
-    "subtitleFontStyle": "Arial",
-    "anchor": "start",
-    "color": "black"
+    "text": "Current expenditure - Net social benefits: CPNSA",
+      "subtitleFontStyle": "Arial",
+      "subtitlefontSize":10,
+      "subtitleFontStyle":"italic",
+      "anchor": "start",
+      "color": "black"
+  },
   },
     "data": {
       "values": [ 

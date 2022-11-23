@@ -20,11 +20,14 @@
         "unit": "m"
     },
     "title": {
-    "text": "Total current expenditure: £m CPNSA",
-    "subtitle": "Source: ONS",
-    "subtitleFontStyle": "Arial",
-    "anchor": "start",
-    "color": "black"
+    "text": "Total current expenditure: CPNSA",
+      "fontSize":11,
+      "subtitle": "Source: ONS",
+      "subtitleFontStyle": "Arial",
+      "subtitlefontSize":10,
+      "subtitleFontStyle":"italic",
+      "anchor": "start",
+      "color": "black"
   },
     "data": {
       "values": [ 

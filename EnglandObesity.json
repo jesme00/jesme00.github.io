@@ -2,7 +2,7 @@
  
   "title": {
     "text": "Rate of Adults Classified as Overweight or Obese",
-    "subtitle":["By Local Authority area. Source: ONS and PHE",],
+    "subtitle":["By Local Authority area. Source: ONS and PHE"],
     "subtitleFontStyle":"italic",
     "subtitleFontSize":10,
     "anchor": "middle",
@@ -44,7 +44,9 @@
       "color":{
       "field":"% of local population",
       "type": "quantitative",
-      "scale":{"scheme":"lightmulti"},
+      "scale":{
+        "scheme":"lightmulti",
+        "domain":[43, 77]}
         }
 
     }

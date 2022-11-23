@@ -21,6 +21,7 @@
     },
     "title": {
     "text": "Current budget deficit: CPNSA",
+      "fontSize":11,
       "subtitle": "Source: ONS",
       "subtitleFontStyle": "Arial",
       "subtitlefontSize":10,

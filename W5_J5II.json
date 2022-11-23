@@ -20,13 +20,15 @@
         "unit": "m"
     },
     "title": {
-    "text": "Net Borrowing (excluding public sector banks): CPNSA",
+    "text": "Net Borrowing: CPNSA",
+      "fontSize":11,
+      "subtitle": "Excluding public sector banks. Source: ONS",
       "subtitleFontStyle": "Arial",
       "subtitlefontSize":10,
       "subtitleFontStyle":"italic",
       "anchor": "start",
       "color": "black"
-  },
+},
     "data": {
       "values": [
 {

@@ -12,8 +12,8 @@
       "background":"white",
       "view": {"stroke": "transparent"}},
  
-  "width": 550,
-  "height": 700,
+  "width": 500,
+  "height": 650,
  
   "data": {
     "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/UKLAD.json",

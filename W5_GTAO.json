@@ -21,6 +21,7 @@
     },
     "title": {
     "text": "Current receipts - Tobacco Production Tax",
+      "fontSize":11,
       "subtitleFontStyle": "Arial",
       "subtitlefontSize":10,
       "subtitleFontStyle":"italic",

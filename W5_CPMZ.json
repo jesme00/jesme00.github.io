@@ -20,11 +20,14 @@
         "unit": ""
     },
     "title": {
-    "text": "Public Sector Assets: Loans (AF.4): £m NSA",
-    "subtitle": "Source: ONS",
-    "subtitleFontStyle": "Arial",
-    "anchor": "start",
-    "color": "black"
+    "text": "Public Sector Assets - Loans : NSA",
+      "fontSize":11,
+      "subtitle": "Source: ONS",
+      "subtitleFontStyle": "Arial",
+      "subtitlefontSize":10,
+      "subtitleFontStyle":"italic",
+      "anchor": "start",
+      "color": "black"
   },
     "data": {
       "values": [ 

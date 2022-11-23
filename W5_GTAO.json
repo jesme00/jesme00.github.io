@@ -20,11 +20,12 @@
         "unit": ""
     },
     "title": {
-    "text": "Current receipts: Taxes on Tobacco production: £m",
-    "subtitle": "Source: ONS",
-    "subtitleFontStyle": "Arial",
-    "anchor": "start",
-    "color": "black"
+    "text": "Current receipts - Tobacco Production Tax",
+      "subtitleFontStyle": "Arial",
+      "subtitlefontSize":10,
+      "subtitleFontStyle":"italic",
+      "anchor": "start",
+      "color": "black"
   },
     "data": {
       "values": [

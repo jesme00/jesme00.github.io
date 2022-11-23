@@ -68,9 +68,18 @@ p{
     margin-right: 120px;
     border-color: rgb(50, 50, 50);
     margin-bottom: 0.5cm;
-    display: inline-block;
-    
+    display: inline-block;    
 }
+
+.chartw5{
+    width: 200px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 0px;
+    border-color: rgb(50, 50, 50);
+    margin-bottom: 0.5cm;
+    
 .button {
     background-color: rgb(50, 50, 50);
     border: none;

@@ -21,13 +21,14 @@
     },
     "title": {
     "text": "Current expenditure - Net social benefits: CPNSA",
+      "fontSize":11,
+      "subtitle": "Source: ONS",
       "subtitleFontStyle": "Arial",
       "subtitlefontSize":10,
       "subtitleFontStyle":"italic",
       "anchor": "start",
       "color": "black"
-  },
-  },
+},
     "data": {
       "values": [ 
         {

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/wine.csv"
+  },
+
+"title": {
+    "text": "Italian Wines by Grower",
+    "fontSize":15,
+    "subtitle": "Where the axes are determined based on 13 different wine attributes. Source: ONS",
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "start",
+    "color": "black"
+  },
+
+  "mark": {"type": "point", "strokeWidth": 6, "opacity": 0.8},
+  "width": 400,
+  "height": 400,
+  "encoding": {
+    "x": {
+      "field": "DimensionReductionVariable1",
+      "title": "Dimension 1",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    },
+    "y": {
+      "field": "DimensionReductionVariable2",
+      "title": "Dimension 2",
+      "type": "quantitative",
+      "scale": {"zero": false}
+    },
+    "color": {"field": "Cultivator", "title": "Grower","type": "nominal"}
+  }
+}

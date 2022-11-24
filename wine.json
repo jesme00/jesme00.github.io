@@ -7,9 +7,9 @@
 "title": {
     "text": "Italian Wines by Grower",
     "fontSize":15,
-    "subtitle": "Where the axes are determined based on 13 different wine attributes. Source: ONS",
+    "subtitle": "Where the axes are determined based on 13 different wine attributes. Source: UCI Machine Learning Repository",
     "subtitleFontStyle": "italic",
-    "subtitleFontSize": 12,
+    "subtitleFontSize": 10,
     "anchor": "start",
     "color": "black"
   },

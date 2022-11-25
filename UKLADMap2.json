@@ -1,0 +1,35 @@
+{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+ 
+  "title": {
+    "text": "Map of England",
+    "subtitle":["Local Authorities, Source: ONS",""],
+    "subtitleFontStyle":"italic",
+    "subtitleFontSize":10,
+    "anchor": "middle",
+    "color": "black"},
+ 
+  "config": {
+      "background":"white",
+      "view": {"stroke": "transparent"}},
+ 
+  "width": 550,
+  "height": 700,
+ 
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/UKLAD.json",
+"format":{
+      "property":"features"}},
+
+  "projection": {"type": "mercator"},
+ 
+  "mark": {
+      "type": "geoshape",
+      "color":"darkseagreen",
+      "stroke": "white",
+      "strokeWidth":0.1},
+
+"encoding":{
+    "tooltip":[{
+      "field":"properties.LAD13NM","type":"nominal","title":"Local Authority"}],
+    }
+}

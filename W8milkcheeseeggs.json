@@ -52,7 +52,7 @@
   "height": 300,
   "encoding": {
     "x": {"field": "date3", "type": "temporal", "title": null},
-    "y": {"field": "value", "type": "quantitative", "title": "Annual Price Change (%)"},
+    "y": {"field": "value", "type": "quantitative", "title": "%"},
     "tooltip": [
       {"field": "date3", "type": "temporal", "title": "Date"},
       {"field": "value", "type": "quantitative", "title": "Annual Wage Growth (%)"}

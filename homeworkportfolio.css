@@ -43,13 +43,125 @@ p{
     margin: auto;
     max-width: 700px;
     text-align: center;
-    border-top: 3px;
-    border-bottom: 3px;
-    border-left: 3px;
-    border-right: 3px;
-    border-style: solid;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
     background-color: rgb(200, 200, 200);
-    border-radius: 10px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek2{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(200, 200, 200);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek3{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(200, 200, 200);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek4{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(200, 200, 200);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek5{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(200, 200, 200);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek7{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(200, 200, 200);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek8{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(200, 200, 200);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.myWeek9{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(200, 200, 200);
+    padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 5px;
@@ -78,8 +190,11 @@ p{
     border-width: 2px;
     border-style: solid;
     border-radius: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
     border-color: rgb(50, 50, 50);
     margin-bottom: 0.5cm;
+    display: inline-block;   
 }
 
 .button {

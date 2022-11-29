@@ -1,53 +1,65 @@
-{"$schema": "https://vega.github.io/schema/vega-lite/v5.json",
- 
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 450,
+  "height": 450,
+  "view": {"stroke": "transparent"},
   "title": {
     "text": "Rate of Adults Classified as Overweight or Obese",
-    "subtitle":["By Local Authority area. Source: ONS and PHE"],
-    "subtitleFontStyle":"italic",
-    "subtitleFontSize":10,
-    "anchor": "middle",
-    "color": "black"},
- 
-  "config": {
-      "background":"white",
-      "view": {"stroke": "transparent"}},
- 
-  "width": 430,
-  "height": 640,
- 
-  "data": {
-    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/UKLAD.json",
-"format":{
-      "property":"features"}},
- 
-"transform": [
-        {
-          "lookup":"properties.LAD13NM",
-          "from":{
-              "key": "Area Name",
-              "fields": ["Value"],
-              "data":{"url":"https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/Percentage%20of%20adults%20classified%20as%20overweight%20or%20obese.csv"}}
-              },
-              {"calculate":"parseInt(datum.Value)", "as": "% of local population"}
-     ],
- 
-  "projection": {"type": "mercator"},
- 
-  "mark": {
-      "type": "geoshape",
-      "stroke": "white",
-      "strokeWidth":0.1},
- 
-  "encoding":{
-      "tooltip":[{
-      "field":"properties.LAD13NM","type":"nominal","title":"Local Authority"},{"field":"% of local population","title":"% of local population"}],
-      "color":{
-      "field":"% of local population",
-      "type": "quantitative",
-      "scale":{
-        "scheme":"lightmulti",
-        "domain":[43, 77]}
-        }
-
+    "fontSize": 12,
+    "subtitle": [
+      "By Local Authority area. Source: ONS and PHE"
+    
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 10,
+    "anchor": "middle"
+  },
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2020,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2020,
+        "step": 1,
+        "name": "Year:"
+      }
     }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/percentageadultsoverweightorobese.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.Year == yearSelector"},
+    {
+      "lookup": "Area Name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/LAD21.json",
+          "format": {"property": "features"}
+        },
+        "key": "properties.LAD21NM",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "Value",
+      "legend": {"title": null, "orient": "right", "direction": "vertical"},
+      "type": "quantitative",
+      "scale": {"scheme": "lightmulti", "domain": [38, 78]}
+    },
+    "tooltip": [
+      {"field": "properties.LAD13NM", "type":"nominal", "title": "Local Authority"},
+      {"field": "Value", "type":"quantitative", "title": "% adults overweight or obese"},
+      {"field": "Year", "type":"nominal", "title": "Year"}
+    ]
+  }
 }
+
+

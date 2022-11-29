@@ -1,17 +1,17 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 450,
-  "height": 450,
+  "width": 550,
+  "height": 650,
   "view": {"stroke": "transparent"},
   "title": {
-    "text": "Rate of Adults Classified as Overweight or Obese",
-    "fontSize": 12,
+    "text": "Percentage of Adults Classified as Overweight or Obese",
+    "fontSize": 14,
     "subtitle": [
       "By Local Authority area. Source: ONS and PHE"
     
     ],
     "subtitleFontStyle": "italic",
-    "subtitleFontSize": 10,
+    "subtitleFontSize": 12,
     "anchor": "middle"
   },
   "params": [
@@ -50,16 +50,14 @@
   "encoding": {
     "color": {
       "field": "Value",
-      "legend": {"title": null, "orient": "right", "direction": "vertical"},
+      "legend": {"title": "%", "titleFontSize":12, "titleAlign":"left", "orient":"center", "direction": "vertical"},
       "type": "quantitative",
       "scale": {"scheme": "lightmulti", "domain": [38, 78]}
     },
     "tooltip": [
-      {"field": "properties.LAD13NM", "type":"nominal", "title": "Local Authority"},
-      {"field": "Value", "type":"quantitative", "title": "% adults overweight or obese"},
-      {"field": "Year", "type":"nominal", "title": "Year"}
+      {"field": "properties.LAD21NM", "type":"nominal", "title": "Local Authority"},
+      {"field": "Value", "type":"quantitative", "title": "Overweight/Obesity Rate"},
     ]
   }
 }
-
 

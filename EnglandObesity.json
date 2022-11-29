@@ -56,7 +56,7 @@
     },
     "tooltip": [
       {"field": "properties.LAD21NM", "type":"nominal", "title": "Local Authority"},
-      {"field": "Value", "type":"quantitative", "title": "Overweight/Obesity Rate"},
+      {"field": "Value", "type":"quantitative", "title": "Overweight/Obesity Rate"}
     ]
   }
 }

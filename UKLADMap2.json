@@ -30,6 +30,6 @@
 
 "encoding":{
     "tooltip":[{
-      "field":"properties.LAD21NM","type":"nominal","title":"Local Authority"}],
+      "field":"properties.LAD21NM","type":"nominal","title":"Local Authority"}]
     }
 }

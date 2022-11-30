@@ -1,135 +1,118 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    
-    "data": {
-      "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/Fast%20Food%20Density%20and%20Obesity.csv"
-    },
-    
-    "title": {
-      "text": "Obesity and Fast Food Outlet Density",
-      "fontSize":18,
-      "subtitle": "By local authority. Sources: Public Health England and ONS",
-      "subtitleFontStyle": "italic",
-      "subtitlePadding":4,
-      "subtitleFontSize": 14,
-      "anchor": "start",
-      "color": "black"
-    },
-    
-
-    "width": 650,
-    "height": 400,
-    "view": {"stroke": "transparent"},
-  
-    "layer": [
-      {
-        "mark": {
-          "type": "point",
-          "size":120,
-          "filled": true,
-          "color": "#5bbb07", 
-          "strokeWidth": 12,
-          "opacity": 0.7},
-  
-  "encoding": {
-      "x": {
-        "field": "Rate per 100,000 population 2017", 
-        "type": "quantitative",
-        "axis": {
-            "labelFontSize":14,
-            "tickCount": 8,
-            "tickWidth":12,
-            "ticks":true,
-            "tickOpacity":0,
-            "gridOpacity":0,
-            "titleFontSize":14,
-            "titleFontWeight": "bold"
-            },
-        "scale": {"domain": [20, 240]}, 
-        "title":"Fast Food Density (outlets per 100,000)"
-          },
-
-      "y": {
-        "field": "Percentage of adults (aged 18+) classified as overweight or obese 2020/21", 
-        "type": "quantitative",
-        "axis": {
-            "labelFontSize":14,
-            "tickCount": 8,
-            "tickWidth":12,
-            "ticks":true,
-            "tickOpacity":0,
-            "gridOpacity":0,
-            "titleFontSize":14,
-            "titleFontWeight": "bold"
-            },
-        "scale": {"domain": [43, 78]}, 
-        "title":"% adults classified as overweight or obese"
-          },
-    "tooltip": [
-        {
-            "field": "Percentage of adults (aged 18+) classified as overweight or obese 2020/21", 
-            "type": "quantitative", 
-            "title": "Obesity"
-        },
-        {
-            "field": "Rate per 100,000 population 2017", 
-            "type": "quantitative", 
-            "title": "Outlets per 100,000"
-            },
-        {
-            "field": "Area Name", 
-            "type": "nominal", 
-            "title": "Local Authority"
-            }
-        ]
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/FastFoodDensityAndObesity.csv"
+  },
+  "title": {
+    "text": "Obesity and Fast Food Outlet Density",
+    "fontSize": 18,
+    "subtitle": "By local authority. Sources: Public Health England and ONS",
+    "subtitleFontStyle": "italic",
+    "subtitlePadding": 4,
+    "subtitleFontSize": 14,
+    "anchor": "start",
+    "color": "black"
+  },
+  "width": 650,
+  "height": 400,
+  "view": {"stroke": "transparent"},
+  "layer": [
+    {
+      "mark": {
+        "type": "point",
+        "size": 120,
+        "filled": true,
+        "color": "#5bbb07",
+        "strokeWidth": 12,
+        "opacity": 0.7
       },
-      
-      {
-        "mark": {
-          "type": "line",
-          "color": "#bc0000"
-        },
-        "transform": [
-            {
-              "regression": "Percentage of adults (aged 18+) classified as overweight or obese 2020/21",
-              "on": "Rate per 100,000 population 2017"
-            }
-        ],
-        "encoding": {
-            "x": {
-              "field": "Rate per 100,000 population 2017",
-              "type": "quantitative"
-            },
-            "y": {
-              "field": "Percentage of adults (aged 18+) classified as overweight or obese 2020/21",
-              "type": "quantitative"
-            }
-          }
-        },
-
-        {
-        "transform": [
-          {
-            "regression": "Percentage of adults (aged 18+) classified as overweight or obese 2020/21",
-            "on": "Rate per 100,000 population 2017",
-            "params": true
+      "encoding": {
+        "x": {
+          "field": "Outlets per 100,000 population",
+          "type": "quantitative",
+          "axis": {
+            "labelFontSize": 14,
+            "tickCount": 8,
+            "tickWidth": 12,
+            "ticks": true,
+            "tickOpacity": 0,
+            "gridOpacity": 0,
+            "titleFontSize": 14,
+            "titleFontWeight": "bold"
           },
-          {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
-        ],
-        "mark": {
-          "type": "text",
-          "color": "#000000cc",
-          "fontSize":14,
-          "fontWeight":"bold",
-          "fontStyle":"italic",
-          "x": 10,
-          "align": "right",
-          "y":-20
+          "scale": {"domain": [20, 240]},
+          "title": "Fast Food Density (outlets per 100,000)"
         },
-        "encoding": {
-          "text": {"type": "nominal", "field": "R2"}
+        "y": {
+          "field": "Obesity Rate",
+          "type": "quantitative",
+          "axis": {
+            "labelFontSize": 14,
+            "tickCount": 8,
+            "tickWidth": 12,
+            "ticks": true,
+            "tickOpacity": 0,
+            "gridOpacity": 0,
+            "titleFontSize": 14,
+            "titleFontWeight": "bold"
+          },
+          "scale": {"domain": [43, 78]},
+          "title": "% adults classified as overweight or obese"
+        },
+        "tooltip": [
+          {
+            "field": "Obesity Rate",
+            "type": "quantitative",
+            "title": "Obesity"
+          },
+          {
+            "field": "Outlets per 100,000 population",
+            "type": "quantitative",
+            "title": "Outlets per 100,000"
+          },
+          {"field": "Area Name", "type": "nominal", "title": "Local Authority"}
+        ]
+      }
+    },
+    {
+      "mark": {"type": "line", "color": "#bc0000"},
+      "transform": [
+        {
+          "regression": "Obesity Rate",
+          "on": "Outlets per 100,000 population"
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Outlets per 100,000 population",
+          "type": "quantitative"
+        },
+        "y": {
+          "field": "Obesity Rate",
+          "type": "quantitative"
         }
       }
-    ]
+    },
+    {
+      "transform": [
+        {
+          "regression": "Obesity Rate",
+          "on": "Outlets per 100,000 population",
+          "params": true
+        },
+        {"calculate": "'R²: '+format(datum.rSquared, '.2f')", "as": "R2"}
+      ],
+      "mark": {
+        "type": "text",
+        "color": "#000000cc",
+        "fontSize": 14,
+        "fontWeight": "bold",
+        "fontStyle": "italic",
+        "x": 10,
+        "align": "right",
+        "y": -20
+      },
+      "encoding": {"text": {"type": "nominal", "field": "R2"}}
+    }
+  ]
 }

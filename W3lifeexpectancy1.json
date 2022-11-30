@@ -12,21 +12,2472 @@
   "height": 300,
   "width": 300,
   "data": {
-  "values":
-  [{"Continent": "Africa", "Date": "12-31-1950", "Life expectancy": 36.45}, {"Continent": "Africa", "Date": "12-31-1951", "Life expectancy": 36.712}, {"Continent": "Africa", "Date": "12-31-1952", "Life expectancy": 37.234}, {"Continent": "Africa", "Date": "12-31-1953", "Life expectancy": 37.754}, {"Continent": "Africa", "Date": "12-31-1954", "Life expectancy": 38.27}, {"Continent": "Africa", "Date": "12-31-1955", "Life expectancy": 38.783}, {"Continent": "Africa", "Date": "12-31-1956", "Life expectancy": 39.293}, {"Continent": "Africa", "Date": "12-31-1957", "Life expectancy": 39.799}, {"Continent": "Africa", "Date": "12-31-1958", "Life expectancy": 40.299}, {"Continent": "Africa", "Date": "12-31-1959", "Life expectancy": 40.793}, {"Continent": "Africa", "Date": "12-31-1960", "Life expectancy": 41.277}, {"Continent": "Africa", "Date": "12-31-1961", "Life expectancy": 41.75}, {"Continent": "Africa", "Date": "12-31-1962", "Life expectancy": 42.211}, {"Continent": "Africa", "Date": "12-31-1963", "Life expectancy": 42.657}, {"Continent": "Africa", "Date": "12-31-1964", "Life expectancy": 43.091}, {"Continent": "Africa", "Date": "12-31-1965", "Life expectancy": 43.513}, {"Continent": "Africa", "Date": "12-31-1966", "Life expectancy": 43.927}, {"Continent": "Africa", "Date": "12-31-1967", "Life expectancy": 44.335}, {"Continent": "Africa", "Date": "12-31-1968", "Life expectancy": 44.742}, {"Continent": "Africa", "Date": "12-31-1969", "Life expectancy": 45.15}, {"Continent": "Africa", "Date": "12-31-1970", "Life expectancy": 45.563}, {"Continent": "Africa", "Date": "12-31-1971", "Life expectancy": 45.984}, {"Continent": "Africa", "Date": "12-31-1972", "Life expectancy": 46.414}, {"Continent": "Africa", "Date": "12-31-1973", "Life expectancy": 46.85}, {"Continent": "Africa", "Date": "12-31-1974", "Life expectancy": 47.29}, {"Continent": "Africa", "Date": "12-31-1975", "Life expectancy": 47.733}, {"Continent": "Africa", "Date": "12-31-1976", "Life expectancy": 48.175}, {"Continent": "Africa", "Date": "12-31-1977", "Life expectancy": 48.612}, {"Continent": "Africa", "Date": "12-31-1978", "Life expectancy": 49.04}, {"Continent": "Africa", "Date": "12-31-1979", "Life expectancy": 49.452}, {"Continent": "Africa", "Date": "12-31-1980", "Life expectancy": 49.851}, {"Continent": "Africa", "Date": "12-31-1981", "Life expectancy": 50.235}, {"Continent": "Africa", "Date": "12-31-1982", "Life expectancy": 50.606}, {"Continent": "Africa", "Date": "12-31-1983", "Life expectancy": 50.959}, {"Continent": "Africa", "Date": "12-31-1984", "Life expectancy": 51.286}, {"Continent": "Africa", "Date": "12-31-1985", "Life expectancy": 51.571}, {"Continent": "Africa", "Date": "12-31-1986", "Life expectancy": 51.798}, {"Continent": "Africa", "Date": "12-31-1987", "Life expectancy": 51.959}, {"Continent": "Africa", "Date": "12-31-1988", "Life expectancy": 52.054}, {"Continent": "Africa", "Date": "12-31-1989", "Life expectancy": 52.092}, {"Continent": "Africa", "Date": "12-31-1990", "Life expectancy": 52.083}, {"Continent": "Africa", "Date": "12-31-1991", "Life expectancy": 52.047}, {"Continent": "Africa", "Date": "12-31-1992", "Life expectancy": 52.005}, {"Continent": "Africa", "Date": "12-31-1993", "Life expectancy": 51.978}, {"Continent": "Africa", "Date": "12-31-1994", "Life expectancy": 51.982}, {"Continent": "Africa", "Date": "12-31-1995", "Life expectancy": 52.022}, {"Continent": "Africa", "Date": "12-31-1996", "Life expectancy": 52.095}, {"Continent": "Africa", "Date": "12-31-1997", "Life expectancy": 52.195}, {"Continent": "Africa", "Date": "12-31-1998", "Life expectancy": 52.323}, {"Continent": "Africa", "Date": "12-31-1999", "Life expectancy": 52.487}, {"Continent": "Africa", "Date": "12-31-2000", "Life expectancy": 52.705}, {"Continent": "Africa", "Date": "12-31-2001", "Life expectancy": 52.995}, {"Continent": "Africa", "Date": "12-31-2002", "Life expectancy": 53.368}, {"Continent": "Africa", "Date": "12-31-2003", "Life expectancy": 53.827}, {"Continent": "Africa", "Date": "12-31-2004", "Life expectancy": 54.367}, {"Continent": "Africa", "Date": "12-31-2005", "Life expectancy": 54.982}, {"Continent": "Africa", "Date": "12-31-2006", "Life expectancy": 55.661}, {"Continent": "Africa", "Date": "12-31-2007", "Life expectancy": 56.382}, {"Continent": "Africa", "Date": "12-31-2008", "Life expectancy": 57.121}, {"Continent": "Africa", "Date": "12-31-2009", "Life expectancy": 57.858}, {"Continent": "Africa", "Date": "12-31-2010", "Life expectancy": 58.576}, {"Continent": "Africa", "Date": "12-31-2011", "Life expectancy": 59.263}, {"Continent": "Africa", "Date": "12-31-2012", "Life expectancy": 59.914}, {"Continent": "Africa", "Date": "12-31-2013", "Life expectancy": 60.527}, {"Continent": "Africa", "Date": "12-31-2014", "Life expectancy": 61.093}, {"Continent": "Africa", "Date": "12-31-2015", "Life expectancy": 61.607}, {"Continent": "Africa", "Date": "12-31-2016", "Life expectancy": 62.064}, {"Continent": "Africa", "Date": "12-31-2017", "Life expectancy": 62.472}, {"Continent": "Africa", "Date": "12-31-2018", "Life expectancy": 62.839}, {"Continent": "Africa", "Date": "12-31-2019", "Life expectancy": 63.17}, {"Continent": "Americas", "Date": "12-31-1950", "Life expectancy": 59.30469677}, {"Continent": "Americas", "Date": "12-31-1951", "Life expectancy": 59.46994456}, {"Continent": "Americas", "Date": "12-31-1952", "Life expectancy": 59.85612063}, {"Continent": "Americas", "Date": "12-31-1953", "Life expectancy": 60.23429871}, {"Continent": "Americas", "Date": "12-31-1954", "Life expectancy": 60.60279722}, {"Continent": "Americas", "Date": "12-31-1955", "Life expectancy": 60.95963613}, {"Continent": "Americas", "Date": "12-31-1956", "Life expectancy": 61.30299762}, {"Continent": "Americas", "Date": "12-31-1957", "Life expectancy": 61.63176706}, {"Continent": "Americas", "Date": "12-31-1958", "Life expectancy": 61.94457224}, {"Continent": "Americas", "Date": "12-31-1959", "Life expectancy": 62.23971836}, {"Continent": "Americas", "Date": "12-31-1960", "Life expectancy": 62.51586761}, {"Continent": "Americas", "Date": "12-31-1961", "Life expectancy": 62.77254009}, {"Continent": "Americas", "Date": "12-31-1962", "Life expectancy": 63.01148094}, {"Continent": "Americas", "Date": "12-31-1963", "Life expectancy": 63.23578485}, {"Continent": "Americas", "Date": "12-31-1964", "Life expectancy": 63.45157331}, {"Continent": "Americas", "Date": "12-31-1965", "Life expectancy": 63.66625528}, {"Continent": "Americas", "Date": "12-31-1966", "Life expectancy": 63.88622618}, {"Continent": "Americas", "Date": "12-31-1967", "Life expectancy": 64.11691127}, {"Continent": "Americas", "Date": "12-31-1968", "Life expectancy": 64.36515254}, {"Continent": "Americas", "Date": "12-31-1969", "Life expectancy": 64.63369933}, {"Continent": "Americas", "Date": "12-31-1970", "Life expectancy": 64.92574088}, {"Continent": "Americas", "Date": "12-31-1971", "Life expectancy": 65.24267958}, {"Continent": "Americas", "Date": "12-31-1972", "Life expectancy": 65.58026746}, {"Continent": "Americas", "Date": "12-31-1973", "Life expectancy": 65.93072577}, {"Continent": "Americas", "Date": "12-31-1974", "Life expectancy": 66.28955265}, {"Continent": "Americas", "Date": "12-31-1975", "Life expectancy": 66.65087235}, {"Continent": "Americas", "Date": "12-31-1976", "Life expectancy": 67.00899463}, {"Continent": "Americas", "Date": "12-31-1977", "Life expectancy": 67.35940074}, {"Continent": "Americas", "Date": "12-31-1978", "Life expectancy": 67.69830141}, {"Continent": "Americas", "Date": "12-31-1979", "Life expectancy": 68.02206614}, {"Continent": "Americas", "Date": "12-31-1980", "Life expectancy": 68.32929356}, {"Continent": "Americas", "Date": "12-31-1981", "Life expectancy": 68.61703445}, {"Continent": "Americas", "Date": "12-31-1982", "Life expectancy": 68.89015226}, {"Continent": "Americas", "Date": "12-31-1983", "Life expectancy": 69.1519207}, {"Continent": "Americas", "Date": "12-31-1984", "Life expectancy": 69.40474575}, {"Continent": "Americas", "Date": "12-31-1985", "Life expectancy": 69.65325858}, {"Continent": "Americas", "Date": "12-31-1986", "Life expectancy": 69.90010634}, {"Continent": "Americas", "Date": "12-31-1987", "Life expectancy": 70.14853528}, {"Continent": "Americas", "Date": "12-31-1988", "Life expectancy": 70.40128342}, {"Continent": "Americas", "Date": "12-31-1989", "Life expectancy": 70.65779572}, {"Continent": "Americas", "Date": "12-31-1990", "Life expectancy": 70.92044409}, {"Continent": "Americas", "Date": "12-31-1991", "Life expectancy": 71.18773869}, {"Continent": "Americas", "Date": "12-31-1992", "Life expectancy": 71.45792226}, {"Continent": "Americas", "Date": "12-31-1993", "Life expectancy": 71.72880883}, {"Continent": "Americas", "Date": "12-31-1994", "Life expectancy": 71.99914275}, {"Continent": "Americas", "Date": "12-31-1995", "Life expectancy": 72.26824757}, {"Continent": "Americas", "Date": "12-31-1996", "Life expectancy": 72.53597252}, {"Continent": "Americas", "Date": "12-31-1997", "Life expectancy": 72.8009705}, {"Continent": "Americas", "Date": "12-31-1998", "Life expectancy": 73.06324586}, {"Continent": "Americas", "Date": "12-31-1999", "Life expectancy": 73.32034347}, {"Continent": "Americas", "Date": "12-31-2000", "Life expectancy": 73.57207701}, {"Continent": "Americas", "Date": "12-31-2001", "Life expectancy": 73.81901117}, {"Continent": "Americas", "Date": "12-31-2002", "Life expectancy": 74.06140216}, {"Continent": "Americas", "Date": "12-31-2003", "Life expectancy": 74.29901207}, {"Continent": "Americas", "Date": "12-31-2004", "Life expectancy": 74.53184348}, {"Continent": "Americas", "Date": "12-31-2005", "Life expectancy": 74.75972955}, {"Continent": "Americas", "Date": "12-31-2006", "Life expectancy": 74.98255907}, {"Continent": "Americas", "Date": "12-31-2007", "Life expectancy": 75.19889267}, {"Continent": "Americas", "Date": "12-31-2008", "Life expectancy": 75.40791766}, {"Continent": "Americas", "Date": "12-31-2009", "Life expectancy": 75.6064355}, {"Continent": "Americas", "Date": "12-31-2010", "Life expectancy": 75.79106424}, {"Continent": "Americas", "Date": "12-31-2011", "Life expectancy": 75.95720977}, {"Continent": "Americas", "Date": "12-31-2012", "Life expectancy": 76.10318017}, {"Continent": "Americas", "Date": "12-31-2013", "Life expectancy": 76.23112521}, {"Continent": "Americas", "Date": "12-31-2014", "Life expectancy": 76.34333386}, {"Continent": "Americas", "Date": "12-31-2015", "Life expectancy": 76.44286453}, {"Continent": "Americas", "Date": "12-31-2016", "Life expectancy": 76.53703933}, {"Continent": "Americas", "Date": "12-31-2017", "Life expectancy": 76.62993096}, {"Continent": "Americas", "Date": "12-31-2018", "Life expectancy": 76.72842701}, {"Continent": "Americas", "Date": "12-31-2019", "Life expectancy": 76.83538896}, {"Continent": "Asia", "Date": "12-31-1950", "Life expectancy": 41.115}, {"Continent": "Asia", "Date": "12-31-1951", "Life expectancy": 41.447}, {"Continent": "Asia", "Date": "12-31-1952", "Life expectancy": 42.076}, {"Continent": "Asia", "Date": "12-31-1953", "Life expectancy": 42.634}, {"Continent": "Asia", "Date": "12-31-1954", "Life expectancy": 43.122}, {"Continent": "Asia", "Date": "12-31-1955", "Life expectancy": 43.543}, {"Continent": "Asia", "Date": "12-31-1956", "Life expectancy": 43.906}, {"Continent": "Asia", "Date": "12-31-1957", "Life expectancy": 44.224}, {"Continent": "Asia", "Date": "12-31-1958", "Life expectancy": 44.522}, {"Continent": "Asia", "Date": "12-31-1959", "Life expectancy": 44.842}, {"Continent": "Asia", "Date": "12-31-1960", "Life expectancy": 45.235}, {"Continent": "Asia", "Date": "12-31-1961", "Life expectancy": 45.748}, {"Continent": "Asia", "Date": "12-31-1962", "Life expectancy": 46.423}, {"Continent": "Asia", "Date": "12-31-1963", "Life expectancy": 47.28}, {"Continent": "Asia", "Date": "12-31-1964", "Life expectancy": 48.306}, {"Continent": "Asia", "Date": "12-31-1965", "Life expectancy": 49.456}, {"Continent": "Asia", "Date": "12-31-1966", "Life expectancy": 50.664}, {"Continent": "Asia", "Date": "12-31-1967", "Life expectancy": 51.851}, {"Continent": "Asia", "Date": "12-31-1968", "Life expectancy": 52.95}, {"Continent": "Asia", "Date": "12-31-1969", "Life expectancy": 53.93}, {"Continent": "Asia", "Date": "12-31-1970", "Life expectancy": 54.778}, {"Continent": "Asia", "Date": "12-31-1971", "Life expectancy": 55.505}, {"Continent": "Asia", "Date": "12-31-1972", "Life expectancy": 56.155}, {"Continent": "Asia", "Date": "12-31-1973", "Life expectancy": 56.764}, {"Continent": "Asia", "Date": "12-31-1974", "Life expectancy": 57.345}, {"Continent": "Asia", "Date": "12-31-1975", "Life expectancy": 57.904}, {"Continent": "Asia", "Date": "12-31-1976", "Life expectancy": 58.445}, {"Continent": "Asia", "Date": "12-31-1977", "Life expectancy": 58.962}, {"Continent": "Asia", "Date": "12-31-1978", "Life expectancy": 59.456}, {"Continent": "Asia", "Date": "12-31-1979", "Life expectancy": 59.928}, {"Continent": "Asia", "Date": "12-31-1980", "Life expectancy": 60.385}, {"Continent": "Asia", "Date": "12-31-1981", "Life expectancy": 60.83}, {"Continent": "Asia", "Date": "12-31-1982", "Life expectancy": 61.265}, {"Continent": "Asia", "Date": "12-31-1983", "Life expectancy": 61.689}, {"Continent": "Asia", "Date": "12-31-1984", "Life expectancy": 62.105}, {"Continent": "Asia", "Date": "12-31-1985", "Life expectancy": 62.508}, {"Continent": "Asia", "Date": "12-31-1986", "Life expectancy": 62.896}, {"Continent": "Asia", "Date": "12-31-1987", "Life expectancy": 63.263}, {"Continent": "Asia", "Date": "12-31-1988", "Life expectancy": 63.61}, {"Continent": "Asia", "Date": "12-31-1989", "Life expectancy": 63.938}, {"Continent": "Asia", "Date": "12-31-1990", "Life expectancy": 64.25}, {"Continent": "Asia", "Date": "12-31-1991", "Life expectancy": 64.551}, {"Continent": "Asia", "Date": "12-31-1992", "Life expectancy": 64.846}, {"Continent": "Asia", "Date": "12-31-1993", "Life expectancy": 65.14}, {"Continent": "Asia", "Date": "12-31-1994", "Life expectancy": 65.44}, {"Continent": "Asia", "Date": "12-31-1995", "Life expectancy": 65.748}, {"Continent": "Asia", "Date": "12-31-1996", "Life expectancy": 66.067}, {"Continent": "Asia", "Date": "12-31-1997", "Life expectancy": 66.397}, {"Continent": "Asia", "Date": "12-31-1998", "Life expectancy": 66.735}, {"Continent": "Asia", "Date": "12-31-1999", "Life expectancy": 67.081}, {"Continent": "Asia", "Date": "12-31-2000", "Life expectancy": 67.432}, {"Continent": "Asia", "Date": "12-31-2001", "Life expectancy": 67.786}, {"Continent": "Asia", "Date": "12-31-2002", "Life expectancy": 68.139}, {"Continent": "Asia", "Date": "12-31-2003", "Life expectancy": 68.489}, {"Continent": "Asia", "Date": "12-31-2004", "Life expectancy": 68.835}, {"Continent": "Asia", "Date": "12-31-2005", "Life expectancy": 69.179}, {"Continent": "Asia", "Date": "12-31-2006", "Life expectancy": 69.525}, {"Continent": "Asia", "Date": "12-31-2007", "Life expectancy": 69.876}, {"Continent": "Asia", "Date": "12-31-2008", "Life expectancy": 70.231}, {"Continent": "Asia", "Date": "12-31-2009", "Life expectancy": 70.591}, {"Continent": "Asia", "Date": "12-31-2010", "Life expectancy": 70.951}, {"Continent": "Asia", "Date": "12-31-2011", "Life expectancy": 71.309}, {"Continent": "Asia", "Date": "12-31-2012", "Life expectancy": 71.659}, {"Continent": "Asia", "Date": "12-31-2013", "Life expectancy": 71.997}, {"Continent": "Asia", "Date": "12-31-2014", "Life expectancy": 72.319}, {"Continent": "Asia", "Date": "12-31-2015", "Life expectancy": 72.62}, {"Continent": "Asia", "Date": "12-31-2016", "Life expectancy": 72.897}, {"Continent": "Asia", "Date": "12-31-2017", "Life expectancy": 73.15}, {"Continent": "Asia", "Date": "12-31-2018", "Life expectancy": 73.381}, {"Continent": "Asia", "Date": "12-31-2019", "Life expectancy": 73.593}, {"Continent": "Europe", "Date": "12-31-1950", "Life expectancy": 61.989}, {"Continent": "Europe", "Date": "12-31-1951", "Life expectancy": 62.441}, {"Continent": "Europe", "Date": "12-31-1952", "Life expectancy": 63.317}, {"Continent": "Europe", "Date": "12-31-1953", "Life expectancy": 64.14}, {"Continent": "Europe", "Date": "12-31-1954", "Life expectancy": 64.91}, {"Continent": "Europe", "Date": "12-31-1955", "Life expectancy": 65.625}, {"Continent": "Europe", "Date": "12-31-1956", "Life expectancy": 66.286}, {"Continent": "Europe", "Date": "12-31-1957", "Life expectancy": 66.893}, {"Continent": "Europe", "Date": "12-31-1958", "Life expectancy": 67.444}, {"Continent": "Europe", "Date": "12-31-1959", "Life expectancy": 67.939}, {"Continent": "Europe", "Date": "12-31-1960", "Life expectancy": 68.375}, {"Continent": "Europe", "Date": "12-31-1961", "Life expectancy": 68.754}, {"Continent": "Europe", "Date": "12-31-1962", "Life expectancy": 69.075}, {"Continent": "Europe", "Date": "12-31-1963", "Life expectancy": 69.343}, {"Continent": "Europe", "Date": "12-31-1964", "Life expectancy": 69.565}, {"Continent": "Europe", "Date": "12-31-1965", "Life expectancy": 69.749}, {"Continent": "Europe", "Date": "12-31-1966", "Life expectancy": 69.903}, {"Continent": "Europe", "Date": "12-31-1967", "Life expectancy": 70.035}, {"Continent": "Europe", "Date": "12-31-1968", "Life expectancy": 70.153}, {"Continent": "Europe", "Date": "12-31-1969", "Life expectancy": 70.264}, {"Continent": "Europe", "Date": "12-31-1970", "Life expectancy": 70.372}, {"Continent": "Europe", "Date": "12-31-1971", "Life expectancy": 70.476}, {"Continent": "Europe", "Date": "12-31-1972", "Life expectancy": 70.574}, {"Continent": "Europe", "Date": "12-31-1973", "Life expectancy": 70.665}, {"Continent": "Europe", "Date": "12-31-1974", "Life expectancy": 70.752}, {"Continent": "Europe", "Date": "12-31-1975", "Life expectancy": 70.836}, {"Continent": "Europe", "Date": "12-31-1976", "Life expectancy": 70.918}, {"Continent": "Europe", "Date": "12-31-1977", "Life expectancy": 71.001}, {"Continent": "Europe", "Date": "12-31-1978", "Life expectancy": 71.089}, {"Continent": "Europe", "Date": "12-31-1979", "Life expectancy": 71.186}, {"Continent": "Europe", "Date": "12-31-1980", "Life expectancy": 71.302}, {"Continent": "Europe", "Date": "12-31-1981", "Life expectancy": 71.451}, {"Continent": "Europe", "Date": "12-31-1982", "Life expectancy": 71.633}, {"Continent": "Europe", "Date": "12-31-1983", "Life expectancy": 71.844}, {"Continent": "Europe", "Date": "12-31-1984", "Life expectancy": 72.075}, {"Continent": "Europe", "Date": "12-31-1985", "Life expectancy": 72.304}, {"Continent": "Europe", "Date": "12-31-1986", "Life expectancy": 72.506}, {"Continent": "Europe", "Date": "12-31-1987", "Life expectancy": 72.662}, {"Continent": "Europe", "Date": "12-31-1988", "Life expectancy": 72.763}, {"Continent": "Europe", "Date": "12-31-1989", "Life expectancy": 72.808}, {"Continent": "Europe", "Date": "12-31-1990", "Life expectancy": 72.808}, {"Continent": "Europe", "Date": "12-31-1991", "Life expectancy": 72.781}, {"Continent": "Europe", "Date": "12-31-1992", "Life expectancy": 72.754}, {"Continent": "Europe", "Date": "12-31-1993", "Life expectancy": 72.747}, {"Continent": "Europe", "Date": "12-31-1994", "Life expectancy": 72.771}, {"Continent": "Europe", "Date": "12-31-1995", "Life expectancy": 72.827}, {"Continent": "Europe", "Date": "12-31-1996", "Life expectancy": 72.911}, {"Continent": "Europe", "Date": "12-31-1997", "Life expectancy": 73.011}, {"Continent": "Europe", "Date": "12-31-1998", "Life expectancy": 73.12}, {"Continent": "Europe", "Date": "12-31-1999", "Life expectancy": 73.239}, {"Continent": "Europe", "Date": "12-31-2000", "Life expectancy": 73.372}, {"Continent": "Europe", "Date": "12-31-2001", "Life expectancy": 73.527}, {"Continent": "Europe", "Date": "12-31-2002", "Life expectancy": 73.709}, {"Continent": "Europe", "Date": "12-31-2003", "Life expectancy": 73.924}, {"Continent": "Europe", "Date": "12-31-2004", "Life expectancy": 74.173}, {"Continent": "Europe", "Date": "12-31-2005", "Life expectancy": 74.457}, {"Continent": "Europe", "Date": "12-31-2006", "Life expectancy": 74.778}, {"Continent": "Europe", "Date": "12-31-2007", "Life expectancy": 75.129}, {"Continent": "Europe", "Date": "12-31-2008", "Life expectancy": 75.501}, {"Continent": "Europe", "Date": "12-31-2009", "Life expectancy": 75.884}, {"Continent": "Europe", "Date": "12-31-2010", "Life expectancy": 76.265}, {"Continent": "Europe", "Date": "12-31-2011", "Life expectancy": 76.634}, {"Continent": "Europe", "Date": "12-31-2012", "Life expectancy": 76.981}, {"Continent": "Europe", "Date": "12-31-2013", "Life expectancy": 77.301}, {"Continent": "Europe", "Date": "12-31-2014", "Life expectancy": 77.588}, {"Continent": "Europe", "Date": "12-31-2015", "Life expectancy": 77.839}, {"Continent": "Europe", "Date": "12-31-2016", "Life expectancy": 78.057}, {"Continent": "Europe", "Date": "12-31-2017", "Life expectancy": 78.25}, {"Continent": "Europe", "Date": "12-31-2018", "Life expectancy": 78.425}, {"Continent": "Europe", "Date": "12-31-2019", "Life expectancy": 78.587}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1950", "Life expectancy": 50.205}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1951", "Life expectancy": 50.509}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1952", "Life expectancy": 51.113}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1953", "Life expectancy": 51.707}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1954", "Life expectancy": 52.291}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1955", "Life expectancy": 52.866}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1956", "Life expectancy": 53.43}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1957", "Life expectancy": 53.983}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1958", "Life expectancy": 54.525}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1959", "Life expectancy": 55.053}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1960", "Life expectancy": 55.566}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1961", "Life expectancy": 56.063}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1962", "Life expectancy": 56.542}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1963", "Life expectancy": 57.004}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1964", "Life expectancy": 57.452}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1965", "Life expectancy": 57.891}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1966", "Life expectancy": 58.326}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1967", "Life expectancy": 58.761}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1968", "Life expectancy": 59.201}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1969", "Life expectancy": 59.646}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1970", "Life expectancy": 60.095}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1971", "Life expectancy": 60.547}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1972", "Life expectancy": 60.997}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1973", "Life expectancy": 61.44}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1974", "Life expectancy": 61.876}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1975", "Life expectancy": 62.303}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1976", "Life expectancy": 62.721}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1977", "Life expectancy": 63.131}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1978", "Life expectancy": 63.536}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1979", "Life expectancy": 63.934}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1980", "Life expectancy": 64.328}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1981", "Life expectancy": 64.716}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1982", "Life expectancy": 65.1}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1983", "Life expectancy": 65.48}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1984", "Life expectancy": 65.856}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1985", "Life expectancy": 66.23}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1986", "Life expectancy": 66.601}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1987", "Life expectancy": 66.97}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1988", "Life expectancy": 67.338}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1989", "Life expectancy": 67.702}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1990", "Life expectancy": 68.065}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1991", "Life expectancy": 68.425}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1992", "Life expectancy": 68.783}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1993", "Life expectancy": 69.137}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1994", "Life expectancy": 69.487}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1995", "Life expectancy": 69.833}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1996", "Life expectancy": 70.176}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1997", "Life expectancy": 70.515}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1998", "Life expectancy": 70.851}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-1999", "Life expectancy": 71.18}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2000", "Life expectancy": 71.5}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2001", "Life expectancy": 71.808}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2002", "Life expectancy": 72.103}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2003", "Life expectancy": 72.383}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2004", "Life expectancy": 72.648}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2005", "Life expectancy": 72.898}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2006", "Life expectancy": 73.134}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2007", "Life expectancy": 73.357}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2008", "Life expectancy": 73.572}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2009", "Life expectancy": 73.778}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2010", "Life expectancy": 73.977}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2011", "Life expectancy": 74.167}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2012", "Life expectancy": 74.348}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2013", "Life expectancy": 74.522}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2014", "Life expectancy": 74.69}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2015", "Life expectancy": 74.852}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2016", "Life expectancy": 75.012}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2017", "Life expectancy": 75.169}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2018", "Life expectancy": 75.327}, {"Continent": "Latin America and the Caribbean", "Date": "12-31-2019", "Life expectancy": 75.486}, {"Continent": "Northern America", "Date": "12-31-1950", "Life expectancy": 68.205}, {"Continent": "Northern America", "Date": "12-31-1951", "Life expectancy": 68.342}, {"Continent": "Northern America", "Date": "12-31-1952", "Life expectancy": 68.606}, {"Continent": "Northern America", "Date": "12-31-1953", "Life expectancy": 68.851}, {"Continent": "Northern America", "Date": "12-31-1954", "Life expectancy": 69.077}, {"Continent": "Northern America", "Date": "12-31-1955", "Life expectancy": 69.282}, {"Continent": "Northern America", "Date": "12-31-1956", "Life expectancy": 69.467}, {"Continent": "Northern America", "Date": "12-31-1957", "Life expectancy": 69.632}, {"Continent": "Northern America", "Date": "12-31-1958", "Life expectancy": 69.776}, {"Continent": "Northern America", "Date": "12-31-1959", "Life expectancy": 69.9}, {"Continent": "Northern America", "Date": "12-31-1960", "Life expectancy": 70.003}, {"Continent": "Northern America", "Date": "12-31-1961", "Life expectancy": 70.085}, {"Continent": "Northern America", "Date": "12-31-1962", "Life expectancy": 70.151}, {"Continent": "Northern America", "Date": "12-31-1963", "Life expectancy": 70.205}, {"Continent": "Northern America", "Date": "12-31-1964", "Life expectancy": 70.255}, {"Continent": "Northern America", "Date": "12-31-1965", "Life expectancy": 70.31}, {"Continent": "Northern America", "Date": "12-31-1966", "Life expectancy": 70.378}, {"Continent": "Northern America", "Date": "12-31-1967", "Life expectancy": 70.466}, {"Continent": "Northern America", "Date": "12-31-1968", "Life expectancy": 70.582}, {"Continent": "Northern America", "Date": "12-31-1969", "Life expectancy": 70.731}, {"Continent": "Northern America", "Date": "12-31-1970", "Life expectancy": 70.921}, {"Continent": "Northern America", "Date": "12-31-1971", "Life expectancy": 71.157}, {"Continent": "Northern America", "Date": "12-31-1972", "Life expectancy": 71.437}, {"Continent": "Northern America", "Date": "12-31-1973", "Life expectancy": 71.751}, {"Continent": "Northern America", "Date": "12-31-1974", "Life expectancy": 72.09}, {"Continent": "Northern America", "Date": "12-31-1975", "Life expectancy": 72.444}, {"Continent": "Northern America", "Date": "12-31-1976", "Life expectancy": 72.8}, {"Continent": "Northern America", "Date": "12-31-1977", "Life expectancy": 73.146}, {"Continent": "Northern America", "Date": "12-31-1978", "Life expectancy": 73.469}, {"Continent": "Northern America", "Date": "12-31-1979", "Life expectancy": 73.763}, {"Continent": "Northern America", "Date": "12-31-1980", "Life expectancy": 74.02}, {"Continent": "Northern America", "Date": "12-31-1981", "Life expectancy": 74.235}, {"Continent": "Northern America", "Date": "12-31-1982", "Life expectancy": 74.416}, {"Continent": "Northern America", "Date": "12-31-1983", "Life expectancy": 74.57}, {"Continent": "Northern America", "Date": "12-31-1984", "Life expectancy": 74.702}, {"Continent": "Northern America", "Date": "12-31-1985", "Life expectancy": 74.82}, {"Continent": "Northern America", "Date": "12-31-1986", "Life expectancy": 74.932}, {"Continent": "Northern America", "Date": "12-31-1987", "Life expectancy": 75.045}, {"Continent": "Northern America", "Date": "12-31-1988", "Life expectancy": 75.165}, {"Continent": "Northern America", "Date": "12-31-1989", "Life expectancy": 75.296}, {"Continent": "Northern America", "Date": "12-31-1990", "Life expectancy": 75.44}, {"Continent": "Northern America", "Date": "12-31-1991", "Life expectancy": 75.597}, {"Continent": "Northern America", "Date": "12-31-1992", "Life expectancy": 75.761}, {"Continent": "Northern America", "Date": "12-31-1993", "Life expectancy": 75.929}, {"Continent": "Northern America", "Date": "12-31-1994", "Life expectancy": 76.097}, {"Continent": "Northern America", "Date": "12-31-1995", "Life expectancy": 76.263}, {"Continent": "Northern America", "Date": "12-31-1996", "Life expectancy": 76.425}, {"Continent": "Northern America", "Date": "12-31-1997", "Life expectancy": 76.582}, {"Continent": "Northern America", "Date": "12-31-1998", "Life expectancy": 76.734}, {"Continent": "Northern America", "Date": "12-31-1999", "Life expectancy": 76.883}, {"Continent": "Northern America", "Date": "12-31-2000", "Life expectancy": 77.033}, {"Continent": "Northern America", "Date": "12-31-2001", "Life expectancy": 77.191}, {"Continent": "Northern America", "Date": "12-31-2002", "Life expectancy": 77.359}, {"Continent": "Northern America", "Date": "12-31-2003", "Life expectancy": 77.539}, {"Continent": "Northern America", "Date": "12-31-2004", "Life expectancy": 77.73}, {"Continent": "Northern America", "Date": "12-31-2005", "Life expectancy": 77.931}, {"Continent": "Northern America", "Date": "12-31-2006", "Life expectancy": 78.14}, {"Continent": "Northern America", "Date": "12-31-2007", "Life expectancy": 78.352}, {"Continent": "Northern America", "Date": "12-31-2008", "Life expectancy": 78.557}, {"Continent": "Northern America", "Date": "12-31-2009", "Life expectancy": 78.749}, {"Continent": "Northern America", "Date": "12-31-2010", "Life expectancy": 78.916}, {"Continent": "Northern America", "Date": "12-31-2011", "Life expectancy": 79.049}, {"Continent": "Northern America", "Date": "12-31-2012", "Life expectancy": 79.143}, {"Continent": "Northern America", "Date": "12-31-2013", "Life expectancy": 79.2}, {"Continent": "Northern America", "Date": "12-31-2014", "Life expectancy": 79.224}, {"Continent": "Northern America", "Date": "12-31-2015", "Life expectancy": 79.223}, {"Continent": "Northern America", "Date": "12-31-2016", "Life expectancy": 79.21}, {"Continent": "Northern America", "Date": "12-31-2017", "Life expectancy": 79.198}, {"Continent": "Northern America", "Date": "12-31-2018", "Life expectancy": 79.199}, {"Continent": "Northern America", "Date": "12-31-2019", "Life expectancy": 79.221}, {"Continent": "Oceania", "Date": "12-31-1950", "Life expectancy": 57.729}, {"Continent": "Oceania", "Date": "12-31-1951", "Life expectancy": 58.094}, {"Continent": "Oceania", "Date": "12-31-1952", "Life expectancy": 58.801}, {"Continent": "Oceania", "Date": "12-31-1953", "Life expectancy": 59.459}, {"Continent": "Oceania", "Date": "12-31-1954", "Life expectancy": 60.068}, {"Continent": "Oceania", "Date": "12-31-1955", "Life expectancy": 60.629}, {"Continent": "Oceania", "Date": "12-31-1956", "Life expectancy": 61.14}, {"Continent": "Oceania", "Date": "12-31-1957", "Life expectancy": 61.603}, {"Continent": "Oceania", "Date": "12-31-1958", "Life expectancy": 62.02}, {"Continent": "Oceania", "Date": "12-31-1959", "Life expectancy": 62.393}, {"Continent": "Oceania", "Date": "12-31-1960", "Life expectancy": 62.723}, {"Continent": "Oceania", "Date": "12-31-1961", "Life expectancy": 63.017}, {"Continent": "Oceania", "Date": "12-31-1962", "Life expectancy": 63.281}, {"Continent": "Oceania", "Date": "12-31-1963", "Life expectancy": 63.523}, {"Continent": "Oceania", "Date": "12-31-1964", "Life expectancy": 63.754}, {"Continent": "Oceania", "Date": "12-31-1965", "Life expectancy": 63.985}, {"Continent": "Oceania", "Date": "12-31-1966", "Life expectancy": 64.226}, {"Continent": "Oceania", "Date": "12-31-1967", "Life expectancy": 64.482}, {"Continent": "Oceania", "Date": "12-31-1968", "Life expectancy": 64.756}, {"Continent": "Oceania", "Date": "12-31-1969", "Life expectancy": 65.053}, {"Continent": "Oceania", "Date": "12-31-1970", "Life expectancy": 65.374}, {"Continent": "Oceania", "Date": "12-31-1971", "Life expectancy": 65.719}, {"Continent": "Oceania", "Date": "12-31-1972", "Life expectancy": 66.081}, {"Continent": "Oceania", "Date": "12-31-1973", "Life expectancy": 66.453}, {"Continent": "Oceania", "Date": "12-31-1974", "Life expectancy": 66.83}, {"Continent": "Oceania", "Date": "12-31-1975", "Life expectancy": 67.21}, {"Continent": "Oceania", "Date": "12-31-1976", "Life expectancy": 67.592}, {"Continent": "Oceania", "Date": "12-31-1977", "Life expectancy": 67.973}, {"Continent": "Oceania", "Date": "12-31-1978", "Life expectancy": 68.351}, {"Continent": "Oceania", "Date": "12-31-1979", "Life expectancy": 68.72}, {"Continent": "Oceania", "Date": "12-31-1980", "Life expectancy": 69.073}, {"Continent": "Oceania", "Date": "12-31-1981", "Life expectancy": 69.402}, {"Continent": "Oceania", "Date": "12-31-1982", "Life expectancy": 69.706}, {"Continent": "Oceania", "Date": "12-31-1983", "Life expectancy": 69.987}, {"Continent": "Oceania", "Date": "12-31-1984", "Life expectancy": 70.246}, {"Continent": "Oceania", "Date": "12-31-1985", "Life expectancy": 70.492}, {"Continent": "Oceania", "Date": "12-31-1986", "Life expectancy": 70.738}, {"Continent": "Oceania", "Date": "12-31-1987", "Life expectancy": 70.992}, {"Continent": "Oceania", "Date": "12-31-1988", "Life expectancy": 71.26}, {"Continent": "Oceania", "Date": "12-31-1989", "Life expectancy": 71.543}, {"Continent": "Oceania", "Date": "12-31-1990", "Life expectancy": 71.835}, {"Continent": "Oceania", "Date": "12-31-1991", "Life expectancy": 72.125}, {"Continent": "Oceania", "Date": "12-31-1992", "Life expectancy": 72.403}, {"Continent": "Oceania", "Date": "12-31-1993", "Life expectancy": 72.661}, {"Continent": "Oceania", "Date": "12-31-1994", "Life expectancy": 72.899}, {"Continent": "Oceania", "Date": "12-31-1995", "Life expectancy": 73.121}, {"Continent": "Oceania", "Date": "12-31-1996", "Life expectancy": 73.333}, {"Continent": "Oceania", "Date": "12-31-1997", "Life expectancy": 73.545}, {"Continent": "Oceania", "Date": "12-31-1998", "Life expectancy": 73.767}, {"Continent": "Oceania", "Date": "12-31-1999", "Life expectancy": 74.0}, {"Continent": "Oceania", "Date": "12-31-2000", "Life expectancy": 74.247}, {"Continent": "Oceania", "Date": "12-31-2001", "Life expectancy": 74.507}, {"Continent": "Oceania", "Date": "12-31-2002", "Life expectancy": 74.776}, {"Continent": "Oceania", "Date": "12-31-2003", "Life expectancy": 75.048}, {"Continent": "Oceania", "Date": "12-31-2004", "Life expectancy": 75.321}, {"Continent": "Oceania", "Date": "12-31-2005", "Life expectancy": 75.591}, {"Continent": "Oceania", "Date": "12-31-2006", "Life expectancy": 75.854}, {"Continent": "Oceania", "Date": "12-31-2007", "Life expectancy": 76.109}, {"Continent": "Oceania", "Date": "12-31-2008", "Life expectancy": 76.355}, {"Continent": "Oceania", "Date": "12-31-2009", "Life expectancy": 76.591}, {"Continent": "Oceania", "Date": "12-31-2010", "Life expectancy": 76.82}, {"Continent": "Oceania", "Date": "12-31-2011", "Life expectancy": 77.043}, {"Continent": "Oceania", "Date": "12-31-2012", "Life expectancy": 77.264}, {"Continent": "Oceania", "Date": "12-31-2013", "Life expectancy": 77.484}, {"Continent": "Oceania", "Date": "12-31-2014", "Life expectancy": 77.704}, {"Continent": "Oceania", "Date": "12-31-2015", "Life expectancy": 77.92}, {"Continent": "Oceania", "Date": "12-31-2016", "Life expectancy": 78.132}, {"Continent": "Oceania", "Date": "12-31-2017", "Life expectancy": 78.336}, {"Continent": "Oceania", "Date": "12-31-2018", "Life expectancy": 78.529}, {"Continent": "Oceania", "Date": "12-31-2019", "Life expectancy": 78.71}]
+    "values": [
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1950",
+        "Life expectancy": 36.45
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1951",
+        "Life expectancy": 36.712
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1952",
+        "Life expectancy": 37.234
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1953",
+        "Life expectancy": 37.754
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1954",
+        "Life expectancy": 38.27
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1955",
+        "Life expectancy": 38.783
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1956",
+        "Life expectancy": 39.293
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1957",
+        "Life expectancy": 39.799
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1958",
+        "Life expectancy": 40.299
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1959",
+        "Life expectancy": 40.793
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1960",
+        "Life expectancy": 41.277
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1961",
+        "Life expectancy": 41.75
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1962",
+        "Life expectancy": 42.211
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1963",
+        "Life expectancy": 42.657
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1964",
+        "Life expectancy": 43.091
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1965",
+        "Life expectancy": 43.513
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1966",
+        "Life expectancy": 43.927
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1967",
+        "Life expectancy": 44.335
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1968",
+        "Life expectancy": 44.742
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1969",
+        "Life expectancy": 45.15
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1970",
+        "Life expectancy": 45.563
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1971",
+        "Life expectancy": 45.984
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1972",
+        "Life expectancy": 46.414
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1973",
+        "Life expectancy": 46.85
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1974",
+        "Life expectancy": 47.29
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1975",
+        "Life expectancy": 47.733
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1976",
+        "Life expectancy": 48.175
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1977",
+        "Life expectancy": 48.612
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1978",
+        "Life expectancy": 49.04
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1979",
+        "Life expectancy": 49.452
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1980",
+        "Life expectancy": 49.851
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1981",
+        "Life expectancy": 50.235
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1982",
+        "Life expectancy": 50.606
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1983",
+        "Life expectancy": 50.959
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1984",
+        "Life expectancy": 51.286
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1985",
+        "Life expectancy": 51.571
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1986",
+        "Life expectancy": 51.798
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1987",
+        "Life expectancy": 51.959
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1988",
+        "Life expectancy": 52.054
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1989",
+        "Life expectancy": 52.092
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1990",
+        "Life expectancy": 52.083
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1991",
+        "Life expectancy": 52.047
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1992",
+        "Life expectancy": 52.005
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1993",
+        "Life expectancy": 51.978
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1994",
+        "Life expectancy": 51.982
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1995",
+        "Life expectancy": 52.022
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1996",
+        "Life expectancy": 52.095
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1997",
+        "Life expectancy": 52.195
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1998",
+        "Life expectancy": 52.323
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-1999",
+        "Life expectancy": 52.487
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2000",
+        "Life expectancy": 52.705
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2001",
+        "Life expectancy": 52.995
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2002",
+        "Life expectancy": 53.368
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2003",
+        "Life expectancy": 53.827
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2004",
+        "Life expectancy": 54.367
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2005",
+        "Life expectancy": 54.982
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2006",
+        "Life expectancy": 55.661
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2007",
+        "Life expectancy": 56.382
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2008",
+        "Life expectancy": 57.121
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2009",
+        "Life expectancy": 57.858
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2010",
+        "Life expectancy": 58.576
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2011",
+        "Life expectancy": 59.263
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2012",
+        "Life expectancy": 59.914
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2013",
+        "Life expectancy": 60.527
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2014",
+        "Life expectancy": 61.093
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2015",
+        "Life expectancy": 61.607
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2016",
+        "Life expectancy": 62.064
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2017",
+        "Life expectancy": 62.472
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2018",
+        "Life expectancy": 62.839
+      },
+      {
+        "Continent": "Africa",
+        "Date": "12-31-2019",
+        "Life expectancy": 63.17
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1950",
+        "Life expectancy": 59.30469677
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1951",
+        "Life expectancy": 59.46994456
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1952",
+        "Life expectancy": 59.85612063
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1953",
+        "Life expectancy": 60.23429871
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1954",
+        "Life expectancy": 60.60279722
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1955",
+        "Life expectancy": 60.95963613
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1956",
+        "Life expectancy": 61.30299762
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1957",
+        "Life expectancy": 61.63176706
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1958",
+        "Life expectancy": 61.94457224
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1959",
+        "Life expectancy": 62.23971836
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1960",
+        "Life expectancy": 62.51586761
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1961",
+        "Life expectancy": 62.77254009
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1962",
+        "Life expectancy": 63.01148094
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1963",
+        "Life expectancy": 63.23578485
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1964",
+        "Life expectancy": 63.45157331
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1965",
+        "Life expectancy": 63.66625528
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1966",
+        "Life expectancy": 63.88622618
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1967",
+        "Life expectancy": 64.11691127
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1968",
+        "Life expectancy": 64.36515254
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1969",
+        "Life expectancy": 64.63369933
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1970",
+        "Life expectancy": 64.92574088
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1971",
+        "Life expectancy": 65.24267958
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1972",
+        "Life expectancy": 65.58026746
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1973",
+        "Life expectancy": 65.93072577
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1974",
+        "Life expectancy": 66.28955265
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1975",
+        "Life expectancy": 66.65087235
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1976",
+        "Life expectancy": 67.00899463
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1977",
+        "Life expectancy": 67.35940074
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1978",
+        "Life expectancy": 67.69830141
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1979",
+        "Life expectancy": 68.02206614
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1980",
+        "Life expectancy": 68.32929356
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1981",
+        "Life expectancy": 68.61703445
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1982",
+        "Life expectancy": 68.89015226
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1983",
+        "Life expectancy": 69.1519207
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1984",
+        "Life expectancy": 69.40474575
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1985",
+        "Life expectancy": 69.65325858
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1986",
+        "Life expectancy": 69.90010634
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1987",
+        "Life expectancy": 70.14853528
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1988",
+        "Life expectancy": 70.40128342
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1989",
+        "Life expectancy": 70.65779572
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1990",
+        "Life expectancy": 70.92044409
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1991",
+        "Life expectancy": 71.18773869
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1992",
+        "Life expectancy": 71.45792226
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1993",
+        "Life expectancy": 71.72880883
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1994",
+        "Life expectancy": 71.99914275
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1995",
+        "Life expectancy": 72.26824757
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1996",
+        "Life expectancy": 72.53597252
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1997",
+        "Life expectancy": 72.8009705
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1998",
+        "Life expectancy": 73.06324586
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-1999",
+        "Life expectancy": 73.32034347
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2000",
+        "Life expectancy": 73.57207701
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2001",
+        "Life expectancy": 73.81901117
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2002",
+        "Life expectancy": 74.06140216
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2003",
+        "Life expectancy": 74.29901207
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2004",
+        "Life expectancy": 74.53184348
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2005",
+        "Life expectancy": 74.75972955
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2006",
+        "Life expectancy": 74.98255907
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2007",
+        "Life expectancy": 75.19889267
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2008",
+        "Life expectancy": 75.40791766
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2009",
+        "Life expectancy": 75.6064355
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2010",
+        "Life expectancy": 75.79106424
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2011",
+        "Life expectancy": 75.95720977
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2012",
+        "Life expectancy": 76.10318017
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2013",
+        "Life expectancy": 76.23112521
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2014",
+        "Life expectancy": 76.34333386
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2015",
+        "Life expectancy": 76.44286453
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2016",
+        "Life expectancy": 76.53703933
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2017",
+        "Life expectancy": 76.62993096
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2018",
+        "Life expectancy": 76.72842701
+      },
+      {
+        "Continent": "Americas",
+        "Date": "12-31-2019",
+        "Life expectancy": 76.83538896
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1950",
+        "Life expectancy": 41.115
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1951",
+        "Life expectancy": 41.447
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1952",
+        "Life expectancy": 42.076
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1953",
+        "Life expectancy": 42.634
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1954",
+        "Life expectancy": 43.122
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1955",
+        "Life expectancy": 43.543
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1956",
+        "Life expectancy": 43.906
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1957",
+        "Life expectancy": 44.224
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1958",
+        "Life expectancy": 44.522
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1959",
+        "Life expectancy": 44.842
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1960",
+        "Life expectancy": 45.235
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1961",
+        "Life expectancy": 45.748
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1962",
+        "Life expectancy": 46.423
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1963",
+        "Life expectancy": 47.28
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1964",
+        "Life expectancy": 48.306
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1965",
+        "Life expectancy": 49.456
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1966",
+        "Life expectancy": 50.664
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1967",
+        "Life expectancy": 51.851
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1968",
+        "Life expectancy": 52.95
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1969",
+        "Life expectancy": 53.93
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1970",
+        "Life expectancy": 54.778
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1971",
+        "Life expectancy": 55.505
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1972",
+        "Life expectancy": 56.155
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1973",
+        "Life expectancy": 56.764
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1974",
+        "Life expectancy": 57.345
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1975",
+        "Life expectancy": 57.904
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1976",
+        "Life expectancy": 58.445
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1977",
+        "Life expectancy": 58.962
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1978",
+        "Life expectancy": 59.456
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1979",
+        "Life expectancy": 59.928
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1980",
+        "Life expectancy": 60.385
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1981",
+        "Life expectancy": 60.83
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1982",
+        "Life expectancy": 61.265
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1983",
+        "Life expectancy": 61.689
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1984",
+        "Life expectancy": 62.105
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1985",
+        "Life expectancy": 62.508
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1986",
+        "Life expectancy": 62.896
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1987",
+        "Life expectancy": 63.263
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1988",
+        "Life expectancy": 63.61
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1989",
+        "Life expectancy": 63.938
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1990",
+        "Life expectancy": 64.25
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1991",
+        "Life expectancy": 64.551
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1992",
+        "Life expectancy": 64.846
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1993",
+        "Life expectancy": 65.14
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1994",
+        "Life expectancy": 65.44
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1995",
+        "Life expectancy": 65.748
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1996",
+        "Life expectancy": 66.067
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1997",
+        "Life expectancy": 66.397
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1998",
+        "Life expectancy": 66.735
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-1999",
+        "Life expectancy": 67.081
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2000",
+        "Life expectancy": 67.432
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2001",
+        "Life expectancy": 67.786
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2002",
+        "Life expectancy": 68.139
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2003",
+        "Life expectancy": 68.489
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2004",
+        "Life expectancy": 68.835
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2005",
+        "Life expectancy": 69.179
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2006",
+        "Life expectancy": 69.525
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2007",
+        "Life expectancy": 69.876
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2008",
+        "Life expectancy": 70.231
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2009",
+        "Life expectancy": 70.591
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2010",
+        "Life expectancy": 70.951
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2011",
+        "Life expectancy": 71.309
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2012",
+        "Life expectancy": 71.659
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2013",
+        "Life expectancy": 71.997
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2014",
+        "Life expectancy": 72.319
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2015",
+        "Life expectancy": 72.62
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2016",
+        "Life expectancy": 72.897
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2017",
+        "Life expectancy": 73.15
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2018",
+        "Life expectancy": 73.381
+      },
+      {
+        "Continent": "Asia",
+        "Date": "12-31-2019",
+        "Life expectancy": 73.593
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1950",
+        "Life expectancy": 61.989
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1951",
+        "Life expectancy": 62.441
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1952",
+        "Life expectancy": 63.317
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1953",
+        "Life expectancy": 64.14
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1954",
+        "Life expectancy": 64.91
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1955",
+        "Life expectancy": 65.625
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1956",
+        "Life expectancy": 66.286
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1957",
+        "Life expectancy": 66.893
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1958",
+        "Life expectancy": 67.444
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1959",
+        "Life expectancy": 67.939
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1960",
+        "Life expectancy": 68.375
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1961",
+        "Life expectancy": 68.754
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1962",
+        "Life expectancy": 69.075
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1963",
+        "Life expectancy": 69.343
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1964",
+        "Life expectancy": 69.565
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1965",
+        "Life expectancy": 69.749
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1966",
+        "Life expectancy": 69.903
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1967",
+        "Life expectancy": 70.035
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1968",
+        "Life expectancy": 70.153
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1969",
+        "Life expectancy": 70.264
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1970",
+        "Life expectancy": 70.372
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1971",
+        "Life expectancy": 70.476
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1972",
+        "Life expectancy": 70.574
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1973",
+        "Life expectancy": 70.665
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1974",
+        "Life expectancy": 70.752
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1975",
+        "Life expectancy": 70.836
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1976",
+        "Life expectancy": 70.918
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1977",
+        "Life expectancy": 71.001
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1978",
+        "Life expectancy": 71.089
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1979",
+        "Life expectancy": 71.186
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1980",
+        "Life expectancy": 71.302
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1981",
+        "Life expectancy": 71.451
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1982",
+        "Life expectancy": 71.633
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1983",
+        "Life expectancy": 71.844
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1984",
+        "Life expectancy": 72.075
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1985",
+        "Life expectancy": 72.304
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1986",
+        "Life expectancy": 72.506
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1987",
+        "Life expectancy": 72.662
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1988",
+        "Life expectancy": 72.763
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1989",
+        "Life expectancy": 72.808
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1990",
+        "Life expectancy": 72.808
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1991",
+        "Life expectancy": 72.781
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1992",
+        "Life expectancy": 72.754
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1993",
+        "Life expectancy": 72.747
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1994",
+        "Life expectancy": 72.771
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1995",
+        "Life expectancy": 72.827
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1996",
+        "Life expectancy": 72.911
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1997",
+        "Life expectancy": 73.011
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1998",
+        "Life expectancy": 73.12
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-1999",
+        "Life expectancy": 73.239
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2000",
+        "Life expectancy": 73.372
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2001",
+        "Life expectancy": 73.527
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2002",
+        "Life expectancy": 73.709
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2003",
+        "Life expectancy": 73.924
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2004",
+        "Life expectancy": 74.173
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2005",
+        "Life expectancy": 74.457
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2006",
+        "Life expectancy": 74.778
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2007",
+        "Life expectancy": 75.129
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2008",
+        "Life expectancy": 75.501
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2009",
+        "Life expectancy": 75.884
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2010",
+        "Life expectancy": 76.265
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2011",
+        "Life expectancy": 76.634
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2012",
+        "Life expectancy": 76.981
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2013",
+        "Life expectancy": 77.301
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2014",
+        "Life expectancy": 77.588
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2015",
+        "Life expectancy": 77.839
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2016",
+        "Life expectancy": 78.057
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2017",
+        "Life expectancy": 78.25
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2018",
+        "Life expectancy": 78.425
+      },
+      {
+        "Continent": "Europe",
+        "Date": "12-31-2019",
+        "Life expectancy": 78.587
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1950",
+        "Life expectancy": 50.205
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1951",
+        "Life expectancy": 50.509
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1952",
+        "Life expectancy": 51.113
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1953",
+        "Life expectancy": 51.707
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1954",
+        "Life expectancy": 52.291
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1955",
+        "Life expectancy": 52.866
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1956",
+        "Life expectancy": 53.43
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1957",
+        "Life expectancy": 53.983
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1958",
+        "Life expectancy": 54.525
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1959",
+        "Life expectancy": 55.053
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1960",
+        "Life expectancy": 55.566
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1961",
+        "Life expectancy": 56.063
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1962",
+        "Life expectancy": 56.542
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1963",
+        "Life expectancy": 57.004
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1964",
+        "Life expectancy": 57.452
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1965",
+        "Life expectancy": 57.891
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1966",
+        "Life expectancy": 58.326
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1967",
+        "Life expectancy": 58.761
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1968",
+        "Life expectancy": 59.201
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1969",
+        "Life expectancy": 59.646
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1970",
+        "Life expectancy": 60.095
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1971",
+        "Life expectancy": 60.547
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1972",
+        "Life expectancy": 60.997
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1973",
+        "Life expectancy": 61.44
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1974",
+        "Life expectancy": 61.876
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1975",
+        "Life expectancy": 62.303
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1976",
+        "Life expectancy": 62.721
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1977",
+        "Life expectancy": 63.131
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1978",
+        "Life expectancy": 63.536
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1979",
+        "Life expectancy": 63.934
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1980",
+        "Life expectancy": 64.328
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1981",
+        "Life expectancy": 64.716
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1982",
+        "Life expectancy": 65.1
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1983",
+        "Life expectancy": 65.48
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1984",
+        "Life expectancy": 65.856
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1985",
+        "Life expectancy": 66.23
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1986",
+        "Life expectancy": 66.601
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1987",
+        "Life expectancy": 66.97
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1988",
+        "Life expectancy": 67.338
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1989",
+        "Life expectancy": 67.702
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1990",
+        "Life expectancy": 68.065
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1991",
+        "Life expectancy": 68.425
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1992",
+        "Life expectancy": 68.783
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1993",
+        "Life expectancy": 69.137
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1994",
+        "Life expectancy": 69.487
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1995",
+        "Life expectancy": 69.833
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1996",
+        "Life expectancy": 70.176
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1997",
+        "Life expectancy": 70.515
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1998",
+        "Life expectancy": 70.851
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-1999",
+        "Life expectancy": 71.18
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2000",
+        "Life expectancy": 71.5
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2001",
+        "Life expectancy": 71.808
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2002",
+        "Life expectancy": 72.103
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2003",
+        "Life expectancy": 72.383
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2004",
+        "Life expectancy": 72.648
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2005",
+        "Life expectancy": 72.898
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2006",
+        "Life expectancy": 73.134
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2007",
+        "Life expectancy": 73.357
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2008",
+        "Life expectancy": 73.572
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2009",
+        "Life expectancy": 73.778
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2010",
+        "Life expectancy": 73.977
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2011",
+        "Life expectancy": 74.167
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2012",
+        "Life expectancy": 74.348
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2013",
+        "Life expectancy": 74.522
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2014",
+        "Life expectancy": 74.69
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2015",
+        "Life expectancy": 74.852
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2016",
+        "Life expectancy": 75.012
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2017",
+        "Life expectancy": 75.169
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2018",
+        "Life expectancy": 75.327
+      },
+      {
+        "Continent": "Latin America and the Caribbean",
+        "Date": "12-31-2019",
+        "Life expectancy": 75.486
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1950",
+        "Life expectancy": 68.205
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1951",
+        "Life expectancy": 68.342
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1952",
+        "Life expectancy": 68.606
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1953",
+        "Life expectancy": 68.851
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1954",
+        "Life expectancy": 69.077
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1955",
+        "Life expectancy": 69.282
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1956",
+        "Life expectancy": 69.467
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1957",
+        "Life expectancy": 69.632
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1958",
+        "Life expectancy": 69.776
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1959",
+        "Life expectancy": 69.9
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1960",
+        "Life expectancy": 70.003
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1961",
+        "Life expectancy": 70.085
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1962",
+        "Life expectancy": 70.151
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1963",
+        "Life expectancy": 70.205
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1964",
+        "Life expectancy": 70.255
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1965",
+        "Life expectancy": 70.31
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1966",
+        "Life expectancy": 70.378
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1967",
+        "Life expectancy": 70.466
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1968",
+        "Life expectancy": 70.582
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1969",
+        "Life expectancy": 70.731
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1970",
+        "Life expectancy": 70.921
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1971",
+        "Life expectancy": 71.157
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1972",
+        "Life expectancy": 71.437
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1973",
+        "Life expectancy": 71.751
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1974",
+        "Life expectancy": 72.09
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1975",
+        "Life expectancy": 72.444
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1976",
+        "Life expectancy": 72.8
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1977",
+        "Life expectancy": 73.146
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1978",
+        "Life expectancy": 73.469
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1979",
+        "Life expectancy": 73.763
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1980",
+        "Life expectancy": 74.02
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1981",
+        "Life expectancy": 74.235
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1982",
+        "Life expectancy": 74.416
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1983",
+        "Life expectancy": 74.57
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1984",
+        "Life expectancy": 74.702
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1985",
+        "Life expectancy": 74.82
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1986",
+        "Life expectancy": 74.932
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1987",
+        "Life expectancy": 75.045
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1988",
+        "Life expectancy": 75.165
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1989",
+        "Life expectancy": 75.296
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1990",
+        "Life expectancy": 75.44
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1991",
+        "Life expectancy": 75.597
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1992",
+        "Life expectancy": 75.761
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1993",
+        "Life expectancy": 75.929
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1994",
+        "Life expectancy": 76.097
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1995",
+        "Life expectancy": 76.263
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1996",
+        "Life expectancy": 76.425
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1997",
+        "Life expectancy": 76.582
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1998",
+        "Life expectancy": 76.734
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-1999",
+        "Life expectancy": 76.883
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2000",
+        "Life expectancy": 77.033
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2001",
+        "Life expectancy": 77.191
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2002",
+        "Life expectancy": 77.359
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2003",
+        "Life expectancy": 77.539
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2004",
+        "Life expectancy": 77.73
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2005",
+        "Life expectancy": 77.931
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2006",
+        "Life expectancy": 78.14
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2007",
+        "Life expectancy": 78.352
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2008",
+        "Life expectancy": 78.557
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2009",
+        "Life expectancy": 78.749
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2010",
+        "Life expectancy": 78.916
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2011",
+        "Life expectancy": 79.049
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2012",
+        "Life expectancy": 79.143
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2013",
+        "Life expectancy": 79.2
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2014",
+        "Life expectancy": 79.224
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2015",
+        "Life expectancy": 79.223
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2016",
+        "Life expectancy": 79.21
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2017",
+        "Life expectancy": 79.198
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2018",
+        "Life expectancy": 79.199
+      },
+      {
+        "Continent": "Northern America",
+        "Date": "12-31-2019",
+        "Life expectancy": 79.221
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1950",
+        "Life expectancy": 57.729
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1951",
+        "Life expectancy": 58.094
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1952",
+        "Life expectancy": 58.801
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1953",
+        "Life expectancy": 59.459
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1954",
+        "Life expectancy": 60.068
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1955",
+        "Life expectancy": 60.629
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1956",
+        "Life expectancy": 61.14
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1957",
+        "Life expectancy": 61.603
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1958",
+        "Life expectancy": 62.02
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1959",
+        "Life expectancy": 62.393
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1960",
+        "Life expectancy": 62.723
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1961",
+        "Life expectancy": 63.017
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1962",
+        "Life expectancy": 63.281
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1963",
+        "Life expectancy": 63.523
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1964",
+        "Life expectancy": 63.754
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1965",
+        "Life expectancy": 63.985
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1966",
+        "Life expectancy": 64.226
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1967",
+        "Life expectancy": 64.482
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1968",
+        "Life expectancy": 64.756
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1969",
+        "Life expectancy": 65.053
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1970",
+        "Life expectancy": 65.374
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1971",
+        "Life expectancy": 65.719
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1972",
+        "Life expectancy": 66.081
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1973",
+        "Life expectancy": 66.453
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1974",
+        "Life expectancy": 66.83
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1975",
+        "Life expectancy": 67.21
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1976",
+        "Life expectancy": 67.592
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1977",
+        "Life expectancy": 67.973
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1978",
+        "Life expectancy": 68.351
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1979",
+        "Life expectancy": 68.72
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1980",
+        "Life expectancy": 69.073
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1981",
+        "Life expectancy": 69.402
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1982",
+        "Life expectancy": 69.706
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1983",
+        "Life expectancy": 69.987
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1984",
+        "Life expectancy": 70.246
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1985",
+        "Life expectancy": 70.492
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1986",
+        "Life expectancy": 70.738
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1987",
+        "Life expectancy": 70.992
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1988",
+        "Life expectancy": 71.26
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1989",
+        "Life expectancy": 71.543
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1990",
+        "Life expectancy": 71.835
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1991",
+        "Life expectancy": 72.125
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1992",
+        "Life expectancy": 72.403
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1993",
+        "Life expectancy": 72.661
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1994",
+        "Life expectancy": 72.899
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1995",
+        "Life expectancy": 73.121
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1996",
+        "Life expectancy": 73.333
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1997",
+        "Life expectancy": 73.545
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1998",
+        "Life expectancy": 73.767
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-1999",
+        "Life expectancy": 74.0
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2000",
+        "Life expectancy": 74.247
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2001",
+        "Life expectancy": 74.507
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2002",
+        "Life expectancy": 74.776
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2003",
+        "Life expectancy": 75.048
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2004",
+        "Life expectancy": 75.321
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2005",
+        "Life expectancy": 75.591
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2006",
+        "Life expectancy": 75.854
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2007",
+        "Life expectancy": 76.109
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2008",
+        "Life expectancy": 76.355
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2009",
+        "Life expectancy": 76.591
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2010",
+        "Life expectancy": 76.82
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2011",
+        "Life expectancy": 77.043
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2012",
+        "Life expectancy": 77.264
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2013",
+        "Life expectancy": 77.484
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2014",
+        "Life expectancy": 77.704
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2015",
+        "Life expectancy": 77.92
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2016",
+        "Life expectancy": 78.132
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2017",
+        "Life expectancy": 78.336
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2018",
+        "Life expectancy": 78.529
+      },
+      {
+        "Continent": "Oceania",
+        "Date": "12-31-2019",
+        "Life expectancy": 78.71
+      }
+    ]
   },
-  
   "mark": "area",
   "encoding": {
     "x": {
       "field": "Date",
-      "type": "temporal",
+      "type": "temporal"
     },
-    
     "y": {
       "field": "Life expectancy",
-      "type": "quantitative"},
-  
-  "color": {"field": "Continent", "type": "nominal"}
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "Continent",
+      "type": "nominal"
+    }
   }
 }

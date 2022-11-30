@@ -86,8 +86,9 @@ p{
 }
 
     
-.button {
+#link1{
     background-color: rgb(50, 50, 50);
+    font-family: 'Roboto', serif;
     border: none;
     color: white;
     padding: 15px 30px;
@@ -101,7 +102,7 @@ p{
     cursor: pointer;
   }
 
-.button:hover {opacity: 1}
+  #link1:hover {opacity: 1} 
 
 
 .container {
@@ -116,4 +117,3 @@ p{
  }
 
     
-

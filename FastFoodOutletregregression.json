@@ -6,9 +6,9 @@
     },
     
     "title": {
-      "text": "Obesity and Fast Food Density",
+      "text": "Obesity and Fast Food Outlet Density",
       "fontSize":18,
-      "subtitle": "Outlets counted as at 2017, health statistics as at 2021. Sources: Public Health England and ONS",
+      "subtitle": "By local authority. Sources: Public Health England and ONS",
       "subtitleFontStyle": "italic",
       "subtitlePadding":4,
       "subtitleFontSize": 14,
@@ -133,4 +133,3 @@
       }
     ]
 }
-

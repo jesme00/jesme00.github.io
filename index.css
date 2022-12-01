@@ -9,7 +9,7 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -48,7 +48,7 @@ p{
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
@@ -63,7 +63,7 @@ p{
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
@@ -79,7 +79,7 @@ p{
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
@@ -88,15 +88,15 @@ p{
 
 /* Set the apperance of the class, chart */
 .chart{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width:auto;
     height: auto;
     border-width: 3px;
     border-style: solid;
-    border-radius: 0px;
+    border-radius: 5px;
     margin-left: 50px;
     margin-right: 50px;
-    border-color: rgb(50, 50, 50);
+    border-color: rgb(255, 255, 255);
     margin-bottom: 0.5cm;
     display: inline-block;    
 }

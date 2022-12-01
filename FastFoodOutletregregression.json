@@ -79,7 +79,7 @@
       "transform": [
         {
           "regression": "Obesity Rate",
-          "on": "Outlets per 100,000 population", "extent":[20,180]
+          "on": "Outlets per 100,000 population", "extent":[20,240]
         }
       ],
       "encoding": {

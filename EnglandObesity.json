@@ -25,7 +25,7 @@
     }
   ],
   "data": {
-    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/percentageadultsoverweightorobese.csv",
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/adultsoverweightorobeselocalauthority.csv",
     "format": {"type": "csv"}
   },
   "transform": [
@@ -61,7 +61,7 @@
       
       "type": "quantitative",
       "scale": {
-        "domain": [38, 77],
+        "domain": [38, 78],
         "type": "linear",
         "scheme": "yellowgreenblue"}
     },
@@ -74,7 +74,7 @@
       {
         "field": "Value",
         "type": "quantitative",
-        "title": "Overweight/Obesity Rate"
+        "title": "% adults overweight or obese"
       }
     ]
   }

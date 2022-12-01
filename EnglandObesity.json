@@ -6,10 +6,7 @@
   "title": {
     "text": "Percentage of Adults Classified as Overweight or Obese",
     "fontSize": 14,
-    "subtitle": [
-      "By Local Authority area. Source: ONS and PHE"
-    
-    ],
+    "subtitle": ["By Local Authority area. Source: ONS and PHE"],
     "subtitleFontStyle": "italic",
     "subtitleFontSize": 12,
     "anchor": "middle"
@@ -50,14 +47,35 @@
   "encoding": {
     "color": {
       "field": "Value",
-      "legend": {"title": "%", "titleFontSize":12, "titleAlign":"left", "orient":"center", "direction": "vertical"},
+      "legend": {
+        "title": "%",
+        "titleFontSize": 12,
+        "titleAlign": "left",
+        "titleAnchor":"start",
+        "gradientLength": 250,
+        "orient": "bottom-right",
+        "direction": "horizontal",
+        "titlePadding":6
+        
+      },
+      
       "type": "quantitative",
-      "scale": {"scheme": "lightmulti", "domain": [38, 78]}
+      "scale": {
+        "domain": [38, 77],
+        "type": "linear",
+        "scheme": "yellowgreenblue"}
     },
     "tooltip": [
-      {"field": "properties.LAD21NM", "type":"nominal", "title": "Local Authority"},
-      {"field": "Value", "type":"quantitative", "title": "Overweight/Obesity Rate"}
+      {
+        "field": "properties.LAD21NM",
+        "type": "nominal",
+        "title": "Local Authority"
+      },
+      {
+        "field": "Value",
+        "type": "quantitative",
+        "title": "Overweight/Obesity Rate"
+      }
     ]
   }
 }
-

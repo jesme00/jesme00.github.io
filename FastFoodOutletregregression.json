@@ -60,7 +60,7 @@
           "title": "% adults classified as overweight or obese"
         },
         "tooltip": [
-          {"field": "Obesity Rate", "type": "quantitative", "title": "Obesity"},
+          {"field": "Obesity Rate", "type": "quantitative", "title": "% Overweight/Obese Adults"},
           {
             "field": "Outlets per 100,000 population",
             "type": "quantitative",

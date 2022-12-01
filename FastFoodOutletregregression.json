@@ -75,11 +75,11 @@
       }
     },
     {
-      "mark": {"type": "line", "color": "#bc0000"},
+      "mark": {"type": "line", "color": "#ce1f1fb2"},
       "transform": [
         {
           "regression": "Obesity Rate",
-          "on": "Outlets per 100,000 population"
+          "on": "Outlets per 100,000 population", "extent":[20,180]
         }
       ],
       "encoding": {
@@ -104,10 +104,10 @@
       ],
       "mark": {
         "type": "text",
-        "color": "#000000cc",
+        "color": "#ce1f1fb2",
         "fontSize": 14,
         "fontWeight": "bold",
-        "fontStyle": "italic",
+        "fontStyle": "normal",
         "x": 10,
         "align": "right",
         "y": -20

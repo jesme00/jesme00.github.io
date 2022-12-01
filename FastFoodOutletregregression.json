@@ -13,8 +13,8 @@
     "anchor": "start",
     "color": "black"
   },
-  "width": 650,
-  "height": 400,
+  "width": 550,
+  "height": 550,
   "view": {"stroke": "transparent"},
   "layer": [
     {
@@ -33,9 +33,9 @@
           "axis": {
             "labelFontSize": 14,
             "tickCount": 8,
-            "tickWidth": 12,
+            "tickWidth": 1,
             "ticks": true,
-            "tickOpacity": 0,
+            "tickOpacity": 1,
             "gridOpacity": 0,
             "titleFontSize": 14,
             "titleFontWeight": "bold"
@@ -49,9 +49,9 @@
           "axis": {
             "labelFontSize": 14,
             "tickCount": 8,
-            "tickWidth": 12,
+            "tickWidth": 1,
             "ticks": true,
-            "tickOpacity": 0,
+            "tickOpacity": 1,
             "gridOpacity": 0,
             "titleFontSize": 14,
             "titleFontWeight": "bold"
@@ -60,11 +60,7 @@
           "title": "% adults classified as overweight or obese"
         },
         "tooltip": [
-          {
-            "field": "Obesity Rate",
-            "type": "quantitative",
-            "title": "Obesity"
-          },
+          {"field": "Obesity Rate", "type": "quantitative", "title": "Obesity"},
           {
             "field": "Outlets per 100,000 population",
             "type": "quantitative",
@@ -79,7 +75,8 @@
       "transform": [
         {
           "regression": "Obesity Rate",
-          "on": "Outlets per 100,000 population", "extent":[20,240]
+          "on": "Outlets per 100,000 population",
+          "extent": [20, 240]
         }
       ],
       "encoding": {
@@ -87,10 +84,7 @@
           "field": "Outlets per 100,000 population",
           "type": "quantitative"
         },
-        "y": {
-          "field": "Obesity Rate",
-          "type": "quantitative"
-        }
+        "y": {"field": "Obesity Rate", "type": "quantitative"}
       }
     },
     {

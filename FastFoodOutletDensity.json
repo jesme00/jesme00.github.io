@@ -1,0 +1,61 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+
+  "width": 550,
+  "height": 650,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Fast Food Outlet Density",
+    "fontSize": 14,
+    "subtitle": [
+      "By Local Authority area. Source: ONS and PHE"
+    
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitleFontSize": 12,
+    "anchor": "middle"
+  },
+
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/FastFoodDensityAndObesity.csv",
+    "format": {"type": "csv"}
+  },
+    "transform": [
+    {
+      "lookup": "Area Name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/LAD21.json",
+          "format": {"property": "features"}
+        },
+        "key": "properties.LAD21NM",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "Outlets per 100,000 population",
+      "legend": {
+        "title": "Outlets per 100,000 population", 
+        "titleAlign":"left", 
+        "orient":"bottom-right", 
+        "direction": "horizontal", 
+        "titlePadding":6, 
+        "titleAnchor":"start",
+        "gradientLength": 250
+        },
+      "type": "quantitative",
+      "scale": {
+        "domain": [30, 240],
+        "type": "log",
+        "scheme": "yellowgreenblue"}
+    },
+    "tooltip": [
+      {"field": "properties.LAD21NM", "type":"nominal", "title": "Local Authority"},
+      {"field": "Outlets per 100,000 population", "type":"quantitative", "title": "Outlets per 100,000"}
+    ]
+  }
+}

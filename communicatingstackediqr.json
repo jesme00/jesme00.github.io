@@ -1,0 +1,59 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800, "height": 600,
+          "title": {
+          "text": "Interquartile Range",
+          "fontWeight":600,
+          "color":"#000000",
+          "fontSize": 32},
+    "data": {
+        "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/AveragesTimeSeries.csv"
+    },
+   "view": {"stroke": "transparent"}, 
+   "mark": "area",
+
+
+    "encoding": {
+      "x": {"field": "quote_date","type": "temporal",
+          "scale": {
+        "type": "time",
+        "domain": ["2003-01-31", "2022-10-31"]},
+          "axis": {
+                "labelFontSize": 18,
+                "tickCount": 5,
+                "tickWidth": 1,
+                "ticks": true,
+                "tickOpacity": 1,
+                "gridOpacity": 0,
+                "titleFontSize": 14,
+                "titleFontWeight": "bold"
+              },
+              "title": null
+              },
+
+    "y": {  
+            "mark":{"color": ["#FF0000", "#00FF00", "#0000FF"]},
+            "field": "iqr",
+            "aggregate":"median",
+            "type":"quantitative",
+            "scale": {"domain": [0, 7]},
+            "title": "£s",
+            "axis": {
+              "titleColor": "black","titleFontSize":20,
+               "labelFontSize": 18,
+                "tickCount": 8,
+                "tickWidth": 1,
+                "ticks": true,
+                "tickOpacity": 1,
+                 "grid": false,
+                "titleFontWeight": 600},
+          },
+
+          "color": {
+            "field": "description", 
+            "scale": {
+              "range": ["#fceac2", "#d6ebda",  "#eac0c0"]}
+              }
+
+        }
+      }

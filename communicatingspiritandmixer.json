@@ -47,7 +47,7 @@
           "y": {
             "aggregate": "average",
             "field": "p75",
-            "scale": {"domain": [0, 6]},
+            "scale": {"domain": [1.8, 6]},
           },
   
           "y2": {

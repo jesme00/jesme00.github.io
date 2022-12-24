@@ -1,0 +1,153 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/glassofwine.csv"
+    },
+        "title": {
+        "text": "Alcohol Prices",
+        "fontSize": 18,
+        "subtitle": "Sources: FUCK KNOWS RICHARD DAVIES OR SMTH",
+        "subtitleFontStyle": "italic",
+        "subtitlePadding": 4,
+        "subtitleFontSize": 14,
+        "anchor": "start",
+        "color": "black"
+      },
+      "width": 750,
+      "height": 800,
+      "view": {"stroke": "transparent"
+        },
+  
+
+
+    "encoding": {
+      "x": {
+          "field": "quote_date",
+          "type": "temporal",
+          "scale": {
+        "type": "time",
+        "domain": ["2003-01-31", "2022-10-31"]},
+          "axis": {
+                "labelFontSize": 20,
+                "labelFontWeight":400,
+                "tickCount": 5,
+                "tickWidth": 1,
+                "ticks": true,
+                "tickOpacity": 1,
+                "gridOpacity": 0
+              },
+              "title": null
+              }
+    },
+    "layer": [
+
+{
+        "mark": {"opacity": 0.3, "type": "area", "color": "#a40000"},
+        "encoding": {
+          "y": {
+            "aggregate": "median",
+            "field": "p75",
+            "scale": {"domain": [1.8, 6]},
+          },
+  
+          "y2": {
+            "aggregate": "median",
+            "field": "p25"
+          }
+        }
+      },
+
+
+      {
+        "mark": {
+        "type": "line",
+        "size": 240,
+        "strokeWidth": 6,
+        "opacity": 0.9
+          },
+  
+        "encoding": {
+          "y": {
+            "field": "p75",
+            "type":"quantitative",
+            "scale": {"domain": [1.8, 6]},
+            "title": "Prices, £",
+            "axis": {
+               "labelFontSize": 20,
+                "tickCount": 5,
+                "titlePadding":10,
+                "tickWidth": 1,
+                "ticks": true,
+                "tickOpacity": 1,
+                "gridOpacity": 0,
+                "titleFontSize": 22,
+                "titleFontWeight": 500}
+          },
+
+          "tooltip": [
+              {
+                "field": "quote_date",
+                "type": "nominal",
+                "title": "date"
+              },
+              {
+                "field": "description",
+                "type": "nominal",
+                "title": "item"
+              },
+              {"field": "p25", "type": "quantitative", "title": "p25"},
+              {"field": "p75", "type": "quantitative", "title": "p75"}
+            ],
+          "color": {"field": "description", 
+          "type": "nominal"}
+        }},
+
+
+      {
+          "mark": {
+        "type": "line",
+        "size": 120,
+        "strokeWidth": 2,
+        "opacity": 0.8},
+  
+        "encoding": {
+          "y": {
+            "field": "p25",
+            "type":"quantitative",
+            "scale": {"domain": [1.5, 6]},
+            "title": "",
+            "axis": {
+                "labelFontSize": 20,
+                "tickCount": 5,
+                "tickWidth": 1,
+                "ticks": true,
+                "tickOpacity": 1,
+                "gridOpacity": 0,
+                "titleFontSize": 14,
+                "titleFontWeight": "bold"}
+          },
+  
+  
+  "tooltip": [
+              {
+                "field": "quote_date",
+                "type": "nominal",
+                "title": "date"
+              },
+              {
+                "field": "description",
+                "type": "nominal",
+                "title": "item"
+              },
+              {"field": "p75", "type": "quantitative", "title": "p75"},
+              {"field": "p25", "type": "quantitative", "title": "p25"}
+            ],
+
+            "color": {"field": "description",
+            "scale":{"range":["#a40000"]}}
+  
+        }
+      }
+    ]
+  
+  }

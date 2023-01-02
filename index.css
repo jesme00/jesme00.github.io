@@ -1,6 +1,6 @@
 /* Jessica Hawley, Data Science for Economists */
 
-/* This is my homework portfolio css file */
+/* This is my first proper css file */
 
 
 /* Import a font */
@@ -9,7 +9,7 @@
 
 /* Set the background color for my page: */
 body{
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -32,13 +32,29 @@ h3{
     text-align: center;
 }
 
+h4{
+    color:gray;
+    font-family: 'Roboto', serif;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    }
+
 p{
     color:rgb(0, 0, 0);
     font-family: 'Roboto', serif;
     text-align: center;
 }
-    
-    
+
+p2{
+    color:gray;
+    font-family: 'Roboto', serif;
+    text-align: center;
+    font-size: medium;
+    font-weight: 200;
+}
+
+
 .myWeek1{
     margin: auto;
     max-width: 700px;
@@ -48,13 +64,12 @@ p{
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 5px;
 }
-
 .myWeek2{
     margin: auto;
     max-width: 700px;
@@ -64,7 +79,7 @@ p{
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
@@ -80,14 +95,14 @@ p{
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(255, 255, 255);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 5px;
 }
 
-.myWeek4{
+.references{
     margin: auto;
     max-width: 700px;
     text-align: center;
@@ -96,112 +111,34 @@ p{
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgb(200, 200, 200);
+    background-color: rgb(224, 242, 218);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
     padding-bottom: 5px;
 }
-
-.myWeek5{
-    margin: auto;
-    max-width: 700px;
-    text-align: center;
-    border-top: 5px;
-    border-bottom: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    border-style: none;
-    background-color: rgb(200, 200, 200);
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek7{
-    margin: auto;
-    max-width: 700px;
-    text-align: center;
-    border-top: 5px;
-    border-bottom: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    border-style: none;
-    background-color: rgb(200, 200, 200);
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek8{
-    margin: auto;
-    max-width: 700px;
-    text-align: center;
-    border-top: 5px;
-    border-bottom: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    border-style: none;
-    background-color: rgb(200, 200, 200);
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
-.myWeek9{
-    margin: auto;
-    max-width: 700px;
-    text-align: center;
-    border-top: 5px;
-    border-bottom: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    border-style: none;
-    background-color: rgb(200, 200, 200);
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-}
-
 
 /* Set the apperance of the class, chart */
 .chart{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width:auto;
     height: auto;
     border-width: 3px;
     border-style: solid;
-    border-radius: 0px;
+    border-radius: 5px;
     margin-left: 50px;
     margin-right: 50px;
-    border-color: rgb(50, 50, 50);
+    border-color: rgb(255, 255, 255);
     margin-bottom: 0.5cm;
     display: inline-block;    
 }
 
-.chartw5{
-    background-color: white;
-    width: 290px;
-    height: 290px;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 0px;
-    margin-left: 5px;
-    margin-right: 5px;
-    border-color: rgb(50, 50, 50);
-    margin-bottom: 0.5cm;
-    display: inline-block;   
-}
-
+    
 #link1{
-    background-color: rgb(50, 50, 50);
+    background-color: rgb(224, 242, 218);
     font-family: 'Roboto', serif;
     border: none;
-    color: white;
+    color: grey;
     padding: 15px 30px;
     text-align: center;
     font-size: 16px;
@@ -215,7 +152,8 @@ p{
 
   #link1:hover {opacity: 1} 
 
-.container {
+
+  .container {
     display: flex;
     flex-flow: wrap;
     column-gap: 20px;

@@ -86,6 +86,22 @@ p{
     padding-bottom: 5px;
 }
 
+.references{
+    margin: auto;
+    max-width: 700px;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgb(224, 242, 218);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
 /* Set the apperance of the class, chart */
 .chart{
     background-color: rgb(255, 255, 255);
@@ -121,7 +137,7 @@ p{
   #link1:hover {opacity: 1} 
 
 
-.container {
+  .container {
     display: flex;
     flex-flow: wrap;
     column-gap: 20px;
@@ -131,5 +147,3 @@ p{
     justify-content: center;
     align-content: center;
  }
-
-    

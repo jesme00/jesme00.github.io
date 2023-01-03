@@ -5,11 +5,13 @@
   "view": {"stroke": "transparent"},
   "title": {
     "text": "Percentage of Adults Classified as Overweight or Obese",
-    "fontSize": 14,
-    "subtitle": ["By Local Authority area. Source: ONS and PHE"],
+    "fontSize": 18,
+    "subtitle": ["By Local Authority. Sources: ONS and Office for Health Improvement and Disparities"],
     "subtitleFontStyle": "italic",
-    "subtitleFontSize": 12,
-    "anchor": "middle"
+    "subtitlePadding": 4,
+    "subtitleFontSize": 13,
+    "anchor": "middle",
+    "color": "black"
   },
   "params": [
     {

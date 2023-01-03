@@ -7,7 +7,7 @@
     "subtitleFontStyle": "italic",
     "subtitlePadding": 4,
     "subtitleFontSize": 13,
-    "anchor": "start",
+    "anchor": "middle",
     "color": "black"
   },
   "width": 550,
@@ -338,7 +338,7 @@
                 "York"
               ],
               "name": "Select a local authority: ",
-              "fontStyle":"Arial"
+              "fontStyle": "Arial"
             }
           },
           "type": "single",
@@ -360,14 +360,13 @@
           "type": "quantitative",
           "scale": {"domain": [20, 240]},
           "title": "Fast Food Density (outlets per 100,000)",
-            "axis": {
+          "axis": {
             "labelFontSize": 14,
             "ticks": true,
             "tickOpacity": 1,
             "titleFontSize": 14,
             "titleFontWeight": "bold"
           }
-
         },
         "y": {
           "field": "Obesity Rate",
@@ -380,7 +379,8 @@
             "ticks": true,
             "tickOpacity": 1,
             "titleFontSize": 14,
-            "titleFontWeight": "bold"}
+            "titleFontWeight": "bold"
+          }
         },
         "color": {
           "value": "#5bbb07",
@@ -416,7 +416,7 @@
       }
     },
     {
-      "mark": {"type": "line", "color":"#00a6c8"},
+      "mark": {"type": "line", "color": "#00a6c8"},
       "transform": [
         {
           "regression": "Obesity Rate",

@@ -32,19 +32,21 @@
     <div class="myWeek1">     
         <h3>Obesity was historically considered an individual's health problem owing to poor diet and little exercise. Today there is growing evidence around its impact on society and the economy, where it has been found to reduce productivity, cost the NHS millions each year, and negatively affect the health of generations to come. How can we stop this?</h3> 
         <p2>Income is often cited as a key determinant of weight besides lifestyle (because healthy diets are expensive), and this has led to government schemes such as Health Start Vouchers for low income households with young children to buy fruit and vegetables with. And yet the map below demonstrates the relative unsuccessful nature of efforts made so far, becoming increasingly darker between 2015 and 2020, where even areas with the lowest proportions of overweight adults have continuously averaged above 30%.     
-        <div class="chart" id="Chart1"></div>         
+        <br>
+            <div class="chart" id="Chart1"></div>         
         <br>The aim of this project is to see if there are there any surprisingly weak or surprisingly strong correlations between weight and other variables, that we might want to pay closer attention to when evaluating how best to go about solving this socioeconomic problem.</p2> 
 </div> 
-    
+              
     <div class="myWeek2"> 
-        <h3>Fast food outlet density</h3>
-        <p>Blah blah blah.</p>
+        <br>
         <div class="chart" id="Chart2"></div>
+        <p2>This chart shows the correlation between the rate of adults classed as overweight or obese and over 300 other socio-economic variables from the ONS and Office for Health Improvement and Disparities. [METHODOLOGY AND CHALLENGES]. By going through the data behind this chart, I have picked out some of the surprisingly weak and surprisingly strong correlations to look at in more detail for the rest of my project. In very odd cases, the relationship displayed is an unexpected sign. For example, 'Utilisation of outdoor space for exercise or health reasons' is positively correlated with obesity.
+    </p2>
+        
     </div>
 
     <div class="myWeek3"> 
-        <h3>Fast food outlet density and weight - is there a correlation?</h3>
-        <p>Blah blah blah.</p>
+        <br>
         <p2>Although there is a positive correlation between outlet density and weight of the local population, the relationship is weak, as shown by the R squared value that indicates only 6% of the variation in obesity rates can be explained by how many outlets there are in an area. It therefore seems the built environment has negligible influence on the health of its residents.</p2>
         <div class="chart" id="Chart3"></div>
     </div>
@@ -57,38 +59,49 @@
     
     <h3>Chart 1: Percentage of Adults Classified as Overweight or Obese</h3>
     <p2>Obesity rate data - Office for Health Improvement and Disparities' <a href="https://fingertips.phe.org.uk/profile/health-profiles">Local Authority Health Profiles</a> 
-    <br>Colab Notebook used to collect and clean data - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/ObesityDataClean.ipynb">ObesityDataClean.ipynb</a>
+    <br>Colab notebook used to collect and clean data - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/ObesityDataClean.ipynb">ObesityDataClean.ipynb</a>
     <br>Final CSV - <a href="https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/adultsoverweightorobeselocalauthority.csv">adultsoverweightorobeselocalauthority.csv</a></p2>
     
-    <h3>Chart 2: Fast Food Outlet Density & Chart 3: Obesity and Fast Food Outlet Density</h3>
+    <h3>Chart 2: Correlations Between Obesity and Other Variables</h3>
+    <p2>Health indicator data - Office for Health Improvement and Disparities' <a href="https://fingertips.phe.org.uk/profile/health-profiles">Local Authority Health Profiles</a>  
+    <br>Colab notebook used to clean health indicator data for merging with other datasets - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/CleanandMergeHealthIndicatorData.ipynb">CleanandMergeHealthIndicatorData.ipynb</a>
+    <br>2021 Census data - <a href="https://www.nomisweb.co.uk/sources/census_2021_bulk">ONS</a>
+    <br>Access to open space data - <a href="https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstogardensandpublicgreenspaceingreatbritain">ONS</a>
+    <br>Wellbeing data - <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/methodologies/personalwellbeingintheukqmi">ONS</a>
+    <br>Compiled Excel Workbook of data by Local Authority - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/ObesityAndHealthIndicators.xlsx">ObesityAndHealthIndicators.xlsx</a>  
+    <br>Final CSV - <a href="https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/ObesityCorrelations.csv">ObesityCorrelations.csv</a>
+</p2>
+
+        
+    <h3>Chart 3: Fast Food Outlet Density & Chart 4: Obesity and Fast Food Outlet Density</h3>
     <p2>Fast food outlet density data - <a href="https://www.gov.uk/government/publications/fast-food-outlets-density-by-local-authority-in-england">Public Health England</a>
-    <br>Colab Notebook used to clean obesity rate data for merging - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/ObesityandOutletDataMerged.ipynb">ObesityandOutletDataMerged.ipynb</a>
+    <br>Colab notebook used to clean obesity rate data for merging - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/ObesityandOutletDataMerged.ipynb">ObesityandOutletDataMerged.ipynb</a>
     <br>Final CSV - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/FastFoodDensityAndObesity.csv">FastFoodDensityAndObesity.csv</a></p2>
 
     <h3>Chart 4: XXX</h3>
-    <p2>2021 Census data - <a href="https://www.nomisweb.co.uk/sources/census_2021_bulk">ONS</a></p2>
-    <p2>Access to open space data - <a href="https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstogardensandpublicgreenspaceingreatbritain">ONS</a></p2>
-    <p2>Wellbeing data - <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/methodologies/personalwellbeingintheukqmi">ONS</a><p2>
-        <P></P>
+    <p2>XXX - <a href="https://www.nomisweb.co.uk/sources/census_2021_bulk">ONS</a>
+    <br>XXX - <a href="https://www.ons.gov.uk/economy/environmentalaccounts/datasets/accesstogardensandpublicgreenspaceingreatbritain">ONS</a>
+    <br>XXX - <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/methodologies/personalwellbeingintheukqmi">ONS</a>
+    </p2>
 </div> 
 </container>
 
-
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6n2zJGtB3kDnzSCgxO26za?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </body>
 
 
 <script>
     //Define charts:
     var myChart1 = "ProjectCharts/EnglandObesity.json"
-    var myChart2 = "ProjectCharts/FastFoodOutletDensity.json";
+    var myChart2 = "ProjectCharts/Correlations.json";
     var myChart3 = "ProjectCharts/FastFoodOutletregregression2.json";
+    var myChart4 = "ProjectCharts/FastFoodOutletDensity.json";
 
     
     // Embed charts:
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);    
-    vegaEmbed('#Chart3', myChart3); 
+    vegaEmbed('#Chart3', myChart3);
+    vegaEmbed('#Chart4', myChart4);  
     
 </script>
 

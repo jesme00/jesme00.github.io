@@ -1,323 +1,323 @@
-﻿Relationship Measure,R2,Correlation
-Percentage of adults (aged 18+) classified as obese,0.707,0.841
-Prevalence of knee osteoarthritis in people aged  45 and over,0.491,0.701
-Prevalence of severe knee osteoarthritis in people aged  45 and over,0.44,0.663
-Unpaid carers,0.42,0.648
-Estimated diabetes diagnosis rate,0.409,0.64
-Prevalence of hip osteoarthritis in people aged  45 and over,0.404,0.636
-Prevalence of severe hip osteoarthritis in people aged  45 and over,0.383,0.619
-"Deaths from all cancer, all ages, standardised mortality ratio",0.377,0.614
-"Percentage reporting at least two long-term conditions, at least one of which is MSK related",0.358,0.599
-Percentage reporting a long-term Musculoskeletal (MSK) problem,0.356,0.596
-"Deaths from all causes, all ages, standardised mortality ratio",0.353,0.594
-Percentage of people who reported having a limiting long term illness or disability,0.33,0.574
-"Mortality rate from cancer, ages 65+ years",0.323,0.568
-Adjusted antibiotic prescribing in primary care by the NHS,0.319,0.565
-Smoking attributable mortality (new method),0.315,0.561
-"Deaths from all cancer, under 75 years, standardised mortality ratio (SMR)",0.308,0.555
-Percentage with a mean daily sedentary time in the last week over 7 hours per day at age 15,0.306,0.553
-Smoking attributable deaths from stroke (new method),0.294,0.542
-Depression: QOF prevalence (18+ yrs),0.288,0.537
-"Deaths from respiratory diseases, all ages, standardised mortality ratio",0.277,0.527
-Hypertension: QOF prevalence (all ages),0.272,0.521
-"Smoking attributable hospital admissions (new method). This indicator uses new set of attributable fractions, and so differ from that originally published.",0.272,0.521
-"Emergency hospital admissions for hip fracture in persons 65 years and over, standardised admission ratio",0.27,0.52
-"Mortality rate from all causes, all ages",0.265,0.514
-Under 75 mortality rate from cancer,0.261,0.511
-CHD: QOF prevalence (all ages),0.257,0.507
-"Reception: Prevalence of overweight (including obesity), 3-years data combined",0.248,0.498
-Rheumatoid Arthritis: QOF prevalence (16+ yrs),0.242,0.492
-Oesophageal cancer registrations,0.241,0.491
-"Hospital admissions for alcohol attributable conditions, (Narrow definition)",0.235,0.484
-Smoking attributable deaths from heart disease (new method),0.229,0.479
-"Deaths from all causes, under 75 years, standardised mortality ratio",0.23,0.479
-Mortality rate from lung cancer,0.225,0.475
-Mortality rate from chronic obstructive pulmonary disease,0.224,0.474
-Back pain prevalence in people of all ages,0.222,0.471
-"Mortality rate from respiratory disease, ages 65+ years",0.221,0.47
-Employment and Support Allowance claimants,0.22,0.469
-"Deaths from coronary heart disease, all ages, standardised mortality ratio",0.216,0.465
-"Deaths from circulatory disease, all ages, standardised mortality ratio",0.214,0.462
-"Emergency hospital admissions for Myocardial Infarction (heart attack), standardised admission ratio",0.21,0.458
-Reception: Prevalence of overweight (including obesity),0.208,0.457
-"Admission episodes for alcohol-related conditions (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.207,0.455
-"Emergency hospital admissions for all causes, all ages, standardised admission ratio",0.202,0.45
-Under 75 mortality rate from cancer considered preventable (2019 definition),0.203,0.45
-"Deaths from causes considered preventable, under 75 years, standardised mortality ratio",0.198,0.445
-"Admission episodes for alcohol-related conditions (Narrow)40 to 64 years: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.196,0.443
-Mortality rate from causes considered preventable (2016 definition),0.197,0.443
-"Reception: Prevalence of obesity (including severe obesity), 5-years data combined",0.195,0.442
-Children killed and seriously injured (KSI) on Englands roads,0.191,0.437
-Incidence rate of alcohol-related cancer,0.189,0.435
-Smoking prevalence in adults (15+) - current smokers (QOF),0.185,0.431
-"Alcohol-related mortality: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.185,0.431
-"Reception: Prevalence of obesity (including severe obesity), 3-years data combined",0.186,0.431
-Hip fractures in people aged 65 and over,0.177,0.421
-Under 75 mortality rate from causes considered preventable (2019 definition),0.173,0.416
-"Emergency hospital admissions for coronary heart disease, standardised admission ratio",0.172,0.415
-Hip fractures in people aged 80+,0.171,0.413
-Percentage of physically inactive adults,0.169,0.411
-"Mortality rate from all cardiovascular diseases, ages 65+ years",0.167,0.409
-"Admission episodes for intentional self-poisoning by and exposure to alcohol (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.166,0.408
-Value,0.167,0.408
-Mortality Rate,0.167,0.408
-Children in relative low income families (under 16s),0.165,0.406
-"Deaths from circulatory disease, under 75 years, standardised mortality ratio",0.164,0.405
-Cost per capita of smoking attributable hospital admissions,0.163,0.404
-Emergency hospital admissions for COPD,0.163,0.404
-Modelled estimates of the proportion of households in fuel poverty (%),0.163,0.404
-"Fuel poverty (low income, low energy efficiency methodology)",0.163,0.404
-"Admission episodes for alcohol-related conditions (Narrow) - Under 40s: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.162,0.403
-Reception: Prevalence of obesity (including severe obesity),0.162,0.403
-"Emergency hospital admissions for Chronic Obstructive Pulmonary Disease (COPD), standardised admission ratio",0.162,0.402
-"Year 6: Prevalence of obesity (including severe obesity), 5-years data combined",0.155,0.393
-Stroke: QOF prevalence (all ages),0.153,0.392
-"Incidence of all cancers, standardised incidence ratio",0.151,0.389
-Under 75 mortality rate from all cardiovascular diseases,0.147,0.384
-"Emergency hospital admissions for intentional self harm, standardised admission ratio",0.148,0.384
-Under 75 mortality rate from cardiovascular diseases considered preventable (2019 definition),0.147,0.383
-% reporting depression or anxiety,0.147,0.383
-Children in absolute low income families (under 16s),0.147,0.383
-"Pelvic inflammatory disease (PID) admissions rate per 100,000",0.144,0.38
-Mortality from chronic liver disease,0.141,0.376
-Under 75 mortality rate from heart disease,0.141,0.375
-Reception: Prevalence of overweight,0.138,0.372
-"Deaths from stroke, all ages, standardised mortality ratio",0.136,0.369
-Under 75 mortality rate from respiratory disease,0.134,0.366
-Year 6: Prevalence of obesity (including severe obesity),0.132,0.364
-"Emergency hospital admissions in under 5 years old, crude rate",0.131,0.362
-Year 6: Prevalence of overweight (including obesity),0.13,0.361
-Premature births (less than 37 weeks gestation),0.13,0.36
-Under 75 mortality rate from liver disease,0.127,0.357
-Young people providing 20+ hoursperweek of unpaid care (aged 16-24),0.128,0.357
-"Incidence of lung cancer, standardised incidence ratio",0.126,0.355
-Emergency Hospital Admissions for Intentional Self-Harm,0.124,0.353
-"Year 6: Prevalence of overweight (including obesity), 3-years data combined",0.121,0.347
-Lung cancer registrations,0.12,0.346
-"Year 6: Prevalence of obesity (including severe obesity), 3-years data combined",0.116,0.341
-"Scarlet fever notification rateper100,000 aged 0-9 yrs",0.115,0.34
-Index of Multiple Deprivation (IMD) Score,0.113,0.337
-Deprivation score (IMD 2019),0.113,0.337
-Under 75 mortality rate from respiratory disease considered preventable (2019 definition),0.111,0.333
-Alcohol-specific mortality,0.111,0.332
-Smoking Prevalence in adults (18+) - current smokers (APS),0.105,0.323
-"Admission episodes for alcohol-related cardiovascular disease (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.104,0.322
-"Emergency hospital admissions for injuries in under 15 years old, crude rate",0.102,0.32
-Under 75 mortality rate from liver disease considered preventable (2019 definition),0.102,0.319
-"Hospital admissions for alcohol attributable conditions, (Broad definition)",0.099,0.314
-"Violent crime - violence offences per 1,000 population",0.098,0.312
-Smoking prevalence at age 15 - regular smokers (modelled estimates),0.097,0.311
-"Admission episodes for alcohol-related conditions (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.096,0.31
-"Child Poverty, Income deprivation affecting children index (IDACI)",0.095,0.309
-"Income deprivation, English Indices of Deprivation",0.095,0.308
-Year 6: Prevalence of severe obesity,0.092,0.304
-Children providing unpaid care (aged 0-15),0.089,0.298
-Smoking prevalence in adults (18+) - ex smoker (GPPS),0.089,0.298
-"Admission episodes for alcohol-related conditions (Narrow)65+ years: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.088,0.296
-"Emergency hospital admissions for injuries in under 5 years old, crude rate",0.086,0.294
-Young people providing unpaid care (aged 16-24),0.085,0.292
-"Incidence of colorectal cancer, standardised incidence ratio",0.078,0.279
-Smoking prevalence in adults (18+) - current smokers (GPPS),0.075,0.273
-Under 75 mortality rate from injuries,0.073,0.27
-Percentage of the total resident population who are 50 to 64 years of age,0.072,0.268
-Deaths from drug misuse,0.071,0.267
-Deprivation score (IMD 2015),0.071,0.266
-Infant mortality rate,0.068,0.261
-Under 75 mortality rate from colorectal cancer,0.068,0.261
-Reception: Prevalence of severe obesity,0.068,0.261
-Hospital admission rate due to liver disease,0.067,0.26
-Hospital admissions caused by unintentional and deliberate injuries in young people (aged 15-24 years),0.066,0.257
-"Admission episodes for alcoholic liver disease (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.065,0.256
-Suicide rate,0.064,0.254
-Hip fractures in people aged 65-79,0.062,0.248
-Percentage physically active for at least one hour per day seven days a week at age 15,0.06,0.246
-"Emergency hospital admissions for injuries in 15 to 24 years old, crude rate",0.061,0.246
-"Outlets per 100,000 population",0.06,0.245
-Hospital admissions caused by unintentional and deliberate injuries in children (aged 0-14 years),0.057,0.239
-"Admission episodes for mental and behavioural disorders due to use of alcohol (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.055,0.235
-"Admission episodes for alcohol-related unintentional injuries (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.054,0.232
-Pupil absence,0.052,0.228
-Care home beds per 100 people 75+,0.052,0.227
-"Emergency hospital admissions for stroke, standardised admission ratio",0.051,0.226
-Supporting information - % population aged 65+,0.049,0.222
-Percentage of the total resident population who are 65 and over,0.049,0.222
-Records with weight rounded to X.0 or X.5,0.049,0.221
-Percentage people living in 20% most deprived areas in England,0.048,0.219
-"Long-Term Unemployment- rate per 1,000 working age population",0.047,0.216
-"Mortality rate for deaths involving COVID-19, all ages",0.046,0.215
-Long term claimants of Jobseekers Allowance,0.045,0.213
-Hospital admissions caused by unintentional and deliberate injuries in children (aged 0-4 years),0.045,0.212
-Under 75 mortality rate from stroke,0.045,0.211
-"Mortality rate from a range of specified communicable diseases, including influenza",0.044,0.209
-Children in low income families (under 16s),0.043,0.206
-"Violent crime - sexual offences per 1,000 population",0.04,0.199
-Gap in the employment rate between those with a physical or mental long term health condition (aged 16 to 64) and the overall employment rate,0.038,0.196
-"Low birth weight of live babies, five year pooled",0.038,0.195
-Violent crime - hospital admissions for violence (including sexual violence),0.037,0.194
-Population vaccination coverage: Flu (primary school aged children),0.037,0.191
-Smoking prevalence at age 15 - regular or occasional smokers (modelled estimates),0.036,0.19
-Volume of pure alcohol sold through the off-trade: beer sales,0.033,0.183
-Re-offending levels - average number of re-offences per re-offender,0.033,0.183
-Year 6: Prevalence of overweight,0.034,0.183
-Participation rate: Year 6,0.033,0.182
-Utilisation of outdoor space for exercise or health reasons,0.029,0.17
-Children in low income families (all dependent children under 20),0.029,0.17
-Emergency hospital admissions due to falls in people aged 80+,0.028,0.166
-"Campylobacter incidence rateper100,000",0.026,0.16
-Admission episodes for alcohol-specific conditions,0.025,0.159
-Smoking prevalence in adults with a long term mental health condition (18+) - current smokers (GPPS),0.025,0.158
-Participation rate: Total,0.024,0.156
-Estimated prevalence of common mental disorders: % of population aged 65 & over,0.022,0.147
-Admission episodes for alcohol-specific conditions - Under 18s,0.021,0.144
-Oral cancer registrations_x,0.02,0.142
-Oral cancer registrations_y,0.02,0.142
-% reporting a long term MSK problem who also report depression or anxiety,0.02,0.141
-Mortality rate from oral cancer,0.02,0.141
-Percentage of deaths that occur in hospital,0.018,0.133
-Unemployment (Percentage of the working age population claiming out of work benefit),0.018,0.133
-Emergency hospital admissions due to falls in people aged 65 and over,0.018,0.133
-Antiretroviral therapy (ART) coverage in people accessing HIV care,0.017,0.13
-Economic inactivity rate,0.017,0.129
-Percentage of deaths with underlying cause respiratory disease,0.015,0.123
-Estimated prevalence of common mental disorders: % of population aged 16 & over,0.014,0.12
-Sickness absence - the percentage of working days lost due to sickness absence,0.014,0.119
-"Cryptosporidium incidence rateper100,000",0.013,0.113
-Homelessness - households owed a duty under the Homelessness Reduction Act (main applicant 16-24 yrs),0.013,0.112
-Participation rate: Reception,0.011,0.105
-"Admission episodes for mental and behavioural disorders due to use of alcohol (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",0.01,0.1
-Percentage of deaths that occur at home,0.008,0.091
-Prompt antiretroviral therapy (ART) initiation in people newly diagnosed with HIV,0.008,0.089
-Percentage of deaths with underlying cause circulatory disease,0.007,0.085
-Volume of pure alcohol sold through the off-trade: spirit sales,0.007,0.082
-Cancer screening coverage: bowel cancer,0.006,0.077
-Records with height rounded to X.0 or X.5,0.006,0.075
-Smoking prevalence in adults with anxiety or depression (18+) - current smokers (GPPS),0.005,0.073
-"Invasive Meningococcal Disease (IMD) confirmed cases rateper100,000",0.005,0.073
-"Mortality rate for deaths involving COVID-19, under 75s",0.005,0.072
-Percentage of 5 year olds with experience of visually obvious dental decay,0.005,0.069
-Smoking Prevalence in adults (18+) - ex smokers (APS),0.004,0.061
-Percentage of the total resident population who are 5 to 15 years of age,0.004,0.061
-Volume of pure alcohol sold through the off-trade: all alcohol sales,0.003,0.057
-Excess winter deaths index,0.003,0.055
-Percentage of the total resident population aged 85 and over,0.003,0.054
-Emergency hospital admissions due to falls in people aged 65-79,0.003,0.053
-Supporting information - % population aged under 18,0.003,0.052
-Excess winter deaths index (age 85+),0.003,0.051
-Unemployment (model-based),0.002,0.048
-Percentage of the total resident population who are 0 to 15 years of age,0.002,0.046
-Emergency readmissions within 30 days of discharge from hospital,0.001,0.035
-Percentage of the total resident population who are 0 to 4 years of age,0,0.02
-"Mumps incidence rateper100,000",0,0.014
-Estimated dementia diagnosis rate (aged 65 and over),0,0.009
-Homelessness - households owed a duty under the Homelessness Reduction Act,0,0.008
-Records with valid child postcode,0,0.007
-Re-offending levels - percentage of offenders who re-offend,0,0.004
-Records with valid ethnicity code,0,0
-"STEC (Shiga toxin-producing Escherichia coli) serogroup O157 incidence rateper100,000",0,-0.005
-Sickness absence - the percentage of employees who had at least one day off in the previous week,0,-0.005
-Crime deprivation: score,0,-0.006
-"Measles incidence rateper100,000",0,-0.006
-Loneliness: Percentage of adults who feel lonely often per always or some of the time,0,-0.009
-"STEC  (Shiga toxin-producing Escherichia coli) serogroup O157 5-year incidence rateper100,000",0,-0.012
-Odds of current smoking (self-reported) among adults aged 18+ diagnosed with a long-term mental health condition,0,-0.014
-Low birth weight of term babies,0,-0.016
-Osteoporosis: QOF prevalence (50+ yrs),0,-0.021
-HIV late diagnosis in people first diagnosed with HIV in the UK,0.001,-0.023
-Gender pay gap (by workplace location),0.001,-0.026
-Older people in poverty: Income deprivation affecting older people Index (IDAOPI),0.001,-0.028
-Percentage of deaths with underlying cause Cancer,0.001,-0.032
-Nursing home beds per 100 people 75+,0.001,-0.032
-Smoking prevalence in adults in routine and manual occupations (18-64) - current smokers (APS),0.001,-0.035
-Homelessness - households with dependent children owed a duty under the Homelessness Reduction Act,0.002,-0.04
-"Listeria incidence rateper100,000",0.002,-0.047
-Percentage of physically active children and young people,0.002,-0.049
-Percentage of deaths that occur in care homes,0.003,-0.053
-STI testing positivity (excluding chlamydia aged under 25),0.004,-0.066
-Resident population,0.005,-0.072
-"Pertussis incidence rateper100,000",0.006,-0.074
-Percentage of all Deaths,0.007,-0.081
-Density of fast food outlets,0.011,-0.104
-The percentage of the population who are in receipt of long term support for a learning disability that are in paid employment (aged 18 to 64),0.011,-0.104
-"Mumps 5-year incidence rateper100,000",0.012,-0.111
-0,0.014,-0.116
-"Acute hepatitis B incidence rateper100,000",0.014,-0.118
-"Giardia incidence rateper100,000",0.015,-0.122
-Volume of pure alcohol sold through the off-trade: wine sales,0.016,-0.128
-Virological success in adults accessing HIV care,0.017,-0.131
-Percentage of the total resident population who are 16 to 24 years of age,0.018,-0.135
-"Statutory homelessness: rate per 1,000 households",0.021,-0.144
-Odds ratio of reporting a mental health condition among people with and without an MSK condition,0.024,-0.156
-"Typhoid & paratyphoid incidence rateper100,000",0.025,-0.159
-"Listeria 5-year incidence rateper100,000",0.026,-0.16
-Odds of current smoking (self-reported) among adults aged 18-64 with a routine and manual occupation (APS),0.026,-0.161
-Percentage of deaths that occur in hospice,0.029,-0.169
-Proportion of drug sensitive TB cases who had completed a full course of treatment by 12 months,0.032,-0.18
-Percentage of people in employment,0.035,-0.188
-Percentage of deaths that occur in other places,0.04,-0.199
-The percentage of the population with a physical or mental long term health condition in employment (aged 16 to 64),0.04,-0.2
-Homelessness - households in temporary accommodation,0.043,-0.207
-"Non-typhoidal Salmonella incidence rateper100,000",0.047,-0.218
-The percentage of people resident in the area living in each national deprivation quintile,0.051,-0.225
-Reception: Prevalence of underweight,0.053,-0.231
-"HIV testing coverage, total",0.054,-0.232
-TB incidence (three year average),0.057,-0.239
-"Older people living alone, % of people aged 65 and over who are living alone",0.06,-0.245
-"The percentage of people that cannot speak English well or at all,  2011",0.065,-0.255
-"Trichomoniasis diagnostic rate per 100,000",0.065,-0.255
-"Chlamydia diagnostic rate per 100,000",0.078,-0.279
-Fraction of mortality attributable to particulate air pollution (old method),0.079,-0.281
-Average health related quality of life score for adults who reported having a long term MSK problem.,0.084,-0.289
-"New HIV diagnoses among persons first diagnosed in the UK rate per 100,000",0.084,-0.29
-Year 6: Prevalence of underweight,0.087,-0.295
-"Genital herpes diagnosis rate per 100,000",0.088,-0.296
-Chlamydia proportion aged 15 to 24 screened,0.088,-0.296
-Percentage of the total resident population who are 25 to 64 years of age,0.09,-0.3
-Homelessness - households owed a duty under the Homelessness Reduction Act (main applicant 55+ yrs),0.094,-0.307
-Smoking Prevalence in adults (18+) - never smoked (APS),0.098,-0.313
-Health related quality of life for older people,0.1,-0.316
-"New HIV diagnosis rate per 100,000",0.104,-0.322
-Year 6: Prevalence of healthy weight,0.114,-0.338
-"Acute Lyme disease laboratory confirmed incidence rateper100,000",0.12,-0.347
-"Hepatitis C detection rateper100,000",0.122,-0.35
-"Shigella incidence rateper100,000",0.125,-0.353
-Job density,0.139,-0.373
-Overcrowded households,0.143,-0.378
-Number of premises licensed to sell alcohol per square kilometre,0.144,-0.379
-Percentage of population whose ethnic group is not white,0.149,-0.386
-"New cases of psychosis: estimated incidence rate per 100,000 population aged 16-64",0.153,-0.391
-"All new STI diagnoses rate per 100,000",0.163,-0.403
-Air pollution: fine particulate matter (historic indicator),0.166,-0.407
-Supporting information - % population from ethnic minorities,0.168,-0.41
-The rate of complaints about noise,0.169,-0.411
-Initiation or continuation of PrEP among those with PrEP need,0.169,-0.411
-"Chlamydia diagnostic rate per 100,000 aged 25 years and older",0.17,-0.413
-Fraction of mortality attributable to particulate air pollution (new method),0.176,-0.42
-"HIV diagnosed prevalence rate per 1,000 aged 15 to 59",0.178,-0.421
-Air pollution: fine particulate matter (new method - concentrations of total PM2.5),0.178,-0.422
-"Syphilis diagnostic rate per 100,000",0.181,-0.425
-"Gonorrhoea diagnostic rate per 100,000",0.184,-0.429
-Percentage of physically active adults,0.188,-0.433
-"Measles 5-year incidence rateper100,000",0.189,-0.435
-Reception: Prevalence of healthy weight,0.189,-0.435
-Access to Healthy Assets & Hazards Index,0.19,-0.436
-"Population density, people per square kilometre",0.192,-0.438
-Percentage of cancers diagnosed at stages 1 and 2,0.197,-0.443
-"Genital warts diagnostic rate per 100,000",0.196,-0.443
-Smoking prevalence in adults (18+) - never smoked (GPPS),0.197,-0.444
-"Mycoplasma genitalium diagnostic rate per 100,000",0.2,-0.447
-"HIV diagnosed prevalence rate per 1,000",0.205,-0.452
-Average Attainment 8 Score among children eligible for Free School Meals (FSM),0.204,-0.452
-"New STI diagnoses (excluding chlamydia aged under 25) per 100,000",0.205,-0.453
-Percentage of adults cycling for travel at least three days per week,0.205,-0.453
-"STI testing rate (exclude chlamydia aged under 25) per 100,000",0.212,-0.461
-Proportion of the population meeting the recommended 5-a-day on a usual day (adults),0.214,-0.462
-Percentage of population whose ethnicity is not White UK,0.228,-0.478
-Educational attainment (5 or more GCSEs): % of all children,0.23,-0.479
-Households with overcrowding based on overall room occupancy levels,0.267,-0.516
-"Migrant GP registrations: rate per 1,000 population",0.266,-0.516
-Determining PrEP need,0.291,-0.539
-Percentage of adults walking for travel at least three days per week,0.293,-0.541
-Average weekly earnings,0.341,-0.584
-Killed and seriously injured (KSI) casualties on Englands roads,0.395,-0.629
-Affordability of home ownership,0.497,-0.705
-Babys first feed breastmilk,0.532,-0.729
+﻿Relationship Measure,ToAllowXAxisZoom,R2,Correlation
+Percentage of adults (aged 18+) classified as obese,1,0.707,0.841
+Prevalence of knee osteoarthritis in people aged  45 and over,2,0.491,0.701
+Prevalence of severe knee osteoarthritis in people aged  45 and over,3,0.44,0.663
+Unpaid carers,4,0.42,0.648
+Estimated diabetes diagnosis rate,5,0.409,0.64
+Prevalence of hip osteoarthritis in people aged  45 and over,6,0.404,0.636
+Prevalence of severe hip osteoarthritis in people aged  45 and over,7,0.383,0.619
+"Deaths from all cancer, all ages, standardised mortality ratio",8,0.377,0.614
+"Percentage reporting at least two long-term conditions, at least one of which is MSK related",9,0.358,0.599
+Percentage reporting a long-term Musculoskeletal (MSK) problem,10,0.356,0.596
+"Deaths from all causes, all ages, standardised mortality ratio",11,0.353,0.594
+Percentage of people who reported having a limiting long term illness or disability,12,0.33,0.574
+"Mortality rate from cancer, ages 65+ years",13,0.323,0.568
+Adjusted antibiotic prescribing in primary care by the NHS,14,0.319,0.565
+Smoking attributable mortality (new method),15,0.315,0.561
+"Deaths from all cancer, under 75 years, standardised mortality ratio (SMR)",16,0.308,0.555
+Percentage with a mean daily sedentary time in the last week over 7 hours per day at age 15,17,0.306,0.553
+Smoking attributable deaths from stroke (new method),18,0.294,0.542
+Depression: QOF prevalence (18+ yrs),19,0.288,0.537
+"Deaths from respiratory diseases, all ages, standardised mortality ratio",20,0.277,0.527
+Hypertension: QOF prevalence (all ages),21,0.272,0.521
+"Smoking attributable hospital admissions (new method). This indicator uses new set of attributable fractions, and so differ from that originally published.",22,0.272,0.521
+"Emergency hospital admissions for hip fracture in persons 65 years and over, standardised admission ratio",23,0.27,0.52
+"Mortality rate from all causes, all ages",24,0.265,0.514
+Under 75 mortality rate from cancer,25,0.261,0.511
+CHD: QOF prevalence (all ages),26,0.257,0.507
+"Reception: Prevalence of overweight (including obesity), 3-years data combined",27,0.248,0.498
+Rheumatoid Arthritis: QOF prevalence (16+ yrs),28,0.242,0.492
+Oesophageal cancer registrations,29,0.241,0.491
+"Hospital admissions for alcohol attributable conditions, (Narrow definition)",30,0.235,0.484
+Smoking attributable deaths from heart disease (new method),31,0.229,0.479
+"Deaths from all causes, under 75 years, standardised mortality ratio",32,0.23,0.479
+Mortality rate from lung cancer,33,0.225,0.475
+Mortality rate from chronic obstructive pulmonary disease,34,0.224,0.474
+Back pain prevalence in people of all ages,35,0.222,0.471
+"Mortality rate from respiratory disease, ages 65+ years",36,0.221,0.47
+Employment and Support Allowance claimants,37,0.22,0.469
+"Deaths from coronary heart disease, all ages, standardised mortality ratio",38,0.216,0.465
+"Deaths from circulatory disease, all ages, standardised mortality ratio",39,0.214,0.462
+"Emergency hospital admissions for Myocardial Infarction (heart attack), standardised admission ratio",40,0.21,0.458
+Reception: Prevalence of overweight (including obesity),41,0.208,0.457
+"Admission episodes for alcohol-related conditions (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",42,0.207,0.455
+"Emergency hospital admissions for all causes, all ages, standardised admission ratio",43,0.202,0.45
+Under 75 mortality rate from cancer considered preventable (2019 definition),44,0.203,0.45
+"Deaths from causes considered preventable, under 75 years, standardised mortality ratio",45,0.198,0.445
+"Admission episodes for alcohol-related conditions (Narrow)40 to 64 years: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",46,0.196,0.443
+Mortality rate from causes considered preventable (2016 definition),47,0.197,0.443
+"Reception: Prevalence of obesity (including severe obesity), 5-years data combined",48,0.195,0.442
+Children killed and seriously injured (KSI) on Englands roads,49,0.191,0.437
+Incidence rate of alcohol-related cancer,50,0.189,0.435
+Smoking prevalence in adults (15+) - current smokers (QOF),51,0.185,0.431
+"Alcohol-related mortality: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",52,0.185,0.431
+"Reception: Prevalence of obesity (including severe obesity), 3-years data combined",53,0.186,0.431
+Hip fractures in people aged 65 and over,54,0.177,0.421
+Under 75 mortality rate from causes considered preventable (2019 definition),55,0.173,0.416
+"Emergency hospital admissions for coronary heart disease, standardised admission ratio",56,0.172,0.415
+Hip fractures in people aged 80+,57,0.171,0.413
+Percentage of physically inactive adults,58,0.169,0.411
+"Mortality rate from all cardiovascular diseases, ages 65+ years",59,0.167,0.409
+"Admission episodes for intentional self-poisoning by and exposure to alcohol (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",60,0.166,0.408
+Value,61,0.167,0.408
+Mortality Rate,62,0.167,0.408
+Children in relative low income families (under 16s),63,0.165,0.406
+"Deaths from circulatory disease, under 75 years, standardised mortality ratio",64,0.164,0.405
+Cost per capita of smoking attributable hospital admissions,65,0.163,0.404
+Emergency hospital admissions for COPD,66,0.163,0.404
+Modelled estimates of the proportion of households in fuel poverty (%),67,0.163,0.404
+"Fuel poverty (low income, low energy efficiency methodology)",68,0.163,0.404
+"Admission episodes for alcohol-related conditions (Narrow) - Under 40s: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",69,0.162,0.403
+Reception: Prevalence of obesity (including severe obesity),70,0.162,0.403
+"Emergency hospital admissions for Chronic Obstructive Pulmonary Disease (COPD), standardised admission ratio",71,0.162,0.402
+"Year 6: Prevalence of obesity (including severe obesity), 5-years data combined",72,0.155,0.393
+Stroke: QOF prevalence (all ages),73,0.153,0.392
+"Incidence of all cancers, standardised incidence ratio",74,0.151,0.389
+Under 75 mortality rate from all cardiovascular diseases,75,0.147,0.384
+"Emergency hospital admissions for intentional self harm, standardised admission ratio",76,0.148,0.384
+Under 75 mortality rate from cardiovascular diseases considered preventable (2019 definition),77,0.147,0.383
+% reporting depression or anxiety,78,0.147,0.383
+Children in absolute low income families (under 16s),79,0.147,0.383
+"Pelvic inflammatory disease (PID) admissions rate per 100,000",80,0.144,0.38
+Mortality from chronic liver disease,81,0.141,0.376
+Under 75 mortality rate from heart disease,82,0.141,0.375
+Reception: Prevalence of overweight,83,0.138,0.372
+"Deaths from stroke, all ages, standardised mortality ratio",84,0.136,0.369
+Under 75 mortality rate from respiratory disease,85,0.134,0.366
+Year 6: Prevalence of obesity (including severe obesity),86,0.132,0.364
+"Emergency hospital admissions in under 5 years old, crude rate",87,0.131,0.362
+Year 6: Prevalence of overweight (including obesity),88,0.13,0.361
+Premature births (less than 37 weeks gestation),89,0.13,0.36
+Under 75 mortality rate from liver disease,90,0.127,0.357
+Young people providing 20+ hoursperweek of unpaid care (aged 16-24),91,0.128,0.357
+"Incidence of lung cancer, standardised incidence ratio",92,0.126,0.355
+Emergency Hospital Admissions for Intentional Self-Harm,93,0.124,0.353
+"Year 6: Prevalence of overweight (including obesity), 3-years data combined",94,0.121,0.347
+Lung cancer registrations,95,0.12,0.346
+"Year 6: Prevalence of obesity (including severe obesity), 3-years data combined",96,0.116,0.341
+"Scarlet fever notification rateper100,000 aged 0-9 yrs",97,0.115,0.34
+Index of Multiple Deprivation (IMD) Score,98,0.113,0.337
+Deprivation score (IMD 2019),99,0.113,0.337
+Under 75 mortality rate from respiratory disease considered preventable (2019 definition),100,0.111,0.333
+Alcohol-specific mortality,101,0.111,0.332
+Smoking Prevalence in adults (18+) - current smokers (APS),102,0.105,0.323
+"Admission episodes for alcohol-related cardiovascular disease (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",103,0.104,0.322
+"Emergency hospital admissions for injuries in under 15 years old, crude rate",104,0.102,0.32
+Under 75 mortality rate from liver disease considered preventable (2019 definition),105,0.102,0.319
+"Hospital admissions for alcohol attributable conditions, (Broad definition)",106,0.099,0.314
+"Violent crime - violence offences per 1,000 population",107,0.098,0.312
+Smoking prevalence at age 15 - regular smokers (modelled estimates),108,0.097,0.311
+"Admission episodes for alcohol-related conditions (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",109,0.096,0.31
+"Child Poverty, Income deprivation affecting children index (IDACI)",110,0.095,0.309
+"Income deprivation, English Indices of Deprivation",111,0.095,0.308
+Year 6: Prevalence of severe obesity,112,0.092,0.304
+Children providing unpaid care (aged 0-15),113,0.089,0.298
+Smoking prevalence in adults (18+) - ex smoker (GPPS),114,0.089,0.298
+"Admission episodes for alcohol-related conditions (Narrow)65+ years: New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",115,0.088,0.296
+"Emergency hospital admissions for injuries in under 5 years old, crude rate",116,0.086,0.294
+Young people providing unpaid care (aged 16-24),117,0.085,0.292
+"Incidence of colorectal cancer, standardised incidence ratio",118,0.078,0.279
+Smoking prevalence in adults (18+) - current smokers (GPPS),119,0.075,0.273
+Under 75 mortality rate from injuries,120,0.073,0.27
+Percentage of the total resident population who are 50 to 64 years of age,121,0.072,0.268
+Deaths from drug misuse,122,0.071,0.267
+Deprivation score (IMD 2015),123,0.071,0.266
+Infant mortality rate,124,0.068,0.261
+Under 75 mortality rate from colorectal cancer,125,0.068,0.261
+Reception: Prevalence of severe obesity,126,0.068,0.261
+Hospital admission rate due to liver disease,127,0.067,0.26
+Hospital admissions caused by unintentional and deliberate injuries in young people (aged 15-24 years),128,0.066,0.257
+"Admission episodes for alcoholic liver disease (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",129,0.065,0.256
+Suicide rate,130,0.064,0.254
+Hip fractures in people aged 65-79,131,0.062,0.248
+Percentage physically active for at least one hour per day seven days a week at age 15,132,0.06,0.246
+"Emergency hospital admissions for injuries in 15 to 24 years old, crude rate",133,0.061,0.246
+"Outlets per 100,000 population",134,0.06,0.245
+Hospital admissions caused by unintentional and deliberate injuries in children (aged 0-14 years),135,0.057,0.239
+"Admission episodes for mental and behavioural disorders due to use of alcohol (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",136,0.055,0.235
+"Admission episodes for alcohol-related unintentional injuries (Narrow): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",137,0.054,0.232
+Pupil absence,138,0.052,0.228
+Care home beds per 100 people 75+,139,0.052,0.227
+"Emergency hospital admissions for stroke, standardised admission ratio",140,0.051,0.226
+Supporting information - % population aged 65+,141,0.049,0.222
+Percentage of the total resident population who are 65 and over,142,0.049,0.222
+Records with weight rounded to X.0 or X.5,143,0.049,0.221
+Percentage people living in 20% most deprived areas in England,144,0.048,0.219
+"Long-Term Unemployment- rate per 1,000 working age population",145,0.047,0.216
+"Mortality rate for deaths involving COVID-19, all ages",146,0.046,0.215
+Long term claimants of Jobseekers Allowance,147,0.045,0.213
+Hospital admissions caused by unintentional and deliberate injuries in children (aged 0-4 years),148,0.045,0.212
+Under 75 mortality rate from stroke,149,0.045,0.211
+"Mortality rate from a range of specified communicable diseases, including influenza",150,0.044,0.209
+Children in low income families (under 16s),151,0.043,0.206
+"Violent crime - sexual offences per 1,000 population",152,0.04,0.199
+Gap in the employment rate between those with a physical or mental long term health condition (aged 16 to 64) and the overall employment rate,153,0.038,0.196
+"Low birth weight of live babies, five year pooled",154,0.038,0.195
+Violent crime - hospital admissions for violence (including sexual violence),155,0.037,0.194
+Population vaccination coverage: Flu (primary school aged children),156,0.037,0.191
+Smoking prevalence at age 15 - regular or occasional smokers (modelled estimates),157,0.036,0.19
+Volume of pure alcohol sold through the off-trade: beer sales,158,0.033,0.183
+Re-offending levels - average number of re-offences per re-offender,159,0.033,0.183
+Year 6: Prevalence of overweight,160,0.034,0.183
+Participation rate: Year 6,161,0.033,0.182
+Utilisation of outdoor space for exercise or health reasons,162,0.029,0.17
+Children in low income families (all dependent children under 20),163,0.029,0.17
+Emergency hospital admissions due to falls in people aged 80+,164,0.028,0.166
+"Campylobacter incidence rateper100,000",165,0.026,0.16
+Admission episodes for alcohol-specific conditions,166,0.025,0.159
+Smoking prevalence in adults with a long term mental health condition (18+) - current smokers (GPPS),167,0.025,0.158
+Participation rate: Total,168,0.024,0.156
+Estimated prevalence of common mental disorders: % of population aged 65 & over,169,0.022,0.147
+Admission episodes for alcohol-specific conditions - Under 18s,170,0.021,0.144
+Oral cancer registrations_x,171,0.02,0.142
+Oral cancer registrations_y,172,0.02,0.142
+% reporting a long term MSK problem who also report depression or anxiety,173,0.02,0.141
+Mortality rate from oral cancer,174,0.02,0.141
+Percentage of deaths that occur in hospital,175,0.018,0.133
+Unemployment (Percentage of the working age population claiming out of work benefit),176,0.018,0.133
+Emergency hospital admissions due to falls in people aged 65 and over,177,0.018,0.133
+Antiretroviral therapy (ART) coverage in people accessing HIV care,178,0.017,0.13
+Economic inactivity rate,179,0.017,0.129
+Percentage of deaths with underlying cause respiratory disease,180,0.015,0.123
+Estimated prevalence of common mental disorders: % of population aged 16 & over,181,0.014,0.12
+Sickness absence - the percentage of working days lost due to sickness absence,182,0.014,0.119
+"Cryptosporidium incidence rateper100,000",183,0.013,0.113
+Homelessness - households owed a duty under the Homelessness Reduction Act (main applicant 16-24 yrs),184,0.013,0.112
+Participation rate: Reception,185,0.011,0.105
+"Admission episodes for mental and behavioural disorders due to use of alcohol (Broad): New method.  This indicator uses a new set of attributable fractions, and so differ from that originally published.",186,0.01,0.1
+Percentage of deaths that occur at home,187,0.008,0.091
+Prompt antiretroviral therapy (ART) initiation in people newly diagnosed with HIV,188,0.008,0.089
+Percentage of deaths with underlying cause circulatory disease,189,0.007,0.085
+Volume of pure alcohol sold through the off-trade: spirit sales,190,0.007,0.082
+Cancer screening coverage: bowel cancer,191,0.006,0.077
+Records with height rounded to X.0 or X.5,192,0.006,0.075
+Smoking prevalence in adults with anxiety or depression (18+) - current smokers (GPPS),193,0.005,0.073
+"Invasive Meningococcal Disease (IMD) confirmed cases rateper100,000",194,0.005,0.073
+"Mortality rate for deaths involving COVID-19, under 75s",195,0.005,0.072
+Percentage of 5 year olds with experience of visually obvious dental decay,196,0.005,0.069
+Smoking Prevalence in adults (18+) - ex smokers (APS),197,0.004,0.061
+Percentage of the total resident population who are 5 to 15 years of age,198,0.004,0.061
+Volume of pure alcohol sold through the off-trade: all alcohol sales,199,0.003,0.057
+Excess winter deaths index,200,0.003,0.055
+Percentage of the total resident population aged 85 and over,201,0.003,0.054
+Emergency hospital admissions due to falls in people aged 65-79,202,0.003,0.053
+Supporting information - % population aged under 18,203,0.003,0.052
+Excess winter deaths index (age 85+),204,0.003,0.051
+Unemployment (model-based),205,0.002,0.048
+Percentage of the total resident population who are 0 to 15 years of age,206,0.002,0.046
+Emergency readmissions within 30 days of discharge from hospital,207,0.001,0.035
+Percentage of the total resident population who are 0 to 4 years of age,208,0,0.02
+"Mumps incidence rateper100,000",209,0,0.014
+Estimated dementia diagnosis rate (aged 65 and over),210,0,0.009
+Homelessness - households owed a duty under the Homelessness Reduction Act,211,0,0.008
+Records with valid child postcode,212,0,0.007
+Re-offending levels - percentage of offenders who re-offend,213,0,0.004
+Records with valid ethnicity code,214,0,0
+"STEC (Shiga toxin-producing Escherichia coli) serogroup O157 incidence rateper100,000",215,0,-0.005
+Sickness absence - the percentage of employees who had at least one day off in the previous week,216,0,-0.005
+Crime deprivation: score,217,0,-0.006
+"Measles incidence rateper100,000",218,0,-0.006
+Loneliness: Percentage of adults who feel lonely often per always or some of the time,219,0,-0.009
+"STEC  (Shiga toxin-producing Escherichia coli) serogroup O157 5-year incidence rateper100,000",220,0,-0.012
+Odds of current smoking (self-reported) among adults aged 18+ diagnosed with a long-term mental health condition,221,0,-0.014
+Low birth weight of term babies,222,0,-0.016
+Osteoporosis: QOF prevalence (50+ yrs),223,0,-0.021
+HIV late diagnosis in people first diagnosed with HIV in the UK,224,0.001,-0.023
+Gender pay gap (by workplace location),225,0.001,-0.026
+Older people in poverty: Income deprivation affecting older people Index (IDAOPI),226,0.001,-0.028
+Percentage of deaths with underlying cause Cancer,227,0.001,-0.032
+Nursing home beds per 100 people 75+,228,0.001,-0.032
+Smoking prevalence in adults in routine and manual occupations (18-64) - current smokers (APS),229,0.001,-0.035
+Homelessness - households with dependent children owed a duty under the Homelessness Reduction Act,230,0.002,-0.04
+"Listeria incidence rateper100,000",231,0.002,-0.047
+Percentage of physically active children and young people,232,0.002,-0.049
+Percentage of deaths that occur in care homes,233,0.003,-0.053
+STI testing positivity (excluding chlamydia aged under 25),234,0.004,-0.066
+Resident population,235,0.005,-0.072
+"Pertussis incidence rateper100,000",236,0.006,-0.074
+Percentage of all Deaths,237,0.007,-0.081
+Density of fast food outlets,238,0.011,-0.104
+The percentage of the population who are in receipt of long term support for a learning disability that are in paid employment (aged 18 to 64),239,0.011,-0.104
+"Mumps 5-year incidence rateper100,000",240,0.012,-0.111
+0,241,0.014,-0.116
+"Acute hepatitis B incidence rateper100,000",242,0.014,-0.118
+"Giardia incidence rateper100,000",243,0.015,-0.122
+Volume of pure alcohol sold through the off-trade: wine sales,244,0.016,-0.128
+Virological success in adults accessing HIV care,245,0.017,-0.131
+Percentage of the total resident population who are 16 to 24 years of age,246,0.018,-0.135
+"Statutory homelessness: rate per 1,000 households",247,0.021,-0.144
+Odds ratio of reporting a mental health condition among people with and without an MSK condition,248,0.024,-0.156
+"Typhoid & paratyphoid incidence rateper100,000",249,0.025,-0.159
+"Listeria 5-year incidence rateper100,000",250,0.026,-0.16
+Odds of current smoking (self-reported) among adults aged 18-64 with a routine and manual occupation (APS),251,0.026,-0.161
+Percentage of deaths that occur in hospice,252,0.029,-0.169
+Proportion of drug sensitive TB cases who had completed a full course of treatment by 12 months,253,0.032,-0.18
+Percentage of people in employment,254,0.035,-0.188
+Percentage of deaths that occur in other places,255,0.04,-0.199
+The percentage of the population with a physical or mental long term health condition in employment (aged 16 to 64),256,0.04,-0.2
+Homelessness - households in temporary accommodation,257,0.043,-0.207
+"Non-typhoidal Salmonella incidence rateper100,000",258,0.047,-0.218
+The percentage of people resident in the area living in each national deprivation quintile,259,0.051,-0.225
+Reception: Prevalence of underweight,260,0.053,-0.231
+"HIV testing coverage, total",261,0.054,-0.232
+TB incidence (three year average),262,0.057,-0.239
+"Older people living alone, % of people aged 65 and over who are living alone",263,0.06,-0.245
+"The percentage of people that cannot speak English well or at all,  2011",264,0.065,-0.255
+"Trichomoniasis diagnostic rate per 100,000",265,0.065,-0.255
+"Chlamydia diagnostic rate per 100,000",266,0.078,-0.279
+Fraction of mortality attributable to particulate air pollution (old method),267,0.079,-0.281
+Average health related quality of life score for adults who reported having a long term MSK problem.,268,0.084,-0.289
+"New HIV diagnoses among persons first diagnosed in the UK rate per 100,000",269,0.084,-0.29
+Year 6: Prevalence of underweight,270,0.087,-0.295
+"Genital herpes diagnosis rate per 100,000",271,0.088,-0.296
+Chlamydia proportion aged 15 to 24 screened,272,0.088,-0.296
+Percentage of the total resident population who are 25 to 64 years of age,273,0.09,-0.3
+Homelessness - households owed a duty under the Homelessness Reduction Act (main applicant 55+ yrs),274,0.094,-0.307
+Smoking Prevalence in adults (18+) - never smoked (APS),275,0.098,-0.313
+Health related quality of life for older people,276,0.1,-0.316
+"New HIV diagnosis rate per 100,000",277,0.104,-0.322
+Year 6: Prevalence of healthy weight,278,0.114,-0.338
+"Acute Lyme disease laboratory confirmed incidence rateper100,000",279,0.12,-0.347
+"Hepatitis C detection rateper100,000",280,0.122,-0.35
+"Shigella incidence rateper100,000",281,0.125,-0.353
+Job density,282,0.139,-0.373
+Overcrowded households,283,0.143,-0.378
+Number of premises licensed to sell alcohol per square kilometre,284,0.144,-0.379
+Percentage of population whose ethnic group is not white,285,0.149,-0.386
+"New cases of psychosis: estimated incidence rate per 100,000 population aged 16-64",286,0.153,-0.391
+"All new STI diagnoses rate per 100,000",287,0.163,-0.403
+Air pollution: fine particulate matter (historic indicator),288,0.166,-0.407
+Supporting information - % population from ethnic minorities,289,0.168,-0.41
+The rate of complaints about noise,290,0.169,-0.411
+Initiation or continuation of PrEP among those with PrEP need,291,0.169,-0.411
+"Chlamydia diagnostic rate per 100,000 aged 25 years and older",292,0.17,-0.413
+Fraction of mortality attributable to particulate air pollution (new method),293,0.176,-0.42
+"HIV diagnosed prevalence rate per 1,000 aged 15 to 59",294,0.178,-0.421
+Air pollution: fine particulate matter (new method - concentrations of total PM2.5),295,0.178,-0.422
+"Syphilis diagnostic rate per 100,000",296,0.181,-0.425
+"Gonorrhoea diagnostic rate per 100,000",297,0.184,-0.429
+Percentage of physically active adults,298,0.188,-0.433
+"Measles 5-year incidence rateper100,000",299,0.189,-0.435
+Reception: Prevalence of healthy weight,300,0.189,-0.435
+Access to Healthy Assets & Hazards Index,301,0.19,-0.436
+"Population density, people per square kilometre",302,0.192,-0.438
+Percentage of cancers diagnosed at stages 1 and 2,303,0.197,-0.443
+"Genital warts diagnostic rate per 100,000",304,0.196,-0.443
+Smoking prevalence in adults (18+) - never smoked (GPPS),305,0.197,-0.444
+"Mycoplasma genitalium diagnostic rate per 100,000",306,0.2,-0.447
+"HIV diagnosed prevalence rate per 1,000",307,0.205,-0.452
+Average Attainment 8 Score among children eligible for Free School Meals (FSM),308,0.204,-0.452
+"New STI diagnoses (excluding chlamydia aged under 25) per 100,000",309,0.205,-0.453
+Percentage of adults cycling for travel at least three days per week,310,0.205,-0.453
+"STI testing rate (exclude chlamydia aged under 25) per 100,000",311,0.212,-0.461
+Proportion of the population meeting the recommended 5-a-day on a usual day (adults),312,0.214,-0.462
+Percentage of population whose ethnicity is not White UK,313,0.228,-0.478
+Educational attainment (5 or more GCSEs): % of all children,314,0.23,-0.479
+Households with overcrowding based on overall room occupancy levels,315,0.267,-0.516
+"Migrant GP registrations: rate per 1,000 population",316,0.266,-0.516
+Determining PrEP need,317,0.291,-0.539
+Percentage of adults walking for travel at least three days per week,318,0.293,-0.541
+Average weekly earnings,319,0.341,-0.584
+Killed and seriously injured (KSI) casualties on Englands roads,320,0.395,-0.629
+Affordability of home ownership,321,0.497,-0.705
+Babys first feed breastmilk,322,0.532,-0.729

@@ -30,35 +30,39 @@
     
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="myWeek1">     
-        <h3>Obesity was historically considered an individual's health problem owing to poor diet and little exercise. Today there is growing evidence around its impact on society and the economy. Among the problems it's causing is its staggering expense to the NHS, posing as an opportunity cost of having money to spend on other healthcare.</h3>
-            <br>
-            <p2>This chart plots data I scraped from a pdf using Python. [METHODOLOGY] </p2>
-         <br>
+        <h3>Obesity was historically considered an individual's health problem owing to poor diet and little exercise. Today there is growing evidence around its impact on society and the economy. Among the problems it's causing is its staggering cost for the NHS, posing as an opportunity cost of funds to spend on other healthcare.</h3>
          <div class="chart" id="Chart1"></div>
+         <p2>This chart plots data I scraped and cleaned from a pdf report using Python.</p2>
          <br>
-         <h3>How can we stop this in England?<h3>
+         <h3>How can we stop England reaching these 2050 predictions?<h3>
            <p2>The aim of this project is to interrogate the relationship obesity has with other variables, in the process, testing the strength of the evidence base some existing suggested policies rely on, and looking to see if there are any surprising correlations that we might want to pay closer attention to when evaluating how best to go about solving this socioeconomic problem.</p2>
          <br>      
             </div> 
-
-     <div class="myWeek2">                         
+           
+     <div class="myWeek2">
+        <h3>Where are we now?<h3>
         <p2>The map below demonstrates the relative unsuccessful nature of efforts made so far, becoming increasingly darker between 2015 and 2020, where even areas with the lowest proportions of overweight adults have continuously averaged above 30%.</p2>   
           <br>
           <div class="chart" id="Chart2"></div>         
-              </div>
-            
-     <div class="myWeek3">         
+          <br>
+       <p2>[PROBLEMS ENCOUNTERED].</p2>  
+               </div> 
+             
+     <div class="myWeek3">   
+        <h3>What is obesity correlated with?<h3>
         <p2>Reducing obesity to a problem caused by physical inactivity and eating too many calorific foods is clearly unhelpful, when these two factors are determined by so many variables. There is a plethora of health-related data available from <a href="https://fingertips.phe.org.uk/profile/health-profiles/data#page/10/gid/1938132694/pat/15/par/E92000001/ati/101/are/E09000002/iid/93088/age/168/sex/4/cat/-1/ctp/-1/yrr/1/iid2/93700/age2/169/sex2/4/cat2/-1/ctp2/-1/yrr2/1/cid/4/tbm/1/page-options/car-do-0">the government's website</a> to interrogate the relationship between obesity and other variables, but looking through these one by one would take forever. Furthermore, some of the variables, despite existing in the database they use, are not published on the page. I discovered this after using an API in Python to scrape all data available at local authority level (360 indicators). After cleaning it, I calculated the correlations between obesity and each variable.</p2>
           <br>
           <div class="chart" id="Chart2"></div>
+          <br>
+        <p2>[PROBLEMS ENCOUNTERED INCOMPLETE]An issue that came up when I uploaded the chart was the long names of measures that made the drop down box very wide and caused the chart to move off the page. To address this issue, I cleaned the titles by using Excel to drop any text including and after a "." in the titles.] By going through the data behind this chart, I have picked out some of the surprisingly weak and surprisingly strong correlations to look at in more detail for the rest of my project. In very odd cases, the relationship displayed is an unexpected sign. For example, 'Utilisation of outdoor space for exercise or health reasons' is positively correlated with obesity.</p2> 
+               </div>
+
+     <div class="myWeek3">   
+        <h3>Do these correlations support the case for existing policies suggested to tackle unhealthy habits?<h3> 
+        <p2></p2>     
             
-            
-            
-            A strong correlation is however not enough by itself to render  . Besides it not indicating causation, To illustrate, Income is often cited as a key determinant of weight besides lifestyle (because healthy diets are expensive), and this has led to government schemes such as Health Start Vouchers for low income households with young children to buy fruit and vegetables with.  And yet the map below demonstrates the relative unsuccessful nature of efforts made so far, becoming increasingly darker between 2015 and 2020, where even areas with the lowest proportions of overweight adults have continuously averaged above 30%.     
+        <p2>A strong correlation is however not enough by itself to render  . Besides it not indicating causation, To illustrate, Income is often cited as a key determinant of weight besides lifestyle (because healthy diets are expensive), and this has led to government schemes such as Health Start Vouchers for low income households with young children to buy fruit and vegetables with.  And yet the map below demonstrates the relative unsuccessful nature of efforts made so far, becoming increasingly darker between 2015 and 2020, where even areas with the lowest proportions of overweight adults have continuously averaged above 30%.     
         <br>
-            <div class="chart" id="Chart2"></div>         
-        <br>The aim of this project is to see if there are there any surprisingly weak or surprisingly strong correlations between weight and other variables, that we might want to pay closer attention to when evaluating how best to go about solving this socioeconomic problem.</p2> 
-</div> 
               
     <div class="myWeek2"> 
         <br>

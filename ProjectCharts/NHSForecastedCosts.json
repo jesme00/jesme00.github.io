@@ -15,6 +15,11 @@
     "subtitleFontSize": 13,
     "color": "black"
   },
+
+  "params": [
+      {"name": "highlight", "select": {"type": "point", "on": "mouseover"}}
+  ],
+
   "padding": 0,
   "transform": [{"fold": ["2025", "2050"], "as": ["var", "val"]}],
   "mark": "bar",
@@ -73,6 +78,13 @@
       }
     },
     "yOffset": {"field": "var", "type": "nominal"},
+
+
+     "fillOpacity": {
+      "condition": {"param": "highlight", "value": 1},
+      "value": 0.4
+    },
+
     "tooltip": [
       {
         "field": "2025",

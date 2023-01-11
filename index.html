@@ -39,7 +39,7 @@
          <br>      
             </div> 
            
-     <div class="myWeek2">
+     <div class="myWeek1">
         <h3>Where are we now?<h3>
         <p2>The map below demonstrates the relative unsuccessful nature of efforts made so far, becoming increasingly darker between 2015 and 2020, where even areas with the lowest proportions of overweight adults have continuously averaged above 30%.</p2>   
           <br>
@@ -48,7 +48,7 @@
        <p2>[PROBLEMS ENCOUNTERED].</p2>  
                </div> 
              
-     <div class="myWeek3">   
+     <div class="myWeek1">   
         <h3>What is obesity correlated with?</h3>
         <p2>Reducing obesity to a problem caused by physical inactivity and eating too many calorific foods is clearly unhelpful, when these two factors are determined by so many variables. It is well known that income deprivation is correlated with weight, where leading a healthy lifestyle is expensive, so I wanted to focus on looking at other variables in the hope of exposing some lesser known about trends. There is a plethora of health-related data available from <a href="https://fingertips.phe.org.uk/profile/health-profiles/data#page/10/gid/1938132694/pat/15/par/E92000001/ati/101/are/E09000002/iid/93088/age/168/sex/4/cat/-1/ctp/-1/yrr/1/iid2/93700/age2/169/sex2/4/cat2/-1/ctp2/-1/yrr2/1/cid/4/tbm/1/page-options/car-do-0">the government's website</a> to interrogate the relationship between obesity and other variables, but looking through these one by one would take forever. Furthermore, some of the variables, despite existing in the database they use, are not published on the page. I discovered this after using an API in Python to scrape all data available at local authority level (360 indicators). After cleaning it, I calculated the correlations between obesity and each variable.</p2>
           <br>
@@ -62,20 +62,20 @@
             An issue that came up when I uploaded the chart was the long names of measures that made the drop down box very wide and caused the chart to move off the page. To address this issue, I cleaned the titles by using Excel to drop any text including and after a "." in the titles.] By going through the data behind this chart, I have picked out some of the surprisingly weak and surprisingly strong correlations to look at in more detail for the rest of my project. In very odd cases, the relationship displayed is an unexpected sign. For example, 'Utilisation of outdoor space for exercise or health reasons' is positively correlated with obesity.</p2> 
                </div>
 
-     <div class="myWeek3">   
+     <div class="myWeek1">   
         <h3>Do these correlations support the case for policies that have been suggested to tackle unhealthy habits?<h3> 
         <p2>By itself, the chart above unfortunately contains a lot of data that is too niche to be useful in devising new policies, particularly in the instances that being overweight is a by-product of another health complication or vice versa (e.g. <a href="https://www.nhs.uk/conditions/high-blood-pressure-hypertension/causes/#:~:text=Known%20causes%20of%20high%20blood%20pressure&text=kidney%20disease,during%20sleep%2C%20interrupting%20normal%20breathing">hypertension</a>), and not least forgetting that correlation is not causation! However, the process of producing this chart was useful because it taught me the code necessary to clean data so that I can compare obesity rates with other data out there and apply the results to evaluate why certain policies might or might not be effective.     
         <br>
         For example, The government has looked into introducing policies <a href="https://www.gov.uk/government/publications/obesity-and-the-environment-briefing-regulating-the-growth-of-fast-food-outlets">regulating the growth of fast food outlets</a>. The chart below hints they might not be very useful.</p2>
         <br>
         <div class="chart" id="Chart4"></div>
-                   <p2>Although there is a positive correlation between outlet density and weight, the relationship is very weak, as shown by the poor fit of the regression line and low R squared value indicating that only 6% of the variation in obesity rates can be explained by how many outlets there are in an area. While there could be multiple benefits associated with implementing policies to limit the number of outlets in an area, it may not be a worthwhile endeavour to directly address obesity relative to other policies: arguably, it makes sense that this policy research paper has not taken further or updated since 2014.
+        <p2>Although there is a positive correlation between outlet density and weight, the relationship is very weak, as shown by the poor fit of the regression line and low R squared value indicating that only 6% of the variation in obesity rates can be explained by how many outlets there are in an area. While there could be multiple benefits associated with implementing policies to limit the number of outlets in an area, it may not be a worthwhile endeavour to directly address obesity relative to other policies: arguably, it makes sense that this policy research paper has not taken further or updated since 2014.
             <br>
             [PROBLEMS ENCOUNTERED (LA matching)]
             </p2>
     </div>   
          
-         <div class="myWeek3">
+         <div class="myWeek1">
          <h3>Conclusion</h3>
              <br>
          <p2>[674 words so far. Write conc, add difficulties commentary. YAAAAAAAA. Cheeky extra graph if time]</p2>

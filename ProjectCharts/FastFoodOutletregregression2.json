@@ -3,7 +3,7 @@
   "title": {
     "text": "Obesity and Fast Food Outlet Density",
     "fontSize": 18,
-    "subtitle": "By Local Authority. Sources: Public Health England and Office for Health Improvement and Disparities",
+    "subtitle": "Plot size based on area population. Sources: PHE and Office for Health Improvement and Disparities",
     "subtitleFontStyle": "italic",
     "subtitlePadding": 4,
     "subtitleFontSize": 13,
@@ -382,6 +382,18 @@
             "titleFontWeight": "bold"
           }
         },
+
+
+    "size": {
+      "field": "Approx Pop",
+      "type": "ordinal",
+      "title": "Prison Rate",
+      "scale": {"range": [15, 600]},
+      "legend": null,
+          "condition": {"value": 300, "selection": "picked"}
+    },
+
+
         "color": {
           "value": "#5bbb07",
           "condition": {
@@ -392,10 +404,7 @@
             "scale": {"scheme": "darkblue"}
           }
         },
-        "size": {
-          "value": 120,
-          "condition": {"value": 300, "selection": "picked"}
-        },
+
         "opacity": {
           "value": 0.5,
           "condition": {"value": 1, "selection": "picked"}
@@ -406,12 +415,19 @@
             "type": "quantitative",
             "title": "% Overweight/Obese Adults"
           },
+
           {
             "field": "Outlets per 100,000 population",
             "type": "quantitative",
             "title": "Outlets per 100,000"
           },
-          {"field": "Area Name", "type": "nominal", "title": "Local Authority"}
+          {"field": "Area Name", "type": "nominal", "title": "Local Authority"},
+
+                    {
+            "field": "Approx Pop",
+            "type": "ordinal",
+            "title": "Approx. population"
+          }
         ]
       }
     },

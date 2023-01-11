@@ -382,7 +382,7 @@
         "condition": {
             "selection": "picked",
             "value": "red"
-        },
+        }
 
         },
         "x": {

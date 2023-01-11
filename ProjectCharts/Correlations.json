@@ -12,6 +12,7 @@
   },
   "width": 650,
   "height": 300,
+  "padding":0,
   "view": {"stroke": "transparent"},
   "data": {
     "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/Correlations.csv",

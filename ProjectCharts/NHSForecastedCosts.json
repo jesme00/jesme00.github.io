@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 600,
+    "width": 500,
     "height": 400,
     "data": {
       "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/Future%20costs%20of%20elevated%20BMI%20(%C2%A3%20billion%20per%20year).csv"
@@ -28,7 +28,8 @@
         "sort": {"encoding": "x", "order": "ascending"},
         "axis": {
           "title": [""], 
-          "labelFontSize": 14,      "labelFontWeight":"bold",
+          "labelFontSize": 12,      
+          "labelFontWeight":"normal",
           "labelLimit":4010,
           "labelFlush": false,
           "ticks": false,
@@ -44,7 +45,7 @@
         "type": "quantitative",
         "axis": {
           "title": "£ billions per year",
-          "titleX":600,
+          "titleX":495,
           "titleAnchor":"end",
           "labelFontSize": 14,
           "tickCount": 4,

@@ -1,0 +1,97 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 300,
+  "height": 300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/Future%20costs%20of%20elevated%20BMI%20(%C2%A3%20billion%20per%20year).csv"
+  },
+  "title": {
+    "text": "Forecasted Costs of Elevated BMI",
+    "fontSize": 15,
+    "anchor": "middle",
+    "subtitle": "Source: Government Office for Science",
+    "subtitleFontStyle": "italic",
+    "subtitlePadding": 4,
+    "subtitleFontSize": 12,
+    "color": "black"
+  },
+  "params": [
+    {"name": "highlight", "select": {"type": "point", "on": "mouseover"}}
+  ],
+  "padding": 0,
+  "transform": [{"fold": ["2025", "2050"], "as": ["var", "val"]}],
+  "mark": "bar",
+  "spacing": 80,
+  "encoding": {
+    "y": {
+      "field": "Measure",
+      "type": "ordinal",
+      "sort": {"encoding": "x", "order": "ascending"},
+      "axis": {
+        "title": [""],
+        "labelFontSize": 10,
+        "labelFontWeight": "bold",
+        "labelLimit": 600,
+        "labelOffset": 0,
+        "labelPadding": 0,
+        "labelAngle": 0,
+        "zindex": 1,
+        "labelAlign": "left",
+        "ticks": false,
+        "tickOpacity": 0.7,
+        "gridOpacity": 0.8,
+        "titleFontSize": 10,
+        "titlePadding": 2,
+        "titleFontWeight": "bold"
+      }
+    },
+    "x": {
+      "field": "val",
+      "type": "quantitative",
+      "axis": {
+        "title": "£ billions per year",
+        "titleAnchor": "middle",
+        "labelFontSize": 14,
+        "tickCount": 4,
+        "tickWidth": 1,
+        "ticks": false,
+        "tickOpacity": 0.7,
+        "gridOpacity": 0.8,
+        "titleFontSize": 14,
+        "titlePadding": 2,
+        "titleFontWeight": "bold"
+      }
+    },
+    "color": {
+      "field": "var",
+      "type": "nominal",
+      "scale": {"scheme": "pastel1"},
+      "title": [""],
+      "legend": {
+        "orient": "top-right",
+        "offset":1,
+        "labelExpr": "{'2025': '2025', '2050': '2050'}[datum.label]",
+        "labelFontSize": 10,
+        "labelFontStyle": "bold",
+        "labelFont": "Arial"
+      }
+    },
+    "yOffset": {"field": "var", "type": "nominal"},
+    "fillOpacity": {
+      "condition": {"param": "highlight", "value": 1},
+      "value": 0.4
+    },
+    "tooltip": [
+      {
+        "field": "2025",
+        "type": "nominal",
+        "title": "2025 forecasted cost (£bn)"
+      },
+      {
+        "field": "2050",
+        "type": "nominal",
+        "title": "2050 forecasted cost (£bn)"
+      }
+    ]
+  }
+}

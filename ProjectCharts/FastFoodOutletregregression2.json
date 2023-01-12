@@ -12,6 +12,7 @@
   },
   "width": 550,
   "height": 550,
+  "padding":10,
   "view": {"stroke": "transparent"},
   "data": {
     "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/FastFoodDensityAndObesity.csv",

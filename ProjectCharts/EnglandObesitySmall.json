@@ -1,0 +1,85 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 250,
+  "height": 450,
+  "padding": 0,
+  "view": {"stroke": "transparent"},
+  "title": {
+    "text": "Percentage of Adults Classified as Overweight or Obese",
+    "fontSize": 15,
+    "subtitle": [
+      "By Local Authority. Sources: ONS and Office for Health Improvement and Disparities"
+    ],
+    "subtitleFontStyle": "italic",
+    "subtitlePadding": 4,
+    "subtitleFontSize": 12,
+    "anchor": "middle",
+    "color": "black"
+  },
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2020,
+      "bind": {
+        "input": "range",
+        "min": 2015,
+        "max": 2020,
+        "step": 1,
+        "name": "Year:"
+      }
+    }
+  ],
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/adultsoverweightorobeselocalauthority.csv",
+    "format": {"type": "csv"}
+  },
+  "transform": [
+    {"filter": "datum.Year == yearSelector"},
+    {
+      "lookup": "Area Name",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/LAD21.json",
+          "format": {"property": "features"}
+        },
+        "key": "properties.LAD21NM",
+        "fields": ["properties", "type", "geometry"]
+      }
+    }
+  ],
+  "projection": {"type": "mercator"},
+  "mark": "geoshape",
+  "encoding": {
+    "color": {
+      "field": "Value",
+      "legend": {
+        "title": "%",
+        "titleFontSize": 10,
+        "titleAlign": "left",
+        "titleAnchor": "start",
+        "gradientLength": 200,
+        "orient": "top-left",
+        "direction": "vertical",
+        "titlePadding": 5
+      },
+      "type": "quantitative",
+      "scale": {
+        "domain": [38, 78],
+        "type": "linear",
+        "scheme": "yellowgreenblue"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "properties.LAD21NM",
+        "type": "nominal",
+        "title": "Local Authority"
+      },
+      {
+        "field": "Value",
+        "type": "quantitative",
+        "title": "% Overweight/Obese Adults"
+      }
+    ]
+  }
+}

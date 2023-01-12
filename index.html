@@ -166,21 +166,26 @@
 
 
 <script>
-    //Define charts:
-    var myChart1 = "ProjectCharts/NHSForecastedCosts.json"
-    var myChart2 = "ProjectCharts/EnglandObesity.json"
-    var myChart3 = "ProjectCharts/Correlations.json";
-    var myChart4 = "ProjectCharts/earnings.json";   
-    var myChart5 = "ProjectCharts/FastFoodOutletregregression2.json";
- 
 
+let width = screen.width;
+if (width > 950) {
+    myChart1 = "ProjectCharts/NHSForecastedCosts.json";
+    myChart2 = "ProjectCharts/EnglandObesity.json"
+    myChart3 = "ProjectCharts/Correlations.json";
+    myChart4 = "ProjectCharts/earnings.json";   
+    myChart5 = "ProjectCharts/FastFoodOutletregregression2.json";} 
+    else {
+    myChart1 = "ProjectCharts/NHSForecastedCostsSmall.json";
+    myChart2 = "ProjectCharts/EnglandObesitySmall.json"
+    myChart3 = "ProjectCharts/CorrelationsSmall.json";
+    myChart4 = "ProjectCharts/earningsSmall.json";   
+    myChart5 = "ProjectCharts/FastFoodOutletregregression2Small.json";}
 
-    // Embed charts:
     vegaEmbed('#Chart1', myChart1);
-    vegaEmbed('#Chart2', myChart2);    
-    vegaEmbed('#Chart3', myChart3);
-    vegaEmbed('#Chart4', myChart4);
-    vegaEmbed('#Chart5', myChart5);
+    vegaEmbed('#Chart2', myChart2);          
+    vegaEmbed('#Chart3', myChart3);    
+    vegaEmbed('#Chart4', myChart4);    
+    vegaEmbed('#Chart5', myChart5);    
     
 </script>
 

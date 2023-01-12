@@ -3,7 +3,7 @@
   "title": {
     "text": "Obesity and Fast Food Outlet Density",
     "fontSize": 18,
-    "subtitle": "Plot size based on area population. Sources: PHE and Office for Health Improvement and Disparities",
+    "subtitle": "Sources: PHE and Office for Health Improvement and Disparities",
     "subtitleFontStyle": "italic",
     "subtitlePadding": 4,
     "subtitleFontSize": 13,
@@ -385,10 +385,10 @@
 
 
     "size": {
-      "field": "Approx Pop",
-      "type": "ordinal",
+      "field": "Outlets per 100,000 population",
+      "type": "quantitative",
       "title": "Prison Rate",
-      "scale": {"range": [15, 600]},
+      "scale": {"range": [-60, 600]},
       "legend": null,
           "condition": {"value": 300, "selection": "picked"}
     },

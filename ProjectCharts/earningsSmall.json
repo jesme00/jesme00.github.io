@@ -2,15 +2,15 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": {
     "text": "Obesity and Average Weekly Earnings",
-    "fontSize": 15,
+    "fontSize": 14,
     "subtitle": "Source: Office for Health Improvement and Disparities",
     "subtitleFontStyle": "italic",
     "subtitlePadding": 4,
-    "subtitleFontSize": 12,
+    "subtitleFontSize": 10,
     "anchor": "middle",
     "color": "black"
   },
-  "width": 350,
+  "width": 300,
   "height": 350,
   "padding": 0,
   "view": {"stroke": "transparent"},

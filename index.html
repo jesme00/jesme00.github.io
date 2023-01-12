@@ -30,18 +30,19 @@
     
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="myWeek1">     
-        <h3>Obesity was historically considered an individual's health problem owing to poor diet and little exercise. Today there is growing evidence around its impact on society and the economy. Among the problems it's causing is its staggering costs for the NHS.
-        <br>
-    </h3>
+        <h3>Obesity was historically considered an individual's health problem owing to poor diet and little exercise. Today there is growing evidence around its impact on society and the economy. Among the problems it's causing is its staggering costs for the NHS.    </h3>
+
          <div class="chart" id="Chart1"></div>
-         <p2>
          <br>
+         <p2>...</p2>
+         <br>
+         <p2>
          The y axis labels are long here, so I played around with offset, limit and padding tools in Vega to stop the bars themselves from sliding way off the right side of the page.</p2>
          
          <h3>How can we stop NHS costs attributable to obesity reaching these predictions?<h3>
            <p2>The aim of this project is to interrogate the relationship obesity has with other variables, looking to see if there are any that we might want to pay closer attention to when evaluating how best to go about solving this socioeconomic problem.
-         <br>
-        </p2>      
+            <br>
+            ...</p2>  
             </div> 
            
      <div class="myWeek1">
@@ -51,7 +52,9 @@
         </p2>   
           <div class="chart" id="Chart2"></div>         
           <br>
-       <p2>I used the <a href="https://fingertips.phe.org.uk/profile/guidance/supporting-information/api">PHE API package</a> to collect obesity data from <a href="https://fingertips.phe.org.uk/profile/health-profiles">their website</a> and made sure local authority boundary names matched to those in my GeoJSON file from <a href="https://geoportal.statistics.gov.uk/datasets/ons::lad-dec-2021-gb-bfc/explore?location=53.179829%2C-1.659691%2C6.09">the ONS</a> before combining the two in Vega, so it shows up for everywhere in England.
+          <p2>...</p2>
+          <br>
+          <p2>I used the <a href="https://fingertips.phe.org.uk/profile/guidance/supporting-information/api">PHE API package</a> to collect obesity data from <a href="https://fingertips.phe.org.uk/profile/health-profiles">their website</a> and made sure local authority boundary names matched to those in my GeoJSON file from <a href="https://geoportal.statistics.gov.uk/datasets/ons::lad-dec-2021-gb-bfc/explore?location=53.179829%2C-1.659691%2C6.09">the ONS</a> before combining the two in Vega, so it shows up for everywhere in England.
     <br>
 </p2>  
                </div> 
@@ -61,11 +64,17 @@
         <p2>Reducing obesity to a problem caused by physical inactivity and eating too many calories is unhelpful, when these two factors are determined by so many variables. There is a plethora of other health-related data available from the website, but comparing variables with obesity one by one would take forever. In the hope of exposing trends, I automated the collection of it by running the API to scrape all local-authority level data available.
           <br>
         </p2>
+        <br>
+        <p2>...</p2>
+        <br>
           <div class="chart" id="Chart3"></div>
+          <br>
+          <p2>...</p2>
           <br>
         <p2>Cleaning this data was difficult, where health indicators were inconsistent in their age groups and time periods. Addressing this involved frequently printing the most and least common variable options to ensure I did not delete too much data purely because it didn’t align with the formatting of other datasets. I encountered an issue when trying to calculate correlations because Colab wanted to drop rows when columns had missing data, but this would have affected the number of inputs for other indicators in the table: I addressed this by using the =CORREL in Excel which ignored empty cells. Initially this chart moved right across the page because of the long names in the drop down. I have tried shortening names and removed the y axis title to resolve this, to part success.
             <br>
-        </p2> 
+        </p2>
+         
                </div>
 
     <div class="myWeek1">                 
@@ -73,8 +82,13 @@
         <p2>Filtering out instances that being overweight is a by-product of another health complication or vice versa (e.g. <a href="https://www.nhs.uk/conditions/high-blood-pressure-hypertension/causes/#:~:text=Known%20causes%20of%20high%20blood%20pressure&text=kidney%20disease,during%20sleep%2C%20interrupting%20normal%20breathing">hypertension</a>), and dropping those indicative of exercise habits, the highest correlations the chart leaves behind largely relate to deprivation (e.g. affordability of home ownership, unpaid carers, weekly earnings, overcrowding). This is not surprising, where a healthy lifestyle is expensive to maintain and requires leisure time for exercise.
         <br>
         </p2>
+        <br>
+        <p2>...</p2>
+        <br>
         <div class="chart" id="Chart4"></div>
-        <p2>
+        <br>
+        <p2>...</p2>
+        <br>
         <br>I used the same API to create this chart, this time collecting it across 6 years, to see how robust across time this relationship is. Although the R squared value is not particulary high, the rate of overweight and obese adults is clearly trending down in income, .</p2>
 
         </div>
@@ -82,9 +96,14 @@
 
      <div class="myWeek1">   
         <h3>Is there a case for policies that have been suggested?<h3> 
-        <p2>Despite the correlations chart not shedding much new light, and remembering that a strong correlation is not enough to prove causation, the process of producing this chart was useful because it taught me the code necessary to clean data so that I can compare obesity rates with other data to evaluate whether or not existing suggested policies might be effective. For example, The government has looked into introducing policies <a href="https://www.gov.uk/government/publications/obesity-and-the-environment-briefing-regulating-the-growth-of-fast-food-outlets">regulating the growth of fast food outlets</a>. The chart below hints they might not be very useful.</p2>
+        <p2>Despite the correlations chart not shedding much new light, and remembering that a strong correlation is not enough to prove causation, the process of producing this chart was useful because it taught me the code necessary to clean data so that I can compare obesity rates with other data to evaluate whether or not existing suggested policies might be effective. For example, The government has looked into introducing policies <a href="https://www.gov.uk/government/publications/obesity-and-the-environment-briefing-regulating-the-growth-of-fast-food-outlets">regulating the growth of fast food outlets</a>. The chart below hints they might not be very useful.
+        <br>
+    </p2>
+        <p2>...</p2>
         <br>
         <div class="chart" id="Chart5"></div>
+        <br>
+        <p2>...</p2>
         <br>
         <p2>Despite the positive correlation, it is a very weak relationship, as shown by the poor fit of the regression line and low R squared value. This policy may not be a worthwhile endeavour to directly address obesity relative to others: arguably, it makes sense that this policy research paper was not taken further or updated since 2014.
             <br>

@@ -1,0 +1,1817 @@
+,Area Name,Obesity Rate,Obesity Compared to England value or percentiles,Year,Sex,"Av. Weekly Earnings, £",Earnings Compared to England value or percentiles
+0,Hartlepool,67.2,Worse,2015,Persons,382,Similar
+1,Middlesbrough,67.6,Worse,2015,Persons,348.4,Worse
+2,Redcar and Cleveland,68.7,Worse,2015,Persons,375.3,Similar
+3,Stockton-on-Tees,65.8,Similar,2015,Persons,388.6,Similar
+4,Darlington,70.3,Worse,2015,Persons,396.6,Similar
+5,Halton,69,Worse,2015,Persons,391.4,Similar
+6,Warrington,65.2,Worse,2015,Persons,442.1,Similar
+7,Blackburn with Darwen,61.3,Similar,2015,Persons,334.3,Worse
+8,Blackpool,68.4,Worse,2015,Persons,305.9,Worse
+9,Kingston upon Hull,66.7,Worse,2015,Persons,328.8,Worse
+10,East Riding of Yorkshire,66.6,Worse,2015,Persons,383.3,Worse
+11,North East Lincolnshire,63.7,Similar,2015,Persons,334.8,Worse
+12,North Lincolnshire,64.7,Similar,2015,Persons,388.8,Similar
+13,York,59.3,Similar,2015,Persons,396.2,Similar
+14,Derby,64.9,Worse,2015,Persons,403.5,Similar
+15,Leicester,61.5,Similar,2015,Persons,328.9,Worse
+16,Rutland,58.2,Similar,2015,Persons,438.1,Similar
+17,Nottingham,62.2,Similar,2015,Persons,339.8,Worse
+18,Herefordshire,62,Similar,2015,Persons,336.7,Worse
+19,Telford and Wrekin,66.8,Worse,2015,Persons,358.9,Worse
+20,Stoke-on-Trent,67.2,Worse,2015,Persons,352.1,Worse
+21,Bath and North East Somerset,57.7,Better,2015,Persons,402.6,Similar
+22,Bristol,56.5,Better,2015,Persons,431.5,Similar
+23,North Somerset,65.7,Similar,2015,Persons,427.4,Similar
+24,South Gloucestershire,64.9,Worse,2015,Persons,415.8,Similar
+25,Plymouth,66.1,Worse,2015,Persons,388,Similar
+26,Torbay,61.2,Similar,2015,Persons,329.5,Worse
+27,Swindon,69,Worse,2015,Persons,413.9,Similar
+28,Peterborough,62.2,Similar,2015,Persons,380.3,Similar
+29,Luton,65,Worse,2015,Persons,392.2,Similar
+30,Southend-on-Sea,57.8,Better,2015,Persons,403.2,Similar
+31,Thurrock,66.3,Worse,2015,Persons,459.2,Similar
+32,Medway,66.5,Worse,2015,Persons,458,Better
+33,Bracknell Forest,58.7,Similar,2015,Persons,494.7,Better
+34,West Berkshire,59.2,Similar,2015,Persons,497.7,Better
+35,Reading,56.4,Better,2015,Persons,479.8,Better
+36,Slough,65.8,Worse,2015,Persons,478.7,Better
+37,Windsor and Maidenhead,53.4,Better,2015,Persons,592.1,Better
+38,Wokingham,50.7,Better,2015,Persons,550.1,Better
+39,Milton Keynes,62.4,Similar,2015,Persons,444.3,Similar
+40,Brighton and Hove,51.1,Better,2015,Persons,425.4,Similar
+41,Portsmouth,66.9,Worse,2015,Persons,404.7,Similar
+42,Southampton,61.3,Similar,2015,Persons,388.1,Similar
+43,Isle of Wight,67,Worse,2015,Persons,361.6,Worse
+44,County Durham,68.3,Worse,2015,Persons,400.6,Similar
+45,Cheshire East,59.5,Similar,2015,Persons,412.4,Similar
+46,Cheshire West and Chester,59.9,Similar,2015,Persons,409,Similar
+47,Shropshire,59.4,Similar,2015,Persons,383.4,Similar
+48,Cornwall,60.8,Similar,2015,Persons,334.7,Worse
+49,Isles of Scilly,58,Similar,2015,Persons,,Not compared
+50,Wiltshire,61.9,Similar,2015,Persons,398.5,Similar
+51,Bedford,57.7,Similar,2015,Persons,432.2,Similar
+52,Central Bedfordshire,59.2,Similar,2015,Persons,455.4,Similar
+53,Northumberland,62.9,Similar,2015,Persons,378.4,Worse
+54,Cambridge,50.7,Better,2015,Persons,475,Similar
+55,East Cambridgeshire,65.4,Similar,2015,Persons,442.6,Similar
+56,Fenland,72.2,Worse,2015,Persons,352.2,Worse
+57,Huntingdonshire,59.9,Similar,2015,Persons,451.5,Better
+58,South Cambridgeshire,60.1,Similar,2015,Persons,494.2,Better
+59,Allerdale,65.6,Similar,2015,Persons,379.7,Similar
+60,Barrow-in-Furness,70.7,Worse,2015,Persons,327.5,Worse
+61,Carlisle,57.9,Similar,2015,Persons,351.9,Worse
+62,Copeland,61.8,Similar,2015,Persons,478.1,Similar
+63,Eden,52.3,Better,2015,Persons,310.8,Worse
+64,South Lakeland,53.1,Better,2015,Persons,382.3,Similar
+65,Amber Valley,66.4,Worse,2015,Persons,384.3,Similar
+66,Bolsover,73.9,Worse,2015,Persons,340.2,Worse
+67,Chesterfield,67.5,Worse,2015,Persons,361.9,Worse
+68,Derbyshire Dales,59.4,Similar,2015,Persons,377.9,Similar
+69,Erewash,63.7,Similar,2015,Persons,405.6,Similar
+70,High Peak,61.7,Similar,2015,Persons,387.9,Similar
+71,North East Derbyshire,62.5,Similar,2015,Persons,372.6,Similar
+72,South Derbyshire,69.3,Worse,2015,Persons,438.2,Similar
+73,East Devon,62.1,Similar,2015,Persons,378.6,Similar
+74,Exeter,61.3,Similar,2015,Persons,372.5,Similar
+75,Mid Devon,62.3,Similar,2015,Persons,389.7,Similar
+76,North Devon,61.5,Similar,2015,Persons,314.4,Worse
+77,South Hams,61.3,Similar,2015,Persons,374.9,Similar
+78,Teignbridge,67.3,Worse,2015,Persons,338.8,Worse
+79,Torridge,59.6,Similar,2015,Persons,304.8,Worse
+80,West Devon,61.7,Similar,2015,Persons,340.9,Worse
+81,Eastbourne,53.7,Better,2015,Persons,385.6,Similar
+82,Hastings,58.9,Similar,2015,Persons,349.5,Worse
+83,Lewes,58.2,Similar,2015,Persons,424.6,Similar
+84,Rother,62.3,Similar,2015,Persons,359,Similar
+85,Wealden,56.5,Better,2015,Persons,407.5,Similar
+86,Basildon,67.2,Worse,2015,Persons,421.6,Similar
+87,Braintree,57.9,Similar,2015,Persons,423.4,Similar
+88,Brentwood,58.2,Similar,2015,Persons,594.6,Better
+89,Castle Point,67.5,Worse,2015,Persons,391.8,Similar
+90,Chelmsford,60.8,Similar,2015,Persons,445.1,Similar
+91,Colchester,59.9,Similar,2015,Persons,383.3,Similar
+92,Epping Forest,59.9,Similar,2015,Persons,515.6,Better
+93,Harlow,68.5,Worse,2015,Persons,405.6,Similar
+94,Maldon,58.8,Similar,2015,Persons,440.9,Similar
+95,Rochford,54.8,Better,2015,Persons,418.7,Similar
+96,Tendring,67.5,Worse,2015,Persons,378.1,Similar
+97,Uttlesford,57.8,Similar,2015,Persons,450.8,Similar
+98,Cheltenham,54.9,Better,2015,Persons,432.1,Similar
+99,Cotswold,53.7,Better,2015,Persons,396.1,Similar
+100,Forest of Dean,67.8,Worse,2015,Persons,368.5,Similar
+101,Gloucester,67,Worse,2015,Persons,386.7,Similar
+102,Stroud,57.3,Similar,2015,Persons,422.1,Similar
+103,Tewkesbury,59.2,Similar,2015,Persons,425.6,Similar
+104,Basingstoke and Deane,58.6,Similar,2015,Persons,495.5,Better
+105,East Hampshire,60.9,Similar,2015,Persons,458.9,Similar
+106,Eastleigh,64.9,Similar,2015,Persons,417.5,Similar
+107,Fareham,70.6,Worse,2015,Persons,466.2,Similar
+108,Gosport,71.5,Worse,2015,Persons,401,Similar
+109,Hart,61.7,Similar,2015,Persons,538.2,Better
+110,Havant,65.5,Similar,2015,Persons,422,Similar
+111,New Forest,63.3,Similar,2015,Persons,404.2,Similar
+112,Rushmoor,61.8,Similar,2015,Persons,439.3,Similar
+113,Test Valley,60,Similar,2015,Persons,441.8,Similar
+114,Winchester,50.5,Better,2015,Persons,510.3,Better
+115,Broxbourne,61.3,Similar,2015,Persons,479.1,Similar
+116,Dacorum,56.4,Better,2015,Persons,460,Similar
+117,Hertsmere,59.9,Similar,2015,Persons,461.6,Similar
+118,North Hertfordshire,59.5,Similar,2015,Persons,501.8,Better
+119,Three Rivers,59.6,Similar,2015,Persons,479,Similar
+120,Watford,61.7,Similar,2015,Persons,530.3,Better
+121,Ashford,64.7,Similar,2015,Persons,404.2,Similar
+122,Canterbury,57.9,Similar,2015,Persons,427.2,Similar
+123,Dartford,68,Worse,2015,Persons,484.4,Better
+124,Dover,66.2,Worse,2015,Persons,421.6,Similar
+125,Gravesham,62.9,Similar,2015,Persons,413.7,Similar
+126,Maidstone,56.4,Better,2015,Persons,446.1,Similar
+127,Sevenoaks,51.8,Better,2015,Persons,470.4,Similar
+128,Folkestone & Hythe,64.6,Similar,2015,Persons,404.1,Similar
+129,Swale,58.7,Similar,2015,Persons,406.4,Similar
+130,Thanet,67.8,Worse,2015,Persons,331.3,Worse
+131,Tonbridge and Malling,59.3,Similar,2015,Persons,512.8,Better
+132,Tunbridge Wells,55.9,Better,2015,Persons,460.1,Similar
+133,Burnley,67.9,Worse,2015,Persons,363.2,Worse
+134,Chorley,59.5,Similar,2015,Persons,412.7,Similar
+135,Fylde,59.1,Similar,2015,Persons,383.2,Similar
+136,Hyndburn,62.9,Similar,2015,Persons,367.4,Worse
+137,Lancaster,64.4,Similar,2015,Persons,372.4,Worse
+138,Pendle,60.5,Similar,2015,Persons,367.6,Similar
+139,Preston,65.4,Similar,2015,Persons,337.2,Worse
+140,Ribble Valley,60.4,Similar,2015,Persons,440.6,Similar
+141,Rossendale,65.5,Similar,2015,Persons,372.7,Similar
+142,South Ribble,68.4,Worse,2015,Persons,411.3,Similar
+143,West Lancashire,66.7,Worse,2015,Persons,383.3,Similar
+144,Wyre,63,Similar,2015,Persons,366.8,Similar
+145,Blaby,63.3,Similar,2015,Persons,465.5,Similar
+146,Charnwood,55,Better,2015,Persons,423.2,Similar
+147,Harborough,56.9,Better,2015,Persons,478.3,Similar
+148,Hinckley and Bosworth,63.3,Similar,2015,Persons,408.3,Similar
+149,Melton,62.8,Similar,2015,Persons,345,Similar
+150,North West Leicestershire,70.9,Worse,2015,Persons,402.4,Similar
+151,Oadby and Wigston,59.9,Similar,2015,Persons,379.5,Similar
+152,Boston,71.4,Worse,2015,Persons,318.7,Worse
+153,East Lindsey,61.4,Similar,2015,Persons,355.7,Worse
+154,Lincoln,63.9,Similar,2015,Persons,345,Worse
+155,North Kesteven,66.1,Worse,2015,Persons,388.8,Similar
+156,South Holland,66.9,Worse,2015,Persons,367.3,Worse
+157,South Kesteven,66.1,Worse,2015,Persons,374.5,Worse
+158,West Lindsey,70.8,Worse,2015,Persons,384.6,Similar
+159,Breckland,67,Worse,2015,Persons,319.9,Worse
+160,Broadland,58.5,Similar,2015,Persons,361.9,Worse
+161,Great Yarmouth,65,Similar,2015,Persons,301.5,Worse
+162,King's Lynn and West Norfolk,67.1,Worse,2015,Persons,341.1,Worse
+163,North Norfolk,65.5,Similar,2015,Persons,316.2,Worse
+164,Norwich,55.2,Better,2015,Persons,364,Worse
+165,South Norfolk,64.2,Similar,2015,Persons,383.7,Similar
+166,Craven,57.3,Similar,2015,Persons,352.8,Similar
+167,Hambleton,61.8,Similar,2015,Persons,345.1,Worse
+168,Harrogate,52.6,Better,2015,Persons,383.3,Similar
+169,Richmondshire,68.4,Worse,2015,Persons,350.7,Similar
+170,Ryedale,58.9,Similar,2015,Persons,339.7,Worse
+171,Scarborough,70.2,Worse,2015,Persons,331,Worse
+172,Selby,63.6,Similar,2015,Persons,413.3,Similar
+173,Ashfield,70.2,Worse,2015,Persons,360.2,Worse
+174,Bassetlaw,71.8,Worse,2015,Persons,389.9,Similar
+175,Broxtowe,58.2,Similar,2015,Persons,441,Similar
+176,Gedling,66.1,Worse,2015,Persons,399.6,Similar
+177,Mansfield,68.2,Worse,2015,Persons,325.6,Worse
+178,Newark and Sherwood,67.4,Worse,2015,Persons,350.5,Worse
+179,Rushcliffe,59,Similar,2015,Persons,479.3,Similar
+180,Cherwell,60.1,Similar,2015,Persons,434.2,Similar
+181,Oxford,54.5,Better,2015,Persons,455.8,Better
+182,South Oxfordshire,56.2,Better,2015,Persons,475.6,Similar
+183,Vale of White Horse,55.4,Better,2015,Persons,461.2,Similar
+184,West Oxfordshire,48.5,Better,2015,Persons,465.7,Similar
+185,Mendip,56.6,Better,2015,Persons,360,Worse
+186,Sedgemoor,65,Similar,2015,Persons,348.1,Worse
+187,South Somerset,55.6,Better,2015,Persons,364.4,Worse
+188,Cannock Chase,65.8,Similar,2015,Persons,381.8,Similar
+189,East Staffordshire,61.4,Similar,2015,Persons,356.6,Worse
+190,Lichfield,63.3,Similar,2015,Persons,441.6,Similar
+191,Newcastle-under-Lyme,64.2,Similar,2015,Persons,392.8,Similar
+192,South Staffordshire,64.5,Similar,2015,Persons,444.8,Similar
+193,Stafford,67.8,Worse,2015,Persons,383.3,Similar
+194,Staffordshire Moorlands,67.1,Worse,2015,Persons,386.4,Similar
+195,Tamworth,70.6,Worse,2015,Persons,389.7,Similar
+196,Babergh,58.2,Similar,2015,Persons,383.1,Similar
+197,Ipswich,60.4,Similar,2015,Persons,372.5,Worse
+198,Mid Suffolk,65.8,Similar,2015,Persons,389.8,Similar
+199,Elmbridge,55.7,Better,2015,Persons,574.9,Better
+200,Epsom and Ewell,48.9,Better,2015,Persons,515.1,Better
+201,Guildford,59.9,Similar,2015,Persons,525.9,Better
+202,Mole Valley,59,Similar,2015,Persons,484,Similar
+203,Reigate and Banstead,59.2,Similar,2015,Persons,513.2,Better
+204,Runnymede,60.5,Similar,2015,Persons,496.4,Better
+205,Spelthorne,61.5,Similar,2015,Persons,555.8,Better
+206,Surrey Heath,58.7,Similar,2015,Persons,530,Better
+207,Tandridge,57.7,Similar,2015,Persons,536,Better
+208,Waverley,56.7,Similar,2015,Persons,507.1,Better
+209,Woking,58.8,Similar,2015,Persons,506.6,Better
+210,North Warwickshire,64.3,Similar,2015,Persons,411.8,Similar
+211,Nuneaton and Bedworth,67.8,Worse,2015,Persons,413.4,Similar
+212,Rugby,56.5,Better,2015,Persons,454.4,Similar
+213,Stratford-on-Avon,56.2,Better,2015,Persons,382.2,Similar
+214,Warwick,56.3,Better,2015,Persons,470.6,Better
+215,Adur,60.2,Similar,2015,Persons,417.2,Similar
+216,Arun,58.8,Similar,2015,Persons,368.2,Worse
+217,Chichester,55.8,Better,2015,Persons,388.7,Similar
+218,Crawley,65.3,Similar,2015,Persons,455.6,Similar
+219,Horsham,60.3,Similar,2015,Persons,448,Similar
+220,Mid Sussex,62.4,Similar,2015,Persons,484.6,Better
+221,Worthing,62.2,Similar,2015,Persons,416.8,Similar
+222,Bromsgrove,60.9,Similar,2015,Persons,461.1,Similar
+223,Malvern Hills,58.1,Similar,2015,Persons,364.2,Similar
+224,Redditch,69,Worse,2015,Persons,327.1,Worse
+225,Worcester,63.7,Similar,2015,Persons,425.2,Similar
+226,Wychavon,65.8,Worse,2015,Persons,401.3,Similar
+227,Wyre Forest,59.8,Similar,2015,Persons,366.7,Similar
+228,St Albans,59.6,Similar,2015,Persons,557.9,Better
+229,Welwyn Hatfield,65.8,Similar,2015,Persons,421.6,Similar
+230,East Hertfordshire,56.5,Better,2015,Persons,497.4,Better
+231,Stevenage,63.9,Similar,2015,Persons,410.9,Similar
+232,Bolton,62.9,Similar,2015,Persons,373,Worse
+233,Bury,66.6,Worse,2015,Persons,444.8,Similar
+234,Manchester,61.2,Similar,2015,Persons,380.1,Worse
+235,Oldham,65.2,Worse,2015,Persons,368.7,Worse
+236,Rochdale,63,Similar,2015,Persons,372.4,Worse
+237,Salford,64.5,Similar,2015,Persons,385.7,Similar
+238,Stockport,61.6,Similar,2015,Persons,418.7,Similar
+239,Tameside,65.7,Worse,2015,Persons,363.9,Worse
+240,Trafford,59.6,Similar,2015,Persons,424,Similar
+241,Wigan,64.5,Worse,2015,Persons,396.6,Similar
+242,Knowsley,69.1,Worse,2015,Persons,393.1,Similar
+243,Liverpool,65.1,Worse,2015,Persons,376.8,Worse
+244,St. Helens,71.3,Worse,2015,Persons,385.7,Similar
+245,Sefton,68.4,Worse,2015,Persons,384.8,Worse
+246,Wirral,60.3,Similar,2015,Persons,392.2,Similar
+247,Barnsley,71.1,Worse,2015,Persons,379.1,Worse
+248,Doncaster,71.4,Worse,2015,Persons,350.5,Worse
+249,Rotherham,71.7,Worse,2015,Persons,351.9,Worse
+250,Sheffield,60.8,Similar,2015,Persons,378.6,Worse
+251,Newcastle upon Tyne,64.2,Worse,2015,Persons,379.7,Similar
+252,North Tyneside,69.6,Worse,2015,Persons,388,Similar
+253,South Tyneside,69.9,Worse,2015,Persons,378.3,Worse
+254,Sunderland,64.6,Worse,2015,Persons,361.5,Worse
+255,Birmingham,62.6,Similar,2015,Persons,383.3,Worse
+256,Coventry,63.8,Similar,2015,Persons,400.4,Similar
+257,Dudley,66.8,Worse,2015,Persons,384.3,Similar
+258,Sandwell,68.9,Worse,2015,Persons,367.1,Worse
+259,Solihull,61.6,Similar,2015,Persons,454,Similar
+260,Walsall,64.3,Similar,2015,Persons,364.1,Worse
+261,Wolverhampton,68,Worse,2015,Persons,356.4,Worse
+262,Bradford,69.2,Worse,2015,Persons,364.6,Worse
+263,Calderdale,60.6,Similar,2015,Persons,399.2,Similar
+264,Kirklees,61.6,Similar,2015,Persons,369.9,Worse
+265,Leeds,61,Similar,2015,Persons,402.5,Similar
+266,Wakefield,66.5,Worse,2015,Persons,365.1,Worse
+267,Gateshead,69.4,Worse,2015,Persons,389.5,Similar
+268,City of London,43.5,Better,2015,Persons,,Not compared
+269,Barking and Dagenham,68.3,Worse,2015,Persons,415.2,Similar
+270,Barnet,49.4,Better,2015,Persons,479.1,Better
+271,Bexley,60.4,Similar,2015,Persons,479.1,Better
+272,Brent,56.9,Similar,2015,Persons,435,Similar
+273,Bromley,60.9,Similar,2015,Persons,575,Better
+274,Camden,44.1,Better,2015,Persons,575.6,Better
+275,Croydon,63.4,Similar,2015,Persons,479.1,Better
+276,Ealing,56.1,Better,2015,Persons,482.1,Better
+277,Enfield,62.3,Similar,2015,Persons,459.8,Better
+278,Greenwich,64,Similar,2015,Persons,522.2,Better
+279,Hackney,50.7,Better,2015,Persons,531.7,Better
+280,Hammersmith and Fulham,51.3,Better,2015,Persons,631.5,Better
+281,Haringey,52.4,Better,2015,Persons,489.5,Better
+282,Harrow,52,Better,2015,Persons,500.7,Better
+283,Havering,60.7,Similar,2015,Persons,503.9,Better
+284,Hillingdon,55.1,Better,2015,Persons,482.9,Better
+285,Hounslow,59.6,Similar,2015,Persons,476,Better
+286,Islington,49.7,Better,2015,Persons,597.6,Better
+287,Kensington and Chelsea,46,Better,2015,Persons,632.4,Better
+288,Kingston upon Thames,51.9,Better,2015,Persons,573.1,Better
+289,Lambeth,51.6,Better,2015,Persons,535.1,Better
+290,Lewisham,57,Similar,2015,Persons,515.2,Better
+291,Merton,54.7,Better,2015,Persons,530.6,Better
+292,Newham,60.4,Similar,2015,Persons,407.9,Similar
+293,Redbridge,53.8,Better,2015,Persons,521.3,Better
+294,Richmond upon Thames,52.6,Better,2015,Persons,639.3,Better
+295,Southwark,46.4,Better,2015,Persons,554.5,Better
+296,Sutton,53,Better,2015,Persons,487.5,Better
+297,Tower Hamlets,55.6,Better,2015,Persons,549.8,Better
+298,Waltham Forest,54.4,Better,2015,Persons,459.6,Similar
+299,Wandsworth,53.1,Better,2015,Persons,652.7,Better
+300,Westminster,50.1,Better,2015,Persons,653.2,Better
+301,Hartlepool,71,Worse,2016,Persons,421.4,Similar
+302,Middlesbrough,65.9,Similar,2016,Persons,347.3,Worse
+303,Redcar and Cleveland,66,Worse,2016,Persons,378.5,Worse
+304,Stockton-on-Tees,66.6,Worse,2016,Persons,402,Similar
+305,Darlington,65.2,Similar,2016,Persons,425.2,Similar
+306,Halton,60,Similar,2016,Persons,404.7,Similar
+307,Warrington,65.6,Worse,2016,Persons,449.1,Similar
+308,Blackburn with Darwen,65.2,Similar,2016,Persons,338.8,Worse
+309,Blackpool,62.7,Similar,2016,Persons,325.8,Worse
+310,Kingston upon Hull,70.4,Worse,2016,Persons,343.9,Worse
+311,East Riding of Yorkshire,67.3,Worse,2016,Persons,395.9,Worse
+312,North East Lincolnshire,72.4,Worse,2016,Persons,335.5,Worse
+313,North Lincolnshire,72,Worse,2016,Persons,383.7,Worse
+314,York,59.4,Similar,2016,Persons,397.2,Similar
+315,Derby,64.2,Similar,2016,Persons,431.1,Similar
+316,Leicester,56.6,Better,2016,Persons,339.6,Worse
+317,Rutland,58.4,Similar,2016,Persons,414.4,Similar
+318,Nottingham,63.5,Similar,2016,Persons,351.8,Worse
+319,Herefordshire,63.2,Similar,2016,Persons,350,Worse
+320,Telford and Wrekin,66.1,Worse,2016,Persons,378.4,Worse
+321,Stoke-on-Trent,66.4,Worse,2016,Persons,367.2,Worse
+322,Bath and North East Somerset,56,Better,2016,Persons,446.3,Similar
+323,Bristol,55.6,Better,2016,Persons,440.8,Similar
+324,North Somerset,56.4,Better,2016,Persons,430.3,Similar
+325,South Gloucestershire,60.8,Similar,2016,Persons,421.7,Similar
+326,Plymouth,67.2,Worse,2016,Persons,378.7,Worse
+327,Torbay,62.8,Similar,2016,Persons,352.6,Worse
+328,Swindon,63.4,Similar,2016,Persons,444.8,Similar
+329,Peterborough,62.5,Similar,2016,Persons,375.6,Worse
+330,Luton,64.1,Similar,2016,Persons,384,Worse
+331,Southend-on-Sea,59.8,Similar,2016,Persons,443.1,Similar
+332,Thurrock,69.3,Worse,2016,Persons,474.7,Better
+333,Medway,64.3,Similar,2016,Persons,461.4,Similar
+334,Bracknell Forest,62,Similar,2016,Persons,487.5,Similar
+335,West Berkshire,61.8,Similar,2016,Persons,499.4,Better
+336,Reading,59,Similar,2016,Persons,462.2,Similar
+337,Slough,63.1,Similar,2016,Persons,485.5,Better
+338,Windsor and Maidenhead,56.7,Similar,2016,Persons,597.1,Better
+339,Wokingham,55.1,Better,2016,Persons,597.1,Better
+340,Milton Keynes,65.3,Worse,2016,Persons,470.6,Better
+341,Brighton and Hove,48,Better,2016,Persons,431.7,Similar
+342,Portsmouth,63.8,Similar,2016,Persons,404.3,Similar
+343,Southampton,63.5,Similar,2016,Persons,400.5,Worse
+344,Isle of Wight,65.2,Similar,2016,Persons,376,Worse
+345,County Durham,68,Worse,2016,Persons,397.5,Worse
+346,Cheshire East,60.2,Similar,2016,Persons,418.8,Similar
+347,Cheshire West and Chester,59,Similar,2016,Persons,412.2,Similar
+348,Shropshire,70.4,Worse,2016,Persons,392.1,Worse
+349,Cornwall,64.3,Similar,2016,Persons,352,Worse
+350,Isles of Scilly,64.5,Similar,2016,Persons,,Not compared
+351,Wiltshire,61.7,Similar,2016,Persons,406.3,Similar
+352,Bedford,60.9,Similar,2016,Persons,455.9,Similar
+353,Central Bedfordshire,63.1,Similar,2016,Persons,486.1,Better
+354,Northumberland,65.1,Worse,2016,Persons,387.8,Worse
+355,Cambridge,50.7,Better,2016,Persons,504.4,Better
+356,East Cambridgeshire,58.5,Similar,2016,Persons,431.3,Similar
+357,Fenland,71.5,Worse,2016,Persons,385.4,Similar
+358,Huntingdonshire,64.6,Similar,2016,Persons,473.8,Better
+359,South Cambridgeshire,54.9,Better,2016,Persons,515.9,Better
+360,Allerdale,65.2,Similar,2016,Persons,418.5,Similar
+361,Barrow-in-Furness,66.3,Worse,2016,Persons,379.2,Similar
+362,Carlisle,61.1,Similar,2016,Persons,366,Worse
+363,Copeland,65.7,Similar,2016,Persons,464.6,Similar
+364,Eden,63.9,Similar,2016,Persons,334.9,Worse
+365,South Lakeland,55,Better,2016,Persons,429.2,Similar
+366,Amber Valley,59.5,Similar,2016,Persons,409,Similar
+367,Bolsover,68.9,Worse,2016,Persons,352.9,Worse
+368,Chesterfield,65.7,Similar,2016,Persons,389.7,Similar
+369,Derbyshire Dales,54.2,Better,2016,Persons,425.2,Similar
+370,Erewash,67.2,Worse,2016,Persons,404.7,Similar
+371,High Peak,54.2,Better,2016,Persons,416.2,Similar
+372,North East Derbyshire,66.2,Worse,2016,Persons,386.7,Similar
+373,South Derbyshire,66.7,Worse,2016,Persons,466.1,Similar
+374,East Devon,61,Similar,2016,Persons,405,Similar
+375,Exeter,54.7,Better,2016,Persons,383.6,Similar
+376,Mid Devon,62.6,Similar,2016,Persons,398.6,Similar
+377,North Devon,58.5,Similar,2016,Persons,325.2,Worse
+378,South Hams,56.9,Similar,2016,Persons,384.9,Similar
+379,Teignbridge,55.7,Better,2016,Persons,356.4,Worse
+380,Torridge,57.2,Similar,2016,Persons,340.6,Worse
+381,West Devon,54.8,Better,2016,Persons,357.1,Worse
+382,Eastbourne,60.7,Similar,2016,Persons,419.1,Similar
+383,Hastings,60.4,Similar,2016,Persons,362.1,Worse
+384,Lewes,50.1,Better,2016,Persons,382.2,Similar
+385,Rother,62.1,Similar,2016,Persons,382.5,Similar
+386,Wealden,61.3,Similar,2016,Persons,436.4,Similar
+387,Basildon,71.1,Worse,2016,Persons,452.8,Similar
+388,Braintree,58.5,Similar,2016,Persons,443.9,Similar
+389,Brentwood,58,Similar,2016,Persons,582.9,Better
+390,Castle Point,64.1,Similar,2016,Persons,404.1,Similar
+391,Chelmsford,62.8,Similar,2016,Persons,466.8,Similar
+392,Colchester,64.3,Similar,2016,Persons,415.6,Similar
+393,Epping Forest,59.8,Similar,2016,Persons,496.3,Similar
+394,Harlow,68.2,Worse,2016,Persons,407.9,Similar
+395,Maldon,60.8,Similar,2016,Persons,524.3,Similar
+396,Rochford,59.9,Similar,2016,Persons,463.5,Similar
+397,Tendring,66.1,Worse,2016,Persons,368.4,Worse
+398,Uttlesford,56,Better,2016,Persons,483.8,Similar
+399,Cheltenham,59.4,Similar,2016,Persons,448.5,Similar
+400,Cotswold,57.9,Similar,2016,Persons,402.6,Similar
+401,Forest of Dean,59.8,Similar,2016,Persons,361.1,Similar
+402,Gloucester,64.1,Similar,2016,Persons,406.7,Similar
+403,Stroud,57.2,Similar,2016,Persons,428.2,Similar
+404,Tewkesbury,61.9,Similar,2016,Persons,444,Similar
+405,Basingstoke and Deane,61.2,Similar,2016,Persons,508.6,Better
+406,East Hampshire,59.3,Similar,2016,Persons,486.3,Similar
+407,Eastleigh,62.8,Similar,2016,Persons,433.6,Similar
+408,Fareham,63,Similar,2016,Persons,473.2,Similar
+409,Gosport,71.5,Worse,2016,Persons,418.5,Similar
+410,Hart,63.5,Similar,2016,Persons,506.4,Similar
+411,Havant,58.2,Similar,2016,Persons,417.3,Similar
+412,New Forest,59.6,Similar,2016,Persons,410.1,Similar
+413,Rushmoor,63.5,Similar,2016,Persons,461,Similar
+414,Test Valley,65.8,Similar,2016,Persons,459.3,Similar
+415,Winchester,54.3,Better,2016,Persons,524.7,Better
+416,Broxbourne,60.6,Similar,2016,Persons,479.1,Similar
+417,Dacorum,62.4,Similar,2016,Persons,490.9,Better
+418,Hertsmere,64.9,Similar,2016,Persons,487.8,Similar
+419,North Hertfordshire,60.8,Similar,2016,Persons,487.3,Similar
+420,Three Rivers,57,Similar,2016,Persons,496.6,Similar
+421,Watford,55.8,Better,2016,Persons,500.9,Better
+422,Ashford,62.3,Similar,2016,Persons,455.4,Similar
+423,Canterbury,53.5,Better,2016,Persons,412,Similar
+424,Dartford,65.5,Similar,2016,Persons,498.6,Better
+425,Dover,62.2,Similar,2016,Persons,427.7,Similar
+426,Gravesham,66,Similar,2016,Persons,426.2,Similar
+427,Maidstone,69.7,Worse,2016,Persons,448.6,Similar
+428,Sevenoaks,60.9,Similar,2016,Persons,454.1,Similar
+429,Folkestone & Hythe,64.5,Similar,2016,Persons,409.5,Similar
+430,Swale,70,Worse,2016,Persons,421.6,Similar
+431,Thanet,63.6,Similar,2016,Persons,330.1,Worse
+432,Tonbridge and Malling,59.9,Similar,2016,Persons,504.6,Better
+433,Tunbridge Wells,49.1,Better,2016,Persons,461.4,Similar
+434,Burnley,66,Similar,2016,Persons,401.8,Similar
+435,Chorley,62.5,Similar,2016,Persons,423.2,Similar
+436,Fylde,59.8,Similar,2016,Persons,386.1,Similar
+437,Hyndburn,67.8,Worse,2016,Persons,356.8,Worse
+438,Lancaster,63.4,Similar,2016,Persons,381.2,Worse
+439,Pendle,63.4,Similar,2016,Persons,389.7,Similar
+440,Preston,57.8,Similar,2016,Persons,358.2,Worse
+441,Ribble Valley,63.7,Similar,2016,Persons,434.8,Similar
+442,Rossendale,66.6,Worse,2016,Persons,343.8,Worse
+443,South Ribble,64,Similar,2016,Persons,412.3,Similar
+444,West Lancashire,63.9,Similar,2016,Persons,398.3,Similar
+445,Wyre,68.3,Worse,2016,Persons,365.9,Similar
+446,Blaby,54.7,Better,2016,Persons,447.8,Similar
+447,Charnwood,67.5,Worse,2016,Persons,426.2,Similar
+448,Harborough,56.1,Better,2016,Persons,479.5,Similar
+449,Hinckley and Bosworth,62.6,Similar,2016,Persons,413.9,Similar
+450,Melton,58.6,Similar,2016,Persons,365.7,Similar
+451,North West Leicestershire,67.1,Worse,2016,Persons,407.5,Similar
+452,Oadby and Wigston,64.2,Similar,2016,Persons,377.6,Similar
+453,Boston,64.1,Similar,2016,Persons,330.6,Worse
+454,East Lindsey,69.4,Worse,2016,Persons,354,Worse
+455,Lincoln,63.6,Similar,2016,Persons,341.7,Worse
+456,North Kesteven,67.2,Worse,2016,Persons,409.8,Similar
+457,South Holland,64.2,Similar,2016,Persons,383.3,Worse
+458,South Kesteven,64.9,Similar,2016,Persons,360.3,Worse
+459,West Lindsey,62.1,Similar,2016,Persons,385,Similar
+460,Breckland,57.7,Similar,2016,Persons,336.8,Worse
+461,Broadland,60.4,Similar,2016,Persons,373.8,Worse
+462,Great Yarmouth,66.2,Worse,2016,Persons,330.7,Worse
+463,King's Lynn and West Norfolk,68.9,Worse,2016,Persons,379.3,Worse
+464,North Norfolk,59,Similar,2016,Persons,328.9,Worse
+465,Norwich,57.5,Better,2016,Persons,362.9,Worse
+466,South Norfolk,61,Similar,2016,Persons,421.2,Similar
+467,Craven,55.9,Better,2016,Persons,337.8,Worse
+468,Hambleton,60.4,Similar,2016,Persons,387.5,Similar
+469,Harrogate,58.9,Similar,2016,Persons,404,Similar
+470,Richmondshire,59.6,Similar,2016,Persons,369.2,Similar
+471,Ryedale,64.9,Similar,2016,Persons,373.8,Similar
+472,Scarborough,59.9,Similar,2016,Persons,331.1,Worse
+473,Selby,65.5,Similar,2016,Persons,416.3,Similar
+474,Ashfield,74.8,Worse,2016,Persons,373.2,Worse
+475,Bassetlaw,67.5,Worse,2016,Persons,400,Similar
+476,Broxtowe,60.1,Similar,2016,Persons,469.1,Similar
+477,Gedling,60.5,Similar,2016,Persons,393.8,Similar
+478,Mansfield,65,Similar,2016,Persons,337.3,Worse
+479,Newark and Sherwood,63,Similar,2016,Persons,364,Worse
+480,Rushcliffe,63.7,Similar,2016,Persons,528.2,Better
+481,Cherwell,61.6,Similar,2016,Persons,476.9,Similar
+482,Oxford,52.3,Better,2016,Persons,498,Better
+483,South Oxfordshire,52.7,Better,2016,Persons,559,Better
+484,Vale of White Horse,55.9,Better,2016,Persons,512.4,Better
+485,West Oxfordshire,54.4,Better,2016,Persons,440.3,Similar
+486,Mendip,63,Similar,2016,Persons,363.9,Worse
+487,Sedgemoor,66.9,Worse,2016,Persons,366.3,Worse
+488,South Somerset,63.3,Similar,2016,Persons,376.7,Worse
+489,Cannock Chase,69.6,Worse,2016,Persons,418.9,Similar
+490,East Staffordshire,64.2,Similar,2016,Persons,370,Worse
+491,Lichfield,64.3,Similar,2016,Persons,453.8,Similar
+492,Newcastle-under-Lyme,69.8,Worse,2016,Persons,387.4,Similar
+493,South Staffordshire,61.6,Similar,2016,Persons,457.4,Similar
+494,Stafford,60.5,Similar,2016,Persons,391.1,Similar
+495,Staffordshire Moorlands,61.4,Similar,2016,Persons,404.8,Similar
+496,Tamworth,61.9,Similar,2016,Persons,411.4,Similar
+497,Babergh,58.3,Similar,2016,Persons,401.1,Similar
+498,Ipswich,58.4,Similar,2016,Persons,384.7,Worse
+499,Mid Suffolk,63.9,Similar,2016,Persons,407.8,Similar
+500,Elmbridge,54.7,Better,2016,Persons,574.6,Better
+501,Epsom and Ewell,53.1,Better,2016,Persons,542.8,Better
+502,Guildford,48.6,Better,2016,Persons,545.1,Better
+503,Mole Valley,51,Better,2016,Persons,488.1,Similar
+504,Reigate and Banstead,61,Similar,2016,Persons,517.2,Better
+505,Runnymede,55.7,Better,2016,Persons,501.1,Similar
+506,Spelthorne,63.4,Similar,2016,Persons,550,Better
+507,Surrey Heath,64,Similar,2016,Persons,531,Better
+508,Tandridge,54.4,Better,2016,Persons,516,Similar
+509,Waverley,51.1,Better,2016,Persons,554.2,Better
+510,Woking,57.4,Similar,2016,Persons,519,Better
+511,North Warwickshire,65.9,Worse,2016,Persons,445.3,Similar
+512,Nuneaton and Bedworth,65,Similar,2016,Persons,408.8,Similar
+513,Rugby,57.3,Similar,2016,Persons,473.1,Similar
+514,Stratford-on-Avon,51.8,Better,2016,Persons,453.8,Similar
+515,Warwick,55.7,Better,2016,Persons,509,Better
+516,Adur,61.9,Similar,2016,Persons,405,Similar
+517,Arun,60.9,Similar,2016,Persons,404.7,Similar
+518,Chichester,56.5,Better,2016,Persons,421.6,Similar
+519,Crawley,56.2,Better,2016,Persons,448.6,Similar
+520,Horsham,63,Similar,2016,Persons,459.8,Similar
+521,Mid Sussex,63.9,Similar,2016,Persons,468.7,Similar
+522,Worthing,59.9,Similar,2016,Persons,380.7,Similar
+523,Bromsgrove,63.8,Similar,2016,Persons,479.1,Similar
+524,Malvern Hills,59.2,Similar,2016,Persons,367.3,Similar
+525,Redditch,63.5,Similar,2016,Persons,367.8,Worse
+526,Worcester,58.1,Similar,2016,Persons,413.2,Similar
+527,Wychavon,63,Similar,2016,Persons,383.8,Similar
+528,Wyre Forest,60.2,Similar,2016,Persons,374.9,Worse
+529,St Albans,50.8,Better,2016,Persons,604.7,Better
+530,Welwyn Hatfield,63.1,Similar,2016,Persons,478.2,Similar
+531,East Hertfordshire,59.9,Similar,2016,Persons,536.4,Better
+532,Stevenage,65.6,Similar,2016,Persons,403.3,Similar
+533,Bolton,60.5,Similar,2016,Persons,378.4,Worse
+534,Bury,63.4,Similar,2016,Persons,443.4,Similar
+535,Manchester,63,Similar,2016,Persons,378.4,Worse
+536,Oldham,66.6,Worse,2016,Persons,370.6,Worse
+537,Rochdale,68.3,Worse,2016,Persons,375.8,Worse
+538,Salford,64.4,Similar,2016,Persons,388.6,Worse
+539,Stockport,60.6,Similar,2016,Persons,433.6,Similar
+540,Tameside,65.1,Worse,2016,Persons,378.7,Worse
+541,Trafford,55.9,Better,2016,Persons,488.7,Better
+542,Wigan,71.3,Worse,2016,Persons,397.6,Worse
+543,Knowsley,74.1,Worse,2016,Persons,419.4,Similar
+544,Liverpool,62.8,Similar,2016,Persons,402.2,Similar
+545,St. Helens,69.2,Worse,2016,Persons,419.8,Similar
+546,Sefton,62.7,Similar,2016,Persons,402.7,Similar
+547,Wirral,64.2,Similar,2016,Persons,403,Similar
+548,Barnsley,73.8,Worse,2016,Persons,386.8,Worse
+549,Doncaster,70,Worse,2016,Persons,357.9,Worse
+550,Rotherham,71.8,Worse,2016,Persons,369.1,Worse
+551,Sheffield,61.8,Similar,2016,Persons,396.8,Worse
+552,Newcastle upon Tyne,64,Worse,2016,Persons,390.1,Worse
+553,North Tyneside,60.3,Similar,2016,Persons,398.8,Similar
+554,South Tyneside,69.6,Worse,2016,Persons,383.2,Worse
+555,Sunderland,66.3,Worse,2016,Persons,376.7,Worse
+556,Birmingham,62.2,Similar,2016,Persons,391.2,Worse
+557,Coventry,64.4,Similar,2016,Persons,420.7,Similar
+558,Dudley,67.5,Worse,2016,Persons,408.2,Similar
+559,Sandwell,70.5,Worse,2016,Persons,376.4,Worse
+560,Solihull,64,Similar,2016,Persons,467.7,Similar
+561,Walsall,67.3,Worse,2016,Persons,363.3,Worse
+562,Wolverhampton,67.3,Worse,2016,Persons,376,Worse
+563,Bradford,64.3,Similar,2016,Persons,382.8,Worse
+564,Calderdale,58.5,Similar,2016,Persons,408.4,Similar
+565,Kirklees,65.1,Worse,2016,Persons,382.2,Worse
+566,Leeds,65,Worse,2016,Persons,429.6,Similar
+567,Wakefield,67.4,Worse,2016,Persons,371.6,Worse
+568,Gateshead,69.2,Worse,2016,Persons,388.7,Worse
+569,City of London,38.5,Better,2016,Persons,,Not compared
+570,Barking and Dagenham,62.6,Similar,2016,Persons,446.5,Similar
+571,Barnet,52.9,Better,2016,Persons,479.7,Better
+572,Bexley,62.9,Similar,2016,Persons,479.6,Better
+573,Brent,57.3,Similar,2016,Persons,452,Similar
+574,Bromley,56,Better,2016,Persons,574.6,Better
+575,Camden,45.1,Better,2016,Persons,632.4,Better
+576,Croydon,60.7,Similar,2016,Persons,498.3,Better
+577,Ealing,56.8,Similar,2016,Persons,483.9,Better
+578,Enfield,60.7,Similar,2016,Persons,454.4,Similar
+579,Greenwich,59.4,Similar,2016,Persons,528.8,Better
+580,Hackney,55.2,Better,2016,Persons,524.7,Better
+581,Hammersmith and Fulham,51.2,Better,2016,Persons,634.3,Better
+582,Haringey,48.3,Better,2016,Persons,477.3,Similar
+583,Harrow,58.6,Similar,2016,Persons,516.7,Better
+584,Havering,58.3,Similar,2016,Persons,513.8,Better
+585,Hillingdon,55.6,Better,2016,Persons,478.9,Better
+586,Hounslow,55.5,Better,2016,Persons,486.2,Better
+587,Islington,53.2,Better,2016,Persons,608.4,Better
+588,Kensington and Chelsea,40.7,Better,2016,Persons,647.9,Better
+589,Kingston upon Thames,51.8,Better,2016,Persons,556.1,Better
+590,Lambeth,51.1,Better,2016,Persons,537.7,Better
+591,Lewisham,56.9,Similar,2016,Persons,510.9,Better
+592,Merton,58.1,Similar,2016,Persons,574.9,Better
+593,Newham,61.1,Similar,2016,Persons,424.5,Similar
+594,Redbridge,60,Similar,2016,Persons,507.9,Better
+595,Richmond upon Thames,50.7,Better,2016,Persons,669.8,Better
+596,Southwark,56.6,Similar,2016,Persons,536.6,Better
+597,Sutton,58.2,Similar,2016,Persons,516.1,Better
+598,Tower Hamlets,48.8,Better,2016,Persons,549.1,Better
+599,Waltham Forest,53.3,Better,2016,Persons,479.1,Better
+600,Wandsworth,48.1,Better,2016,Persons,673.1,Better
+601,Westminster,46.8,Better,2016,Persons,661.5,Better
+602,Hartlepool,71,Worse,2017,Persons,419.9,Similar
+603,Middlesbrough,65.1,Similar,2017,Persons,353.8,Worse
+604,Redcar and Cleveland,71.7,Worse,2017,Persons,385.9,Worse
+605,Stockton-on-Tees,66,Similar,2017,Persons,422.2,Similar
+606,Darlington,67.6,Worse,2017,Persons,416,Similar
+607,Halton,73.3,Worse,2017,Persons,396.5,Worse
+608,Warrington,64.7,Similar,2017,Persons,458.9,Similar
+609,Blackburn with Darwen,65.9,Similar,2017,Persons,340,Worse
+610,Blackpool,68,Worse,2017,Persons,332.2,Worse
+611,Kingston upon Hull,72.3,Worse,2017,Persons,355.3,Worse
+612,East Riding of Yorkshire,57.6,Similar,2017,Persons,405.8,Worse
+613,North East Lincolnshire,72.4,Worse,2017,Persons,346.4,Worse
+614,North Lincolnshire,72.3,Worse,2017,Persons,392.2,Worse
+615,York,56.7,Better,2017,Persons,402.6,Worse
+616,Derby,65.9,Similar,2017,Persons,444.4,Similar
+617,Leicester,54.9,Better,2017,Persons,343.9,Worse
+618,Rutland,56.9,Better,2017,Persons,449.4,Similar
+619,Nottingham,64.7,Worse,2017,Persons,357.6,Worse
+620,Herefordshire,64,Similar,2017,Persons,359.5,Worse
+621,Telford and Wrekin,65.5,Similar,2017,Persons,388.1,Worse
+622,Stoke-on-Trent,72,Worse,2017,Persons,387.1,Worse
+623,Bath and North East Somerset,58.3,Similar,2017,Persons,421.3,Similar
+624,Bristol,55.9,Better,2017,Persons,440.8,Similar
+625,North Somerset,67.2,Worse,2017,Persons,414.4,Similar
+626,South Gloucestershire,61,Similar,2017,Persons,440.8,Similar
+627,Plymouth,67.8,Worse,2017,Persons,393,Worse
+628,Torbay,60.5,Similar,2017,Persons,356.8,Worse
+629,Swindon,62.1,Similar,2017,Persons,430.6,Similar
+630,Peterborough,68.2,Worse,2017,Persons,373.7,Worse
+631,Luton,61.2,Similar,2017,Persons,433.4,Similar
+632,Southend-on-Sea,66.6,Worse,2017,Persons,436.2,Similar
+633,Thurrock,67.4,Worse,2017,Persons,478.4,Similar
+634,Medway,68.7,Worse,2017,Persons,456.6,Similar
+635,Bracknell Forest,60.3,Similar,2017,Persons,495,Similar
+636,West Berkshire,58.5,Similar,2017,Persons,506.3,Better
+637,Reading,56.8,Better,2017,Persons,488.5,Better
+638,Slough,66.2,Similar,2017,Persons,463.9,Similar
+639,Windsor and Maidenhead,58.2,Similar,2017,Persons,539,Better
+640,Wokingham,53.4,Better,2017,Persons,574.9,Better
+641,Milton Keynes,64.9,Similar,2017,Persons,478.3,Better
+642,Brighton and Hove,51.1,Better,2017,Persons,454,Similar
+643,Portsmouth,64,Similar,2017,Persons,412,Similar
+644,Southampton,64.7,Similar,2017,Persons,412.1,Similar
+645,Isle of Wight,60.3,Similar,2017,Persons,401.1,Similar
+646,County Durham,66.9,Worse,2017,Persons,425,Similar
+647,Cheshire East,63.3,Similar,2017,Persons,433.1,Similar
+648,Cheshire West and Chester,63.7,Similar,2017,Persons,432.6,Similar
+649,Shropshire,72.1,Worse,2017,Persons,408.2,Similar
+650,Cornwall,55,Better,2017,Persons,367.6,Worse
+651,Isles of Scilly,64.7,Similar,2017,Persons,,Not compared
+652,Wiltshire,59,Similar,2017,Persons,424.3,Similar
+653,Bedford,62,Similar,2017,Persons,458.6,Similar
+654,Central Bedfordshire,59.9,Similar,2017,Persons,487,Similar
+655,Northumberland,62.3,Similar,2017,Persons,404.6,Worse
+656,Cambridge,42.8,Better,2017,Persons,524.7,Better
+657,East Cambridgeshire,60.1,Similar,2017,Persons,440.3,Similar
+658,Fenland,67.1,Worse,2017,Persons,407.6,Similar
+659,Huntingdonshire,65,Similar,2017,Persons,479.1,Better
+660,South Cambridgeshire,58.7,Similar,2017,Persons,509.6,Better
+661,Allerdale,62.6,Similar,2017,Persons,383.4,Similar
+662,Barrow-in-Furness,65.6,Similar,2017,Persons,443.4,Similar
+663,Carlisle,63,Similar,2017,Persons,362.3,Worse
+664,Copeland,71.2,Worse,2017,Persons,524.7,Similar
+665,Eden,62.2,Similar,2017,Persons,353.5,Worse
+666,South Lakeland,52.9,Better,2017,Persons,390.2,Similar
+667,Amber Valley,61.3,Similar,2017,Persons,416.6,Similar
+668,Bolsover,69.4,Worse,2017,Persons,354.7,Worse
+669,Chesterfield,70.7,Worse,2017,Persons,387.7,Worse
+670,Derbyshire Dales,58,Similar,2017,Persons,438.3,Similar
+671,Erewash,65.9,Similar,2017,Persons,423.1,Similar
+672,High Peak,57.9,Similar,2017,Persons,429.1,Similar
+673,North East Derbyshire,68.6,Worse,2017,Persons,395.3,Similar
+674,South Derbyshire,66.5,Similar,2017,Persons,465.9,Similar
+675,East Devon,57.5,Similar,2017,Persons,388.1,Worse
+676,Exeter,56.2,Better,2017,Persons,377.1,Worse
+677,Mid Devon,61.9,Similar,2017,Persons,399.4,Similar
+678,North Devon,65,Similar,2017,Persons,335.4,Worse
+679,South Hams,61.3,Similar,2017,Persons,401.6,Similar
+680,Teignbridge,63.3,Similar,2017,Persons,372.6,Worse
+681,Torridge,65.5,Similar,2017,Persons,359.6,Worse
+682,West Devon,58.4,Similar,2017,Persons,397.6,Similar
+683,Eastbourne,61.2,Similar,2017,Persons,360.2,Worse
+684,Hastings,58.4,Similar,2017,Persons,363.7,Worse
+685,Lewes,58.7,Similar,2017,Persons,397,Similar
+686,Rother,56.3,Better,2017,Persons,366,Worse
+687,Wealden,64.2,Similar,2017,Persons,443.3,Similar
+688,Basildon,71.2,Worse,2017,Persons,457.9,Similar
+689,Braintree,61,Similar,2017,Persons,449.4,Similar
+690,Brentwood,60,Similar,2017,Persons,574.9,Better
+691,Castle Point,65.9,Similar,2017,Persons,420.4,Similar
+692,Chelmsford,57.1,Better,2017,Persons,475.2,Similar
+693,Colchester,58.6,Similar,2017,Persons,425,Similar
+694,Epping Forest,58.4,Similar,2017,Persons,496.1,Similar
+695,Harlow,69.7,Worse,2017,Persons,439,Similar
+696,Maldon,65.6,Similar,2017,Persons,483.8,Similar
+697,Rochford,58.2,Similar,2017,Persons,476.8,Similar
+698,Tendring,70,Worse,2017,Persons,398.8,Similar
+699,Uttlesford,56.4,Better,2017,Persons,498.2,Similar
+700,Cheltenham,57,Better,2017,Persons,471.1,Similar
+701,Cotswold,58.4,Similar,2017,Persons,420.3,Similar
+702,Forest of Dean,65.7,Similar,2017,Persons,388.3,Similar
+703,Gloucester,65.1,Similar,2017,Persons,404.4,Similar
+704,Stroud,58.4,Similar,2017,Persons,444.8,Similar
+705,Tewkesbury,60.8,Similar,2017,Persons,437.6,Similar
+706,Basingstoke and Deane,61.9,Similar,2017,Persons,520.4,Better
+707,East Hampshire,62.8,Similar,2017,Persons,525.8,Better
+708,Eastleigh,61,Similar,2017,Persons,448.7,Similar
+709,Fareham,67,Worse,2017,Persons,465.8,Similar
+710,Gosport,66.8,Worse,2017,Persons,417.9,Similar
+711,Hart,53.8,Better,2017,Persons,552.8,Better
+712,Havant,66.7,Worse,2017,Persons,438.7,Similar
+713,New Forest,65.3,Similar,2017,Persons,427.5,Similar
+714,Rushmoor,68.2,Worse,2017,Persons,477.4,Similar
+715,Test Valley,63.7,Similar,2017,Persons,489.4,Similar
+716,Winchester,57,Better,2017,Persons,557.7,Better
+717,Broxbourne,69.6,Worse,2017,Persons,519,Similar
+718,Dacorum,60.7,Similar,2017,Persons,491.8,Better
+719,Hertsmere,62.3,Similar,2017,Persons,507.2,Similar
+720,North Hertfordshire,61.9,Similar,2017,Persons,535.2,Better
+721,Three Rivers,58.5,Similar,2017,Persons,522.2,Similar
+722,Watford,67.5,Worse,2017,Persons,536.6,Better
+723,Ashford,65.4,Similar,2017,Persons,476.7,Similar
+724,Canterbury,56.2,Better,2017,Persons,430.6,Similar
+725,Dartford,65.1,Similar,2017,Persons,521,Better
+726,Dover,71,Worse,2017,Persons,428.4,Similar
+727,Gravesham,68.4,Worse,2017,Persons,403.9,Similar
+728,Maidstone,60.2,Similar,2017,Persons,433.8,Similar
+729,Sevenoaks,56.8,Better,2017,Persons,476.7,Similar
+730,Folkestone & Hythe,62.6,Similar,2017,Persons,421.9,Similar
+731,Swale,61.6,Similar,2017,Persons,464.2,Similar
+732,Thanet,69.2,Worse,2017,Persons,344.7,Worse
+733,Tonbridge and Malling,58,Similar,2017,Persons,508,Better
+734,Tunbridge Wells,58.7,Similar,2017,Persons,488.4,Similar
+735,Burnley,63.4,Similar,2017,Persons,373.7,Worse
+736,Chorley,65.7,Similar,2017,Persons,415.6,Similar
+737,Fylde,68,Worse,2017,Persons,446.5,Similar
+738,Hyndburn,76.9,Worse,2017,Persons,365.2,Worse
+739,Lancaster,55.7,Better,2017,Persons,394.3,Similar
+740,Pendle,62.8,Similar,2017,Persons,403.8,Similar
+741,Preston,60,Similar,2017,Persons,377.5,Worse
+742,Ribble Valley,59.4,Similar,2017,Persons,419.5,Similar
+743,Rossendale,65.8,Similar,2017,Persons,376,Worse
+744,South Ribble,63.7,Similar,2017,Persons,418.7,Similar
+745,West Lancashire,69.5,Worse,2017,Persons,412.8,Similar
+746,Wyre,64.8,Similar,2017,Persons,369.1,Worse
+747,Blaby,62.5,Similar,2017,Persons,464.5,Similar
+748,Charnwood,57.1,Better,2017,Persons,418.9,Similar
+749,Harborough,57.6,Similar,2017,Persons,505.8,Similar
+750,Hinckley and Bosworth,63.8,Similar,2017,Persons,430,Similar
+751,Melton,65.5,Similar,2017,Persons,424.7,Similar
+752,North West Leicestershire,66.9,Worse,2017,Persons,409.6,Similar
+753,Oadby and Wigston,58.2,Similar,2017,Persons,402.4,Similar
+754,Boston,71.4,Worse,2017,Persons,333.3,Worse
+755,East Lindsey,63.3,Similar,2017,Persons,371.5,Worse
+756,Lincoln,61,Similar,2017,Persons,365,Worse
+757,North Kesteven,67.5,Worse,2017,Persons,429.6,Similar
+758,South Holland,64.4,Similar,2017,Persons,383.3,Worse
+759,South Kesteven,66.9,Worse,2017,Persons,400,Similar
+760,West Lindsey,64.5,Similar,2017,Persons,404,Similar
+761,Breckland,65.5,Similar,2017,Persons,352.1,Worse
+762,Broadland,55.1,Better,2017,Persons,404.3,Similar
+763,Great Yarmouth,66,Similar,2017,Persons,322.8,Worse
+764,King's Lynn and West Norfolk,60.8,Similar,2017,Persons,377.3,Worse
+765,North Norfolk,61.9,Similar,2017,Persons,357.8,Worse
+766,Norwich,56.7,Better,2017,Persons,397.3,Similar
+767,South Norfolk,56.6,Better,2017,Persons,412.7,Similar
+768,Craven,57.2,Better,2017,Persons,342.4,Worse
+769,Hambleton,62.6,Similar,2017,Persons,402.5,Similar
+770,Harrogate,57.3,Better,2017,Persons,402.5,Similar
+771,Richmondshire,61.4,Similar,2017,Persons,399.5,Similar
+772,Ryedale,57.8,Similar,2017,Persons,365.4,Worse
+773,Scarborough,62.8,Similar,2017,Persons,354.4,Worse
+774,Selby,70.6,Worse,2017,Persons,446.5,Similar
+775,Ashfield,69.9,Worse,2017,Persons,384.5,Worse
+776,Bassetlaw,72.1,Worse,2017,Persons,399.3,Similar
+777,Broxtowe,66,Similar,2017,Persons,490.2,Similar
+778,Gedling,64.6,Similar,2017,Persons,420.9,Similar
+779,Mansfield,68.3,Worse,2017,Persons,350.9,Worse
+780,Newark and Sherwood,70.7,Worse,2017,Persons,354.5,Worse
+781,Rushcliffe,59.7,Similar,2017,Persons,517.3,Similar
+782,Cherwell,62.4,Similar,2017,Persons,479.3,Similar
+783,Oxford,54.4,Better,2017,Persons,499.2,Similar
+784,South Oxfordshire,57.2,Better,2017,Persons,533.8,Better
+785,Vale of White Horse,58.6,Similar,2017,Persons,517.5,Better
+786,West Oxfordshire,60.4,Similar,2017,Persons,457,Similar
+787,Mendip,65,Similar,2017,Persons,366.4,Worse
+788,Sedgemoor,67.7,Worse,2017,Persons,384.6,Worse
+789,South Somerset,70.5,Worse,2017,Persons,388.1,Worse
+790,Cannock Chase,74.7,Worse,2017,Persons,432.5,Similar
+791,East Staffordshire,67,Worse,2017,Persons,392.9,Worse
+792,Lichfield,63.2,Similar,2017,Persons,485.9,Similar
+793,Newcastle-under-Lyme,66.1,Similar,2017,Persons,385.3,Worse
+794,South Staffordshire,63.3,Similar,2017,Persons,475.1,Similar
+795,Stafford,61.2,Similar,2017,Persons,396,Similar
+796,Staffordshire Moorlands,64,Similar,2017,Persons,382.8,Similar
+797,Tamworth,63.6,Similar,2017,Persons,417.7,Similar
+798,Babergh,62.7,Similar,2017,Persons,458.9,Similar
+799,Ipswich,65.8,Similar,2017,Persons,396.7,Worse
+800,Mid Suffolk,68,Worse,2017,Persons,412.5,Similar
+801,Elmbridge,55.1,Better,2017,Persons,572.9,Better
+802,Epsom and Ewell,52.6,Better,2017,Persons,585.9,Better
+803,Guildford,58.8,Similar,2017,Persons,551.8,Better
+804,Mole Valley,52.6,Better,2017,Persons,481.4,Similar
+805,Reigate and Banstead,54.4,Better,2017,Persons,557,Better
+806,Runnymede,60.6,Similar,2017,Persons,495.7,Similar
+807,Spelthorne,57.9,Similar,2017,Persons,530.9,Better
+808,Surrey Heath,60.7,Similar,2017,Persons,607.3,Better
+809,Tandridge,54.3,Better,2017,Persons,501.7,Similar
+810,Waverley,51.6,Better,2017,Persons,565.8,Better
+811,Woking,50.8,Better,2017,Persons,535.8,Better
+812,North Warwickshire,67,Worse,2017,Persons,442.9,Similar
+813,Nuneaton and Bedworth,71.4,Worse,2017,Persons,400,Similar
+814,Rugby,66.7,Worse,2017,Persons,473.9,Similar
+815,Stratford-on-Avon,56.4,Better,2017,Persons,469.1,Similar
+816,Warwick,53.6,Better,2017,Persons,483.9,Similar
+817,Adur,62.5,Similar,2017,Persons,400.8,Similar
+818,Arun,68.6,Worse,2017,Persons,406.7,Similar
+819,Chichester,59.4,Similar,2017,Persons,405,Similar
+820,Crawley,66.4,Similar,2017,Persons,444.6,Similar
+821,Horsham,61.4,Similar,2017,Persons,449.8,Similar
+822,Mid Sussex,56.5,Better,2017,Persons,516,Better
+823,Worthing,55.9,Better,2017,Persons,428.4,Similar
+824,Bromsgrove,65.8,Similar,2017,Persons,481.5,Similar
+825,Malvern Hills,61.5,Similar,2017,Persons,419.8,Similar
+826,Redditch,75.5,Worse,2017,Persons,384.7,Worse
+827,Worcester,65,Similar,2017,Persons,453.7,Similar
+828,Wychavon,61.5,Similar,2017,Persons,375.3,Worse
+829,Wyre Forest,62.5,Similar,2017,Persons,376.9,Worse
+830,St Albans,49.4,Better,2017,Persons,600.3,Better
+831,Welwyn Hatfield,63.8,Similar,2017,Persons,488.5,Similar
+832,East Hertfordshire,54.2,Better,2017,Persons,538.4,Better
+833,Stevenage,63.6,Similar,2017,Persons,463.8,Similar
+834,Bolton,63.2,Similar,2017,Persons,392.7,Worse
+835,Bury,64,Similar,2017,Persons,454.7,Similar
+836,Manchester,64.3,Similar,2017,Persons,388.2,Worse
+837,Oldham,66.7,Worse,2017,Persons,384.8,Worse
+838,Rochdale,64.3,Similar,2017,Persons,378.2,Worse
+839,Salford,66.8,Worse,2017,Persons,403.6,Worse
+840,Stockport,60,Similar,2017,Persons,460.5,Similar
+841,Tameside,65.7,Worse,2017,Persons,389.1,Worse
+842,Trafford,57.4,Better,2017,Persons,479.1,Better
+843,Wigan,67.9,Worse,2017,Persons,410.1,Similar
+844,Knowsley,72.4,Worse,2017,Persons,416.4,Similar
+845,Liverpool,64.3,Similar,2017,Persons,403.6,Worse
+846,St. Helens,73.1,Worse,2017,Persons,407.9,Similar
+847,Sefton,70.8,Worse,2017,Persons,429.2,Similar
+848,Wirral,62.2,Similar,2017,Persons,405.8,Worse
+849,Barnsley,69.7,Worse,2017,Persons,396,Worse
+850,Doncaster,71.3,Worse,2017,Persons,367.8,Worse
+851,Rotherham,61.6,Similar,2017,Persons,374.8,Worse
+852,Sheffield,62.9,Similar,2017,Persons,407.2,Worse
+853,Newcastle upon Tyne,62.4,Similar,2017,Persons,388,Worse
+854,North Tyneside,63.3,Similar,2017,Persons,413.4,Similar
+855,South Tyneside,70.2,Worse,2017,Persons,393.4,Worse
+856,Sunderland,68.6,Worse,2017,Persons,386,Worse
+857,Birmingham,64.8,Worse,2017,Persons,407.4,Worse
+858,Coventry,65,Similar,2017,Persons,420.5,Similar
+859,Dudley,65,Similar,2017,Persons,414.4,Similar
+860,Sandwell,70.5,Worse,2017,Persons,386.1,Worse
+861,Solihull,54.6,Better,2017,Persons,470.7,Similar
+862,Walsall,65.7,Similar,2017,Persons,376.8,Worse
+863,Wolverhampton,67.1,Worse,2017,Persons,385.9,Worse
+864,Bradford,60.6,Similar,2017,Persons,384.1,Worse
+865,Calderdale,68.7,Worse,2017,Persons,417.1,Similar
+866,Kirklees,61.7,Similar,2017,Persons,395.2,Worse
+867,Leeds,62.8,Similar,2017,Persons,436.9,Similar
+868,Wakefield,68,Worse,2017,Persons,386.6,Worse
+869,Gateshead,69.1,Worse,2017,Persons,391,Worse
+870,City of London,42.5,Better,2017,Persons,,Not compared
+871,Barking and Dagenham,62.5,Similar,2017,Persons,445.4,Similar
+872,Barnet,54.5,Better,2017,Persons,509.3,Better
+873,Bexley,62.7,Similar,2017,Persons,502.5,Better
+874,Brent,55.5,Better,2017,Persons,460,Similar
+875,Bromley,51.7,Better,2017,Persons,595.2,Better
+876,Camden,47.4,Better,2017,Persons,613.3,Better
+877,Croydon,62.1,Similar,2017,Persons,520,Better
+878,Ealing,60.7,Similar,2017,Persons,498.3,Better
+879,Enfield,57.8,Similar,2017,Persons,471.1,Similar
+880,Greenwich,58.7,Similar,2017,Persons,540.8,Better
+881,Hackney,49.2,Better,2017,Persons,545.3,Better
+882,Hammersmith and Fulham,51.3,Better,2017,Persons,647.4,Better
+883,Haringey,52.5,Better,2017,Persons,510.9,Better
+884,Harrow,52.3,Better,2017,Persons,517.5,Better
+885,Havering,69.4,Worse,2017,Persons,517.5,Better
+886,Hillingdon,61.8,Similar,2017,Persons,497.5,Better
+887,Hounslow,60.3,Similar,2017,Persons,498.3,Better
+888,Islington,47.4,Better,2017,Persons,637.3,Better
+889,Kensington and Chelsea,49.3,Better,2017,Persons,751.1,Better
+890,Kingston upon Thames,52.3,Better,2017,Persons,570.3,Better
+891,Lambeth,52.5,Better,2017,Persons,584.8,Better
+892,Lewisham,53.9,Better,2017,Persons,520.6,Better
+893,Merton,59.4,Similar,2017,Persons,562.2,Better
+894,Newham,61.5,Similar,2017,Persons,459.1,Similar
+895,Redbridge,55.5,Better,2017,Persons,536.6,Better
+896,Richmond upon Thames,46.6,Better,2017,Persons,657.8,Better
+897,Southwark,51.7,Better,2017,Persons,575,Better
+898,Sutton,57.5,Similar,2017,Persons,509.6,Better
+899,Tower Hamlets,50.9,Better,2017,Persons,591.5,Better
+900,Waltham Forest,56.6,Better,2017,Persons,493,Better
+901,Wandsworth,54.5,Better,2017,Persons,674.6,Better
+902,Westminster,46.3,Better,2017,Persons,722.9,Better
+903,Hartlepool,75.2,Worse,2018,Persons,421.7,Similar
+904,Middlesbrough,67.9,Worse,2018,Persons,357.6,Worse
+905,Redcar and Cleveland,68.6,Worse,2018,Persons,386,Worse
+906,Stockton-on-Tees,63.9,Similar,2018,Persons,413.4,Similar
+907,Darlington,60.5,Similar,2018,Persons,405,Worse
+908,Halton,71.3,Worse,2018,Persons,418.3,Similar
+909,Warrington,65.4,Similar,2018,Persons,451.9,Similar
+910,Blackburn with Darwen,64.2,Similar,2018,Persons,356.6,Worse
+911,Blackpool,65.7,Similar,2018,Persons,346.1,Worse
+912,Kingston upon Hull,71.5,Worse,2018,Persons,362.5,Worse
+913,East Riding of Yorkshire,59.7,Similar,2018,Persons,414,Worse
+914,North East Lincolnshire,70.5,Worse,2018,Persons,379.2,Worse
+915,North Lincolnshire,64.7,Similar,2018,Persons,410.5,Similar
+916,York,57.6,Similar,2018,Persons,399.8,Worse
+917,Derby,63.7,Similar,2018,Persons,460.8,Similar
+918,Leicester,58.5,Similar,2018,Persons,348.1,Worse
+919,Rutland,59.9,Similar,2018,Persons,433.1,Similar
+920,Nottingham,59.4,Better,2018,Persons,372.2,Worse
+921,Herefordshire,66.5,Similar,2018,Persons,365.2,Worse
+922,Telford and Wrekin,72.8,Worse,2018,Persons,395.8,Worse
+923,Stoke-on-Trent,66,Similar,2018,Persons,398.2,Worse
+924,Bath and North East Somerset,51.8,Better,2018,Persons,438.9,Similar
+925,Bristol,55,Better,2018,Persons,451.5,Similar
+926,North Somerset,60.9,Similar,2018,Persons,436.5,Similar
+927,South Gloucestershire,60.5,Similar,2018,Persons,436.9,Similar
+928,Plymouth,67.6,Worse,2018,Persons,424.5,Similar
+929,Torbay,61.3,Similar,2018,Persons,344.3,Worse
+930,Swindon,64.7,Similar,2018,Persons,463.1,Similar
+931,Peterborough,67.9,Worse,2018,Persons,390.3,Worse
+932,Luton,67,Worse,2018,Persons,430.7,Similar
+933,Southend-on-Sea,59,Similar,2018,Persons,472.3,Similar
+934,Thurrock,75.8,Worse,2018,Persons,460.3,Similar
+935,Medway,69.6,Worse,2018,Persons,469.7,Similar
+936,Bracknell Forest,59.7,Similar,2018,Persons,509,Better
+937,West Berkshire,57.9,Similar,2018,Persons,499.7,Similar
+938,Reading,58.5,Similar,2018,Persons,489,Similar
+939,Slough,65.9,Similar,2018,Persons,516.3,Similar
+940,Windsor and Maidenhead,54.5,Better,2018,Persons,548.8,Better
+941,Wokingham,59.7,Similar,2018,Persons,585.9,Better
+942,Milton Keynes,63.6,Similar,2018,Persons,498.3,Better
+943,Brighton and Hove,50.8,Better,2018,Persons,456.6,Similar
+944,Portsmouth,68.1,Worse,2018,Persons,412,Worse
+945,Southampton,64.2,Similar,2018,Persons,430.5,Similar
+946,Isle of Wight,62.1,Similar,2018,Persons,390,Worse
+947,County Durham,62.4,Similar,2018,Persons,434.3,Similar
+948,Cheshire East,65.8,Similar,2018,Persons,445.7,Similar
+949,Cheshire West and Chester,65.4,Similar,2018,Persons,446.2,Similar
+950,Shropshire,68.5,Worse,2018,Persons,422.5,Similar
+951,Cornwall,62.7,Similar,2018,Persons,364.1,Worse
+952,Isles of Scilly,58.9,Similar,2018,Persons,,Not compared
+953,Wiltshire,60.1,Similar,2018,Persons,441.5,Similar
+954,Bedford,65.1,Similar,2018,Persons,460.5,Similar
+955,Central Bedfordshire,64.3,Similar,2018,Persons,488.4,Similar
+956,Northumberland,63.4,Similar,2018,Persons,400.5,Worse
+957,Cambridge,52.5,Better,2018,Persons,546,Better
+958,East Cambridgeshire,60.7,Similar,2018,Persons,451.3,Similar
+959,Fenland,71.4,Worse,2018,Persons,404.1,Worse
+960,Huntingdonshire,66.4,Similar,2018,Persons,492.1,Better
+961,South Cambridgeshire,57.5,Better,2018,Persons,552.8,Better
+962,Allerdale,59.5,Similar,2018,Persons,423.2,Similar
+963,Barrow-in-Furness,69.4,Worse,2018,Persons,487.9,Similar
+964,Carlisle,66.6,Worse,2018,Persons,381.1,Worse
+965,Copeland,69.5,Worse,2018,Persons,475.7,Similar
+966,Eden,51.6,Better,2018,Persons,381.1,Similar
+967,South Lakeland,50.8,Better,2018,Persons,429.5,Similar
+968,Amber Valley,64.5,Similar,2018,Persons,421.8,Similar
+969,Bolsover,71.9,Worse,2018,Persons,376.1,Worse
+970,Chesterfield,67.4,Worse,2018,Persons,386.7,Worse
+971,Derbyshire Dales,53.2,Better,2018,Persons,395.4,Similar
+972,Erewash,68.4,Worse,2018,Persons,439.9,Similar
+973,High Peak,60.2,Similar,2018,Persons,426.4,Similar
+974,North East Derbyshire,65,Similar,2018,Persons,391.3,Similar
+975,South Derbyshire,67.3,Worse,2018,Persons,480.3,Similar
+976,East Devon,54.5,Better,2018,Persons,383.8,Worse
+977,Exeter,59.8,Similar,2018,Persons,397.2,Worse
+978,Mid Devon,68.3,Worse,2018,Persons,393.4,Worse
+979,North Devon,67.3,Worse,2018,Persons,340.5,Worse
+980,South Hams,58.8,Similar,2018,Persons,406.4,Similar
+981,Teignbridge,58.2,Similar,2018,Persons,378.5,Worse
+982,Torridge,61.8,Similar,2018,Persons,398.5,Similar
+983,West Devon,57.7,Similar,2018,Persons,367.6,Worse
+984,Eastbourne,65.7,Similar,2018,Persons,421.6,Similar
+985,Hastings,63.1,Similar,2018,Persons,369.8,Worse
+986,Lewes,58.5,Similar,2018,Persons,443.3,Similar
+987,Rother,66.3,Similar,2018,Persons,381.3,Worse
+988,Wealden,59,Similar,2018,Persons,430.1,Similar
+989,Basildon,60.6,Similar,2018,Persons,460,Similar
+990,Braintree,62.8,Similar,2018,Persons,470,Similar
+991,Brentwood,52.1,Better,2018,Persons,600.8,Better
+992,Castle Point,64.9,Similar,2018,Persons,449.7,Similar
+993,Chelmsford,60.6,Similar,2018,Persons,490.5,Similar
+994,Colchester,59.9,Similar,2018,Persons,419.8,Similar
+995,Epping Forest,62.2,Similar,2018,Persons,514.1,Similar
+996,Harlow,66.3,Similar,2018,Persons,453.3,Similar
+997,Maldon,67.3,Worse,2018,Persons,470.3,Similar
+998,Rochford,63.8,Similar,2018,Persons,498.8,Similar
+999,Tendring,64.9,Similar,2018,Persons,409.6,Similar
+1000,Uttlesford,56.8,Better,2018,Persons,547.2,Better
+1001,Cheltenham,57.5,Similar,2018,Persons,491.5,Similar
+1002,Cotswold,62,Similar,2018,Persons,437.9,Similar
+1003,Forest of Dean,64,Similar,2018,Persons,389.3,Similar
+1004,Gloucester,60.7,Similar,2018,Persons,422.1,Similar
+1005,Stroud,58.1,Similar,2018,Persons,450.5,Similar
+1006,Tewkesbury,58.5,Similar,2018,Persons,424.9,Similar
+1007,Basingstoke and Deane,61,Similar,2018,Persons,520.4,Better
+1008,East Hampshire,64.4,Similar,2018,Persons,541.3,Better
+1009,Eastleigh,53.9,Better,2018,Persons,472.2,Similar
+1010,Fareham,62.1,Similar,2018,Persons,494.5,Similar
+1011,Gosport,70.3,Worse,2018,Persons,384.7,Worse
+1012,Hart,56.6,Better,2018,Persons,536.6,Better
+1013,Havant,67.2,Worse,2018,Persons,441.6,Similar
+1014,New Forest,58.5,Similar,2018,Persons,448.5,Similar
+1015,Rushmoor,69,Worse,2018,Persons,501.4,Similar
+1016,Test Valley,55.3,Better,2018,Persons,480.9,Similar
+1017,Winchester,57.6,Similar,2018,Persons,562.9,Better
+1018,Broxbourne,59.8,Similar,2018,Persons,504.2,Similar
+1019,Dacorum,58.3,Similar,2018,Persons,517.7,Better
+1020,Hertsmere,56.8,Better,2018,Persons,537.1,Better
+1021,North Hertfordshire,56,Better,2018,Persons,538.6,Better
+1022,Three Rivers,60.1,Similar,2018,Persons,522.8,Similar
+1023,Watford,59.2,Similar,2018,Persons,514,Better
+1024,Ashford,63.6,Similar,2018,Persons,468,Similar
+1025,Canterbury,62.1,Similar,2018,Persons,410.4,Similar
+1026,Dartford,72.7,Worse,2018,Persons,523.5,Better
+1027,Dover,70.9,Worse,2018,Persons,458.2,Similar
+1028,Gravesham,64.9,Similar,2018,Persons,440.8,Similar
+1029,Maidstone,60.9,Similar,2018,Persons,481.7,Similar
+1030,Sevenoaks,61.1,Similar,2018,Persons,479.2,Similar
+1031,Folkestone & Hythe,68.1,Worse,2018,Persons,423.6,Similar
+1032,Swale,65,Similar,2018,Persons,490.7,Similar
+1033,Thanet,66.9,Worse,2018,Persons,367.4,Worse
+1034,Tonbridge and Malling,60.1,Similar,2018,Persons,517.4,Better
+1035,Tunbridge Wells,59,Similar,2018,Persons,535.3,Better
+1036,Burnley,69.9,Worse,2018,Persons,400.3,Worse
+1037,Chorley,59.2,Similar,2018,Persons,455.8,Similar
+1038,Fylde,62.2,Similar,2018,Persons,470.6,Similar
+1039,Hyndburn,68,Worse,2018,Persons,399.7,Worse
+1040,Lancaster,63.1,Similar,2018,Persons,391.5,Worse
+1041,Pendle,62.2,Similar,2018,Persons,393.2,Worse
+1042,Preston,62.3,Similar,2018,Persons,373,Worse
+1043,Ribble Valley,59.7,Similar,2018,Persons,470.8,Similar
+1044,Rossendale,66.9,Worse,2018,Persons,387.8,Similar
+1045,South Ribble,65.7,Similar,2018,Persons,421.6,Similar
+1046,West Lancashire,63.4,Similar,2018,Persons,401.3,Similar
+1047,Wyre,67.2,Worse,2018,Persons,384.8,Worse
+1048,Blaby,62.7,Similar,2018,Persons,442.5,Similar
+1049,Charnwood,65.8,Similar,2018,Persons,428.5,Similar
+1050,Harborough,61.5,Similar,2018,Persons,502.6,Similar
+1051,Hinckley and Bosworth,62.1,Similar,2018,Persons,450,Similar
+1052,Melton,62,Similar,2018,Persons,401.7,Similar
+1053,North West Leicestershire,69,Worse,2018,Persons,440.8,Similar
+1054,Oadby and Wigston,64.1,Similar,2018,Persons,403.4,Similar
+1055,Boston,71.3,Worse,2018,Persons,357.7,Worse
+1056,East Lindsey,61,Similar,2018,Persons,374.7,Worse
+1057,Lincoln,66.4,Similar,2018,Persons,361.9,Worse
+1058,North Kesteven,67.5,Worse,2018,Persons,419.8,Similar
+1059,South Holland,67.8,Worse,2018,Persons,404.9,Worse
+1060,South Kesteven,63.2,Similar,2018,Persons,402.2,Worse
+1061,West Lindsey,65.1,Similar,2018,Persons,440.5,Similar
+1062,Breckland,68.4,Worse,2018,Persons,381.4,Worse
+1063,Broadland,58.4,Similar,2018,Persons,412.2,Similar
+1064,Great Yarmouth,67.2,Worse,2018,Persons,354,Worse
+1065,King's Lynn and West Norfolk,64.7,Similar,2018,Persons,382.6,Worse
+1066,North Norfolk,63.4,Similar,2018,Persons,382,Worse
+1067,Norwich,59.2,Similar,2018,Persons,383.2,Worse
+1068,South Norfolk,60.7,Similar,2018,Persons,469.1,Similar
+1069,Craven,60.7,Similar,2018,Persons,401,Similar
+1070,Hambleton,63,Similar,2018,Persons,437.7,Similar
+1071,Harrogate,58.2,Similar,2018,Persons,460,Similar
+1072,Richmondshire,59.6,Similar,2018,Persons,371,Similar
+1073,Ryedale,56.5,Better,2018,Persons,375,Worse
+1074,Scarborough,66.2,Similar,2018,Persons,398.1,Worse
+1075,Selby,72.8,Worse,2018,Persons,458.2,Similar
+1076,Ashfield,70.1,Worse,2018,Persons,420.9,Similar
+1077,Bassetlaw,70.2,Worse,2018,Persons,394.9,Worse
+1078,Broxtowe,63.9,Similar,2018,Persons,491.7,Similar
+1079,Gedling,66.7,Similar,2018,Persons,440.7,Similar
+1080,Mansfield,66.8,Worse,2018,Persons,358.1,Worse
+1081,Newark and Sherwood,69.3,Worse,2018,Persons,375,Worse
+1082,Rushcliffe,59,Similar,2018,Persons,530,Similar
+1083,Cherwell,59.3,Similar,2018,Persons,474.2,Similar
+1084,Oxford,49.6,Better,2018,Persons,503.3,Similar
+1085,South Oxfordshire,50,Better,2018,Persons,553.4,Better
+1086,Vale of White Horse,57.3,Better,2018,Persons,504.9,Similar
+1087,West Oxfordshire,63.2,Similar,2018,Persons,448,Similar
+1088,Mendip,62.5,Similar,2018,Persons,385.5,Worse
+1089,Sedgemoor,66.3,Similar,2018,Persons,396.1,Worse
+1090,South Somerset,61,Similar,2018,Persons,401.9,Worse
+1091,Cannock Chase,71.3,Worse,2018,Persons,439.1,Similar
+1092,East Staffordshire,63.2,Similar,2018,Persons,411.8,Similar
+1093,Lichfield,68.6,Worse,2018,Persons,479.4,Similar
+1094,Newcastle-under-Lyme,60.8,Similar,2018,Persons,410.5,Similar
+1095,South Staffordshire,60.8,Similar,2018,Persons,486,Similar
+1096,Stafford,60,Similar,2018,Persons,477.6,Similar
+1097,Staffordshire Moorlands,62.2,Similar,2018,Persons,424.7,Similar
+1098,Tamworth,68.6,Worse,2018,Persons,420,Similar
+1099,Babergh,67,Worse,2018,Persons,476.3,Similar
+1100,Ipswich,68.2,Worse,2018,Persons,407.7,Worse
+1101,Mid Suffolk,64.9,Similar,2018,Persons,444.8,Similar
+1102,Elmbridge,54.5,Better,2018,Persons,585.3,Better
+1103,Epsom and Ewell,60.3,Similar,2018,Persons,573.3,Better
+1104,Guildford,56.8,Better,2018,Persons,572.6,Better
+1105,Mole Valley,59.8,Similar,2018,Persons,467.7,Similar
+1106,Reigate and Banstead,59.5,Similar,2018,Persons,556.8,Better
+1107,Runnymede,55.3,Better,2018,Persons,525,Similar
+1108,Spelthorne,54.3,Better,2018,Persons,517.6,Better
+1109,Surrey Heath,58.4,Similar,2018,Persons,611.3,Better
+1110,Tandridge,57.6,Similar,2018,Persons,552.3,Better
+1111,Waverley,54.8,Better,2018,Persons,519.2,Similar
+1112,Woking,62,Similar,2018,Persons,524.5,Similar
+1113,North Warwickshire,66.2,Similar,2018,Persons,477.7,Similar
+1114,Nuneaton and Bedworth,68,Worse,2018,Persons,426.4,Similar
+1115,Rugby,66.2,Similar,2018,Persons,519.6,Similar
+1116,Stratford-on-Avon,61.5,Similar,2018,Persons,479.3,Similar
+1117,Warwick,60.3,Similar,2018,Persons,523.4,Better
+1118,Adur,67.3,Worse,2018,Persons,432.1,Similar
+1119,Arun,65.3,Similar,2018,Persons,400.2,Similar
+1120,Chichester,62.2,Similar,2018,Persons,416.5,Similar
+1121,Crawley,60.4,Similar,2018,Persons,445.2,Similar
+1122,Horsham,58.7,Similar,2018,Persons,490.9,Similar
+1123,Mid Sussex,63.1,Similar,2018,Persons,498.7,Similar
+1124,Worthing,55.4,Better,2018,Persons,440,Similar
+1125,Bromsgrove,61.6,Similar,2018,Persons,452.8,Similar
+1126,Malvern Hills,63,Similar,2018,Persons,436,Similar
+1127,Redditch,66.1,Similar,2018,Persons,398.9,Worse
+1128,Worcester,69.3,Worse,2018,Persons,460.6,Similar
+1129,Wychavon,61.2,Similar,2018,Persons,402.5,Worse
+1130,Wyre Forest,67.3,Worse,2018,Persons,372.5,Worse
+1131,St Albans,51.1,Better,2018,Persons,654.6,Better
+1132,Welwyn Hatfield,65.4,Similar,2018,Persons,484.8,Similar
+1133,East Hertfordshire,61,Similar,2018,Persons,574.8,Better
+1134,Stevenage,65.4,Similar,2018,Persons,491.2,Similar
+1135,Bolton,67.1,Worse,2018,Persons,397.5,Worse
+1136,Bury,59.6,Similar,2018,Persons,448.9,Similar
+1137,Manchester,60.9,Similar,2018,Persons,407.1,Worse
+1138,Oldham,63.8,Similar,2018,Persons,384.8,Worse
+1139,Rochdale,65.4,Worse,2018,Persons,400.8,Worse
+1140,Salford,63.7,Similar,2018,Persons,418.6,Worse
+1141,Stockport,60.1,Similar,2018,Persons,466.3,Similar
+1142,Tameside,69.6,Worse,2018,Persons,405.5,Worse
+1143,Trafford,60,Similar,2018,Persons,511.6,Better
+1144,Wigan,69.1,Worse,2018,Persons,406.8,Worse
+1145,Knowsley,72.3,Worse,2018,Persons,411,Similar
+1146,Liverpool,67.3,Worse,2018,Persons,418.6,Worse
+1147,St. Helens,68.6,Worse,2018,Persons,434.7,Similar
+1148,Sefton,64,Similar,2018,Persons,402.7,Worse
+1149,Wirral,65.5,Similar,2018,Persons,424.1,Similar
+1150,Barnsley,64.6,Similar,2018,Persons,402.5,Worse
+1151,Doncaster,69.7,Worse,2018,Persons,388.4,Worse
+1152,Rotherham,73.8,Worse,2018,Persons,386.2,Worse
+1153,Sheffield,64.1,Similar,2018,Persons,413.9,Worse
+1154,Newcastle upon Tyne,61.1,Similar,2018,Persons,419.9,Similar
+1155,North Tyneside,64.5,Similar,2018,Persons,405.1,Worse
+1156,South Tyneside,69.7,Worse,2018,Persons,397.3,Worse
+1157,Sunderland,65.5,Similar,2018,Persons,398.9,Worse
+1158,Birmingham,61.4,Similar,2018,Persons,417.6,Worse
+1159,Coventry,65.7,Similar,2018,Persons,454.2,Similar
+1160,Dudley,70.3,Worse,2018,Persons,425.9,Similar
+1161,Sandwell,71,Worse,2018,Persons,398.5,Worse
+1162,Solihull,60.3,Similar,2018,Persons,474.2,Similar
+1163,Walsall,73.7,Worse,2018,Persons,399.9,Worse
+1164,Wolverhampton,66,Similar,2018,Persons,402.4,Worse
+1165,Bradford,65.4,Worse,2018,Persons,400.1,Worse
+1166,Calderdale,62.8,Similar,2018,Persons,414.9,Similar
+1167,Kirklees,68.6,Worse,2018,Persons,400.6,Worse
+1168,Leeds,62.3,Similar,2018,Persons,441.5,Similar
+1169,Wakefield,64.8,Similar,2018,Persons,400.1,Worse
+1170,Gateshead,64.7,Similar,2018,Persons,407.5,Worse
+1171,City of London,44.8,Better,2018,Persons,901.6,Better
+1172,Barking and Dagenham,69.9,Worse,2018,Persons,469.1,Similar
+1173,Barnet,55.2,Better,2018,Persons,531.5,Better
+1174,Bexley,64.3,Similar,2018,Persons,503.9,Similar
+1175,Brent,51.8,Better,2018,Persons,475.7,Similar
+1176,Bromley,64.1,Similar,2018,Persons,613.3,Better
+1177,Camden,41.5,Better,2018,Persons,633.8,Better
+1178,Croydon,60.7,Similar,2018,Persons,533,Better
+1179,Ealing,61.6,Similar,2018,Persons,511,Better
+1180,Enfield,66.3,Similar,2018,Persons,465.8,Similar
+1181,Greenwich,57.5,Similar,2018,Persons,561.4,Better
+1182,Hackney,53.4,Better,2018,Persons,552.4,Better
+1183,Hammersmith and Fulham,48.7,Better,2018,Persons,672.7,Better
+1184,Haringey,50.2,Better,2018,Persons,538.8,Better
+1185,Harrow,57,Better,2018,Persons,530.8,Better
+1186,Havering,63.2,Similar,2018,Persons,536.2,Better
+1187,Hillingdon,59.2,Similar,2018,Persons,522.4,Better
+1188,Hounslow,57.2,Better,2018,Persons,516.8,Better
+1189,Islington,56.5,Better,2018,Persons,670.8,Better
+1190,Kensington and Chelsea,51.7,Better,2018,Persons,660.3,Better
+1191,Kingston upon Thames,58.3,Similar,2018,Persons,615.1,Better
+1192,Lambeth,50.4,Better,2018,Persons,611.7,Better
+1193,Lewisham,58.4,Similar,2018,Persons,549.2,Better
+1194,Merton,57,Better,2018,Persons,590.8,Better
+1195,Newham,56.2,Better,2018,Persons,465.3,Similar
+1196,Redbridge,58.7,Similar,2018,Persons,536.6,Better
+1197,Richmond upon Thames,54.3,Better,2018,Persons,671.9,Better
+1198,Southwark,52,Better,2018,Persons,585.7,Better
+1199,Sutton,61,Similar,2018,Persons,530.3,Better
+1200,Tower Hamlets,57.4,Similar,2018,Persons,619.3,Better
+1201,Waltham Forest,55.3,Better,2018,Persons,514.1,Better
+1202,Wandsworth,50.9,Better,2018,Persons,687.8,Better
+1203,Westminster,48.5,Better,2018,Persons,751.4,Better
+1204,Hartlepool,72.5,Worse,2019,Persons,432.1,Similar
+1205,Middlesbrough,70,Worse,2019,Persons,390.2,Worse
+1206,Redcar and Cleveland,72.5,Worse,2019,Persons,393.3,Worse
+1207,Stockton-on-Tees,66.7,Similar,2019,Persons,430.1,Similar
+1208,Darlington,65.4,Similar,2019,Persons,430.3,Similar
+1209,Halton,76.9,Worse,2019,Persons,421.5,Worse
+1210,Warrington,63.1,Similar,2019,Persons,478.8,Similar
+1211,Blackburn with Darwen,65.3,Similar,2019,Persons,387.6,Worse
+1212,Blackpool,71.9,Worse,2019,Persons,363.8,Worse
+1213,Kingston upon Hull,64.1,Similar,2019,Persons,392.6,Worse
+1214,East Riding of Yorkshire,64,Similar,2019,Persons,472.3,Similar
+1215,North East Lincolnshire,73.6,Worse,2019,Persons,400.1,Worse
+1216,North Lincolnshire,70.8,Worse,2019,Persons,390.7,Worse
+1217,York,62.3,Similar,2019,Persons,452.9,Similar
+1218,Derby,62.6,Similar,2019,Persons,471.9,Similar
+1219,Leicester,66,Similar,2019,Persons,377.5,Worse
+1220,Rutland,66.5,Similar,2019,Persons,521.8,Similar
+1221,Nottingham,66.9,Worse,2019,Persons,391,Worse
+1222,Herefordshire,60.6,Similar,2019,Persons,400.4,Worse
+1223,Telford and Wrekin,71.8,Worse,2019,Persons,411.5,Worse
+1224,Stoke-on-Trent,76.5,Worse,2019,Persons,404,Worse
+1225,Bath and North East Somerset,56.9,Better,2019,Persons,457,Similar
+1226,Bristol,57.4,Better,2019,Persons,489.8,Similar
+1227,North Somerset,62.2,Similar,2019,Persons,451.1,Similar
+1228,South Gloucestershire,67.9,Worse,2019,Persons,439.5,Similar
+1229,Plymouth,67.5,Worse,2019,Persons,412.3,Worse
+1230,Torbay,65.5,Similar,2019,Persons,383.5,Worse
+1231,Swindon,66.3,Similar,2019,Persons,493,Similar
+1232,Peterborough,59.5,Similar,2019,Persons,416.1,Worse
+1233,Luton,71.3,Worse,2019,Persons,454.7,Similar
+1234,Southend-on-Sea,63.9,Similar,2019,Persons,485.5,Similar
+1235,Thurrock,69.2,Worse,2019,Persons,501.1,Similar
+1236,Medway,69.2,Worse,2019,Persons,495.1,Similar
+1237,Bracknell Forest,65.3,Similar,2019,Persons,563.5,Better
+1238,West Berkshire,57.8,Better,2019,Persons,543.4,Better
+1239,Reading,61.6,Similar,2019,Persons,507.8,Similar
+1240,Slough,58.7,Similar,2019,Persons,507.4,Similar
+1241,Windsor and Maidenhead,62.3,Similar,2019,Persons,581.5,Better
+1242,Wokingham,58,Better,2019,Persons,591.3,Better
+1243,Milton Keynes,63.4,Similar,2019,Persons,527.8,Better
+1244,Brighton and Hove,49.9,Better,2019,Persons,479.1,Similar
+1245,Portsmouth,66.9,Similar,2019,Persons,422.3,Worse
+1246,Southampton,57.9,Better,2019,Persons,459.9,Similar
+1247,Isle of Wight,62.7,Similar,2019,Persons,399,Worse
+1248,County Durham,63.4,Similar,2019,Persons,456.5,Similar
+1249,Cheshire East,68.8,Worse,2019,Persons,479.3,Similar
+1250,Cheshire West and Chester,69.8,Worse,2019,Persons,475.8,Similar
+1251,Shropshire,65.1,Similar,2019,Persons,440.8,Similar
+1252,Cornwall,63.4,Similar,2019,Persons,384,Worse
+1253,Isles of Scilly,54.2,Better,2019,Persons,,Not compared
+1254,Wiltshire,63.4,Similar,2019,Persons,432.2,Worse
+1255,Bedford,62.2,Similar,2019,Persons,465.6,Similar
+1256,Central Bedfordshire,58,Better,2019,Persons,541.6,Better
+1257,Northumberland,70.6,Worse,2019,Persons,419.6,Worse
+1258,Cambridge,47.7,Better,2019,Persons,556.4,Better
+1259,East Cambridgeshire,57,Better,2019,Persons,506.6,Similar
+1260,Fenland,74.6,Worse,2019,Persons,404.7,Worse
+1261,Huntingdonshire,64.3,Similar,2019,Persons,513.7,Better
+1262,South Cambridgeshire,58.6,Similar,2019,Persons,599.7,Better
+1263,Allerdale,60.1,Similar,2019,Persons,467.6,Similar
+1264,Barrow-in-Furness,72.2,Worse,2019,Persons,473.8,Similar
+1265,Carlisle,61.6,Similar,2019,Persons,409.7,Worse
+1266,Copeland,64.9,Similar,2019,Persons,478,Similar
+1267,Eden,58.4,Similar,2019,Persons,407.9,Similar
+1268,South Lakeland,52.3,Better,2019,Persons,451.2,Similar
+1269,Amber Valley,64.9,Similar,2019,Persons,460.4,Similar
+1270,Bolsover,76.5,Worse,2019,Persons,394.2,Worse
+1271,Chesterfield,67.8,Worse,2019,Persons,402.5,Worse
+1272,Derbyshire Dales,55.7,Better,2019,Persons,412.1,Similar
+1273,Erewash,63.2,Similar,2019,Persons,438.1,Similar
+1274,High Peak,62.7,Similar,2019,Persons,428.3,Similar
+1275,North East Derbyshire,71.1,Worse,2019,Persons,450.1,Similar
+1276,South Derbyshire,69.7,Worse,2019,Persons,511.8,Similar
+1277,East Devon,57,Better,2019,Persons,421.7,Similar
+1278,Exeter,57.7,Better,2019,Persons,428,Similar
+1279,Mid Devon,67.7,Worse,2019,Persons,417.9,Similar
+1280,North Devon,67.3,Worse,2019,Persons,368.5,Worse
+1281,South Hams,53,Better,2019,Persons,388.1,Worse
+1282,Teignbridge,61.8,Similar,2019,Persons,380.3,Worse
+1283,Torridge,63.8,Similar,2019,Persons,404.8,Worse
+1284,West Devon,55.8,Better,2019,Persons,371.2,Worse
+1285,Eastbourne,64.3,Similar,2019,Persons,438.2,Similar
+1286,Hastings,65.6,Similar,2019,Persons,405.5,Worse
+1287,Lewes,60.7,Similar,2019,Persons,479.1,Similar
+1288,Rother,65.7,Similar,2019,Persons,416.6,Similar
+1289,Wealden,62.3,Similar,2019,Persons,450,Similar
+1290,Basildon,66.8,Similar,2019,Persons,468.5,Similar
+1291,Braintree,60.5,Similar,2019,Persons,476.7,Similar
+1292,Brentwood,61.2,Similar,2019,Persons,613,Better
+1293,Castle Point,73.3,Worse,2019,Persons,458.3,Similar
+1294,Chelmsford,59.4,Similar,2019,Persons,517.5,Similar
+1295,Colchester,63.2,Similar,2019,Persons,450.3,Similar
+1296,Epping Forest,61.8,Similar,2019,Persons,536.6,Similar
+1297,Harlow,62.8,Similar,2019,Persons,443.5,Similar
+1298,Maldon,59.1,Similar,2019,Persons,509.3,Similar
+1299,Rochford,62.9,Similar,2019,Persons,462.2,Similar
+1300,Tendring,69.3,Worse,2019,Persons,397.4,Worse
+1301,Uttlesford,62.7,Similar,2019,Persons,535.1,Similar
+1302,Cheltenham,56.1,Better,2019,Persons,497.7,Similar
+1303,Cotswold,58.9,Similar,2019,Persons,454.3,Similar
+1304,Forest of Dean,67.2,Similar,2019,Persons,429.1,Similar
+1305,Gloucester,65.4,Similar,2019,Persons,430.2,Similar
+1306,Stroud,60.3,Similar,2019,Persons,456.7,Similar
+1307,Tewkesbury,59.1,Similar,2019,Persons,469.6,Similar
+1308,Basingstoke and Deane,65.2,Similar,2019,Persons,534.1,Better
+1309,East Hampshire,58.7,Similar,2019,Persons,534.3,Similar
+1310,Eastleigh,65.1,Similar,2019,Persons,479.1,Similar
+1311,Fareham,63.7,Similar,2019,Persons,499.4,Similar
+1312,Gosport,68.1,Worse,2019,Persons,456.1,Similar
+1313,Hart,57.3,Better,2019,Persons,567.5,Better
+1314,Havant,66.8,Similar,2019,Persons,467.2,Similar
+1315,New Forest,65.4,Similar,2019,Persons,458.1,Similar
+1316,Rushmoor,63.5,Similar,2019,Persons,515.6,Similar
+1317,Test Valley,60.6,Similar,2019,Persons,498.3,Similar
+1318,Winchester,58.6,Similar,2019,Persons,541.8,Better
+1319,Broxbourne,59.7,Similar,2019,Persons,503.2,Similar
+1320,Dacorum,59.6,Similar,2019,Persons,517.5,Similar
+1321,Hertsmere,60,Similar,2019,Persons,547.1,Similar
+1322,North Hertfordshire,57.7,Better,2019,Persons,562.9,Better
+1323,Three Rivers,55.9,Better,2019,Persons,553.5,Better
+1324,Watford,59.8,Similar,2019,Persons,530.9,Similar
+1325,Ashford,65.4,Similar,2019,Persons,492,Similar
+1326,Canterbury,63.4,Similar,2019,Persons,450.2,Similar
+1327,Dartford,63.8,Similar,2019,Persons,541.5,Similar
+1328,Dover,64.6,Similar,2019,Persons,479.8,Similar
+1329,Gravesham,70.2,Worse,2019,Persons,479.1,Similar
+1330,Maidstone,64.9,Similar,2019,Persons,479.1,Similar
+1331,Sevenoaks,63.5,Similar,2019,Persons,555.7,Similar
+1332,Folkestone & Hythe,69.4,Worse,2019,Persons,458.1,Similar
+1333,Swale,62.1,Similar,2019,Persons,474.2,Similar
+1334,Thanet,67.9,Worse,2019,Persons,389.3,Worse
+1335,Tonbridge and Malling,61.6,Similar,2019,Persons,551.4,Better
+1336,Tunbridge Wells,57,Better,2019,Persons,529.7,Similar
+1337,Burnley,69.6,Worse,2019,Persons,428.6,Similar
+1338,Chorley,68.4,Worse,2019,Persons,464.3,Similar
+1339,Fylde,67.4,Worse,2019,Persons,523,Similar
+1340,Hyndburn,67.7,Worse,2019,Persons,422.2,Similar
+1341,Lancaster,64,Similar,2019,Persons,420.7,Similar
+1342,Pendle,65.3,Similar,2019,Persons,428.5,Similar
+1343,Preston,61,Similar,2019,Persons,387.2,Worse
+1344,Ribble Valley,60.7,Similar,2019,Persons,474.8,Similar
+1345,Rossendale,73.3,Worse,2019,Persons,399,Worse
+1346,South Ribble,68.4,Worse,2019,Persons,449.3,Similar
+1347,West Lancashire,68.9,Worse,2019,Persons,463.7,Similar
+1348,Wyre,62.5,Similar,2019,Persons,395.9,Worse
+1349,Blaby,64.6,Similar,2019,Persons,468,Similar
+1350,Charnwood,59.8,Similar,2019,Persons,456.5,Similar
+1351,Harborough,62.3,Similar,2019,Persons,491.2,Similar
+1352,Hinckley and Bosworth,61.8,Similar,2019,Persons,441.2,Similar
+1353,Melton,62,Similar,2019,Persons,358.2,Worse
+1354,North West Leicestershire,72,Worse,2019,Persons,459.6,Similar
+1355,Oadby and Wigston,55.8,Better,2019,Persons,447.5,Similar
+1356,Boston,72.9,Worse,2019,Persons,365.7,Worse
+1357,East Lindsey,74.6,Worse,2019,Persons,373.9,Worse
+1358,Lincoln,59.5,Similar,2019,Persons,390.4,Worse
+1359,North Kesteven,65.6,Similar,2019,Persons,450.6,Similar
+1360,South Holland,66.1,Similar,2019,Persons,409.4,Worse
+1361,South Kesteven,65.8,Similar,2019,Persons,422.4,Worse
+1362,West Lindsey,60.3,Similar,2019,Persons,455,Similar
+1363,Breckland,65.2,Similar,2019,Persons,414.5,Worse
+1364,Broadland,65.6,Similar,2019,Persons,418.9,Similar
+1365,Great Yarmouth,64.1,Similar,2019,Persons,364.1,Worse
+1366,King's Lynn and West Norfolk,62.6,Similar,2019,Persons,415.9,Worse
+1367,North Norfolk,62.2,Similar,2019,Persons,379.7,Worse
+1368,Norwich,56.1,Better,2019,Persons,403,Worse
+1369,South Norfolk,56.8,Better,2019,Persons,469,Similar
+1370,Craven,53.7,Better,2019,Persons,374.4,Worse
+1371,Hambleton,63.8,Similar,2019,Persons,467,Similar
+1372,Harrogate,54.9,Better,2019,Persons,467.2,Similar
+1373,Richmondshire,61.9,Similar,2019,Persons,419.5,Similar
+1374,Ryedale,63.1,Similar,2019,Persons,371.9,Worse
+1375,Scarborough,70.8,Worse,2019,Persons,387.7,Worse
+1376,Selby,61,Similar,2019,Persons,492.7,Similar
+1377,Ashfield,68.6,Worse,2019,Persons,426.6,Worse
+1378,Bassetlaw,68.2,Worse,2019,Persons,409.4,Worse
+1379,Broxtowe,65.2,Similar,2019,Persons,498.3,Similar
+1380,Gedling,62.9,Similar,2019,Persons,450.8,Similar
+1381,Mansfield,73.1,Worse,2019,Persons,364.6,Worse
+1382,Newark and Sherwood,62.3,Similar,2019,Persons,399.6,Worse
+1383,Rushcliffe,55.4,Better,2019,Persons,549.1,Better
+1384,Cherwell,63.4,Similar,2019,Persons,492.1,Similar
+1385,Oxford,48.9,Better,2019,Persons,493.9,Similar
+1386,South Oxfordshire,53.8,Better,2019,Persons,611.4,Better
+1387,Vale of White Horse,58.8,Similar,2019,Persons,562.2,Better
+1388,West Oxfordshire,63.3,Similar,2019,Persons,470.6,Similar
+1389,Mendip,58.1,Better,2019,Persons,416.9,Worse
+1390,Sedgemoor,70.1,Worse,2019,Persons,412.9,Worse
+1391,South Somerset,58.6,Similar,2019,Persons,425.3,Worse
+1392,Cannock Chase,70.1,Worse,2019,Persons,430.8,Similar
+1393,East Staffordshire,63,Similar,2019,Persons,433.8,Similar
+1394,Lichfield,68.5,Worse,2019,Persons,501.4,Similar
+1395,Newcastle-under-Lyme,61.7,Similar,2019,Persons,438.6,Similar
+1396,South Staffordshire,65.2,Similar,2019,Persons,485,Similar
+1397,Stafford,68,Worse,2019,Persons,488,Similar
+1398,Staffordshire Moorlands,66.7,Similar,2019,Persons,459.9,Similar
+1399,Tamworth,70.4,Worse,2019,Persons,437.6,Similar
+1400,Babergh,69.7,Worse,2019,Persons,460.5,Similar
+1401,Ipswich,63.2,Similar,2019,Persons,421.6,Worse
+1402,Mid Suffolk,61.6,Similar,2019,Persons,463.1,Similar
+1403,Elmbridge,49.4,Better,2019,Persons,671.5,Better
+1404,Epsom and Ewell,59.5,Similar,2019,Persons,591.4,Better
+1405,Guildford,58,Better,2019,Persons,616,Better
+1406,Mole Valley,56.8,Better,2019,Persons,472.7,Similar
+1407,Reigate and Banstead,58.5,Similar,2019,Persons,593.2,Better
+1408,Runnymede,63.8,Similar,2019,Persons,568.7,Similar
+1409,Spelthorne,66.2,Similar,2019,Persons,544.1,Better
+1410,Surrey Heath,64.9,Similar,2019,Persons,621.8,Better
+1411,Tandridge,60,Similar,2019,Persons,545.1,Similar
+1412,Waverley,49.4,Better,2019,Persons,570.9,Better
+1413,Woking,60.7,Similar,2019,Persons,574.9,Better
+1414,North Warwickshire,68.7,Worse,2019,Persons,485.9,Similar
+1415,Nuneaton and Bedworth,72.2,Worse,2019,Persons,434.1,Similar
+1416,Rugby,60.4,Similar,2019,Persons,479.1,Similar
+1417,Stratford-on-Avon,58.3,Similar,2019,Persons,483,Similar
+1418,Warwick,58.9,Similar,2019,Persons,531.4,Better
+1419,Adur,60.7,Similar,2019,Persons,455.8,Similar
+1420,Arun,71.2,Worse,2019,Persons,393.2,Worse
+1421,Chichester,65.7,Similar,2019,Persons,445,Similar
+1422,Crawley,65.9,Similar,2019,Persons,484.8,Similar
+1423,Horsham,56.8,Better,2019,Persons,478,Similar
+1424,Mid Sussex,57.3,Better,2019,Persons,508.2,Similar
+1425,Worthing,55.7,Better,2019,Persons,459.7,Similar
+1426,Bromsgrove,63.4,Similar,2019,Persons,515.2,Similar
+1427,Malvern Hills,62.7,Similar,2019,Persons,401.5,Worse
+1428,Redditch,67.2,Similar,2019,Persons,408.7,Similar
+1429,Worcester,61.2,Similar,2019,Persons,462.4,Similar
+1430,Wychavon,65.4,Similar,2019,Persons,436.4,Similar
+1431,Wyre Forest,68.5,Worse,2019,Persons,408,Worse
+1432,St Albans,52.1,Better,2019,Persons,633.6,Better
+1433,Welwyn Hatfield,61,Similar,2019,Persons,490.9,Similar
+1434,East Hertfordshire,62.6,Similar,2019,Persons,591.7,Better
+1435,Stevenage,70.1,Worse,2019,Persons,456.1,Similar
+1436,East Suffolk,62.2,Similar,2019,Persons,432.1,Similar
+1437,West Suffolk,58.9,Similar,2019,Persons,433.7,Similar
+1438,Somerset West and Taunton,63.7,Similar,2019,Persons,420.2,Worse
+1439,Bolton,67.8,Worse,2019,Persons,418.2,Worse
+1440,Bury,62.7,Similar,2019,Persons,488.9,Similar
+1441,Manchester,61,Similar,2019,Persons,440.8,Worse
+1442,Oldham,69.1,Worse,2019,Persons,415.4,Worse
+1443,Rochdale,70.2,Worse,2019,Persons,412.8,Worse
+1444,Salford,65.3,Similar,2019,Persons,431.1,Worse
+1445,Stockport,64.5,Similar,2019,Persons,503.3,Similar
+1446,Tameside,71.5,Worse,2019,Persons,420.4,Worse
+1447,Trafford,59.3,Better,2019,Persons,536.6,Better
+1448,Wigan,72.5,Worse,2019,Persons,438,Worse
+1449,Knowsley,64.9,Similar,2019,Persons,416.3,Worse
+1450,Liverpool,64.4,Similar,2019,Persons,439.5,Worse
+1451,St. Helens,65,Similar,2019,Persons,456.3,Similar
+1452,Sefton,66.3,Similar,2019,Persons,434.4,Similar
+1453,Wirral,67.7,Worse,2019,Persons,453.1,Similar
+1454,Barnsley,73.6,Worse,2019,Persons,435.6,Similar
+1455,Doncaster,69.2,Worse,2019,Persons,419.3,Worse
+1456,Rotherham,73.6,Worse,2019,Persons,412.5,Worse
+1457,Sheffield,61.8,Similar,2019,Persons,438.5,Worse
+1458,Newcastle upon Tyne,60.2,Better,2019,Persons,421.7,Worse
+1459,North Tyneside,66,Similar,2019,Persons,451.1,Similar
+1460,South Tyneside,71.6,Worse,2019,Persons,395.9,Worse
+1461,Sunderland,72.5,Worse,2019,Persons,404.8,Worse
+1462,Birmingham,65.8,Worse,2019,Persons,425,Worse
+1463,Coventry,65.7,Similar,2019,Persons,457.6,Similar
+1464,Dudley,73.2,Worse,2019,Persons,456.8,Similar
+1465,Sandwell,77.7,Worse,2019,Persons,407.6,Worse
+1466,Solihull,69.3,Worse,2019,Persons,526.6,Similar
+1467,Walsall,67.5,Worse,2019,Persons,421.7,Worse
+1468,Wolverhampton,67.7,Worse,2019,Persons,411.4,Worse
+1469,Bradford,66.1,Worse,2019,Persons,412.6,Worse
+1470,Calderdale,65.4,Similar,2019,Persons,444.7,Similar
+1471,Kirklees,67.7,Worse,2019,Persons,421.3,Worse
+1472,Leeds,59.9,Better,2019,Persons,453.5,Similar
+1473,Wakefield,63,Similar,2019,Persons,417.6,Worse
+1474,Gateshead,69,Worse,2019,Persons,423.5,Worse
+1475,City of London,54.4,Better,2019,Persons,,Not compared
+1476,Barking and Dagenham,62.7,Similar,2019,Persons,460.1,Similar
+1477,Barnet,57.7,Better,2019,Persons,524.4,Better
+1478,Bexley,68.6,Worse,2019,Persons,544.9,Better
+1479,Brent,62.1,Similar,2019,Persons,512.2,Better
+1480,Bromley,57,Better,2019,Persons,625.6,Better
+1481,Camden,49.2,Better,2019,Persons,640.6,Better
+1482,Croydon,58.2,Similar,2019,Persons,546.9,Better
+1483,Ealing,60.6,Similar,2019,Persons,511.8,Better
+1484,Enfield,57.6,Better,2019,Persons,478.5,Similar
+1485,Greenwich,55.7,Better,2019,Persons,570.6,Better
+1486,Hackney,52.6,Better,2019,Persons,574.9,Better
+1487,Hammersmith and Fulham,42,Better,2019,Persons,725.1,Better
+1488,Haringey,50.4,Better,2019,Persons,537,Better
+1489,Harrow,58.1,Similar,2019,Persons,568.2,Better
+1490,Havering,67.1,Similar,2019,Persons,552.3,Better
+1491,Hillingdon,65.3,Similar,2019,Persons,530.2,Better
+1492,Hounslow,61.3,Similar,2019,Persons,529.1,Better
+1493,Islington,47.6,Better,2019,Persons,688.2,Better
+1494,Kensington and Chelsea,45.1,Better,2019,Persons,737.1,Better
+1495,Kingston upon Thames,49.3,Better,2019,Persons,623.2,Better
+1496,Lambeth,47.5,Better,2019,Persons,625.9,Better
+1497,Lewisham,53.7,Better,2019,Persons,536.1,Better
+1498,Merton,52.3,Better,2019,Persons,574.9,Better
+1499,Newham,68.1,Worse,2019,Persons,498.3,Similar
+1500,Redbridge,60.9,Similar,2019,Persons,561.8,Better
+1501,Richmond upon Thames,52,Better,2019,Persons,715.8,Better
+1502,Southwark,49.1,Better,2019,Persons,620.3,Better
+1503,Sutton,59.7,Similar,2019,Persons,538.3,Better
+1504,"Bournemouth, Christchurch and Poole",60.2,Similar,2019,Persons,451.7,Similar
+1505,Dorset,66.3,Similar,2019,Persons,421.8,Worse
+1506,Tower Hamlets,52,Better,2019,Persons,685.8,Better
+1507,Waltham Forest,56.8,Better,2019,Persons,552,Better
+1508,Wandsworth,48.1,Better,2019,Persons,714,Better
+1509,Westminster,44.7,Better,2019,Persons,699.2,Better
+1510,Hartlepool,74.6,Worse,2020,Persons,439.8,Similar
+1511,Middlesbrough,70.8,Worse,2020,Persons,391.8,Worse
+1512,Redcar and Cleveland,68.5,Worse,2020,Persons,410.5,Worse
+1513,Stockton-on-Tees,75.8,Worse,2020,Persons,435.7,Similar
+1514,Darlington,72.5,Worse,2020,Persons,426.3,Similar
+1515,Halton,65,Similar,2020,Persons,460.8,Similar
+1516,Warrington,64.2,Similar,2020,Persons,460.9,Similar
+1517,Blackburn with Darwen,63.6,Similar,2020,Persons,387.2,Worse
+1518,Blackpool,70.5,Worse,2020,Persons,359.6,Worse
+1519,Kingston upon Hull,70.7,Worse,2020,Persons,387.5,Worse
+1520,East Riding of Yorkshire,67.6,Similar,2020,Persons,438.2,Similar
+1521,North East Lincolnshire,67.6,Similar,2020,Persons,438,Similar
+1522,North Lincolnshire,67.6,Similar,2020,Persons,396.8,Worse
+1523,York,63.6,Similar,2020,Persons,440.4,Similar
+1524,Derby,65.4,Similar,2020,Persons,477.4,Similar
+1525,Leicester,60.2,Similar,2020,Persons,372.1,Worse
+1526,Rutland,59.5,Similar,2020,Persons,458,Similar
+1527,Nottingham,66.9,Worse,2020,Persons,403.4,Worse
+1528,Herefordshire,67,Similar,2020,Persons,390,Worse
+1529,Telford and Wrekin,70.6,Worse,2020,Persons,427.6,Worse
+1530,Stoke-on-Trent,68.7,Worse,2020,Persons,443,Similar
+1531,Bath and North East Somerset,56.3,Better,2020,Persons,427.6,Similar
+1532,Bristol,55.7,Better,2020,Persons,498.9,Similar
+1533,North Somerset,64.2,Similar,2020,Persons,480.3,Similar
+1534,South Gloucestershire,62.6,Similar,2020,Persons,469.8,Similar
+1535,Plymouth,68.8,Worse,2020,Persons,403.1,Worse
+1536,Torbay,59.4,Similar,2020,Persons,381.6,Worse
+1537,Swindon,65,Similar,2020,Persons,507.6,Similar
+1538,Peterborough,60.7,Similar,2020,Persons,441.9,Similar
+1539,Luton,67.5,Similar,2020,Persons,479.2,Similar
+1540,Southend-on-Sea,68.8,Worse,2020,Persons,478.1,Similar
+1541,Thurrock,76.3,Worse,2020,Persons,495.3,Similar
+1542,Medway,69.4,Worse,2020,Persons,490.6,Similar
+1543,Bracknell Forest,63.5,Similar,2020,Persons,537.1,Similar
+1544,West Berkshire,61.5,Similar,2020,Persons,514.8,Similar
+1545,Reading,63.5,Similar,2020,Persons,516.3,Similar
+1546,Slough,61.9,Similar,2020,Persons,520.3,Similar
+1547,Windsor and Maidenhead,57,Better,2020,Persons,614.9,Better
+1548,Wokingham,60.2,Similar,2020,Persons,537.9,Similar
+1549,Milton Keynes,69.3,Worse,2020,Persons,506,Similar
+1550,Brighton and Hove,58.8,Better,2020,Persons,479.1,Similar
+1551,Portsmouth,65.4,Similar,2020,Persons,407,Worse
+1552,Southampton,65,Similar,2020,Persons,459.4,Similar
+1553,Isle of Wight,61.7,Similar,2020,Persons,414.4,Similar
+1554,County Durham,70.8,Worse,2020,Persons,434.1,Worse
+1555,Cheshire East,68.3,Worse,2020,Persons,490.5,Similar
+1556,Cheshire West and Chester,60.2,Similar,2020,Persons,479.7,Similar
+1557,Shropshire,68,Worse,2020,Persons,421.6,Worse
+1558,Cornwall,62.7,Similar,2020,Persons,384.8,Worse
+1559,Isles of Scilly,57.3,Similar,2020,Persons,,Not compared
+1560,Wiltshire,61.8,Similar,2020,Persons,435.1,Worse
+1561,Bedford,63.3,Similar,2020,Persons,535.1,Better
+1562,Central Bedfordshire,65.8,Similar,2020,Persons,535.3,Better
+1563,Northumberland,65.9,Similar,2020,Persons,425.3,Worse
+1564,Cambridge,49.6,Better,2020,Persons,575.8,Better
+1565,East Cambridgeshire,63.4,Similar,2020,Persons,480.1,Similar
+1566,Fenland,67.1,Similar,2020,Persons,440.8,Similar
+1567,Huntingdonshire,65.3,Similar,2020,Persons,525.2,Better
+1568,South Cambridgeshire,58.3,Better,2020,Persons,556.3,Better
+1569,Allerdale,57.8,Better,2020,Persons,454.9,Similar
+1570,Barrow-in-Furness,63.9,Similar,2020,Persons,541.6,Similar
+1571,Carlisle,70.3,Worse,2020,Persons,445.8,Similar
+1572,Copeland,65.6,Similar,2020,Persons,555.6,Similar
+1573,Eden,66.8,Similar,2020,Persons,396.9,Similar
+1574,South Lakeland,57.5,Better,2020,Persons,444.7,Similar
+1575,Amber Valley,62.6,Similar,2020,Persons,424.7,Similar
+1576,Bolsover,68.9,Worse,2020,Persons,403.8,Worse
+1577,Chesterfield,70.1,Worse,2020,Persons,405,Worse
+1578,Derbyshire Dales,59.6,Similar,2020,Persons,428.8,Similar
+1579,Erewash,72.2,Worse,2020,Persons,441.7,Similar
+1580,High Peak,67,Similar,2020,Persons,425.2,Similar
+1581,North East Derbyshire,73.8,Worse,2020,Persons,434.3,Similar
+1582,South Derbyshire,70.4,Worse,2020,Persons,555.1,Better
+1583,East Devon,65.2,Similar,2020,Persons,420.4,Similar
+1584,Exeter,61.3,Similar,2020,Persons,389.7,Worse
+1585,Mid Devon,63.1,Similar,2020,Persons,406.4,Worse
+1586,North Devon,64.1,Similar,2020,Persons,369.8,Worse
+1587,South Hams,50.8,Better,2020,Persons,412.5,Similar
+1588,Teignbridge,64.3,Similar,2020,Persons,392.7,Worse
+1589,Torridge,65.7,Similar,2020,Persons,395.8,Worse
+1590,West Devon,63,Similar,2020,Persons,417.8,Similar
+1591,Eastbourne,60.9,Similar,2020,Persons,439.8,Similar
+1592,Hastings,63.7,Similar,2020,Persons,399.1,Worse
+1593,Lewes,61.6,Similar,2020,Persons,491.2,Similar
+1594,Rother,66.8,Similar,2020,Persons,345.7,Worse
+1595,Wealden,68.7,Worse,2020,Persons,440.7,Similar
+1596,Basildon,69.7,Worse,2020,Persons,475.4,Similar
+1597,Braintree,68.3,Worse,2020,Persons,454.5,Similar
+1598,Brentwood,61.3,Similar,2020,Persons,592.6,Similar
+1599,Castle Point,70.5,Worse,2020,Persons,497.6,Similar
+1600,Chelmsford,58.1,Better,2020,Persons,503.4,Similar
+1601,Colchester,66.2,Similar,2020,Persons,458.2,Similar
+1602,Epping Forest,57.5,Better,2020,Persons,515.1,Similar
+1603,Harlow,73.5,Worse,2020,Persons,473.2,Similar
+1604,Maldon,69.1,Worse,2020,Persons,486.4,Similar
+1605,Rochford,67.2,Similar,2020,Persons,461.3,Similar
+1606,Tendring,67.8,Worse,2020,Persons,413.7,Similar
+1607,Uttlesford,64.3,Similar,2020,Persons,530.9,Similar
+1608,Cheltenham,59,Similar,2020,Persons,501.8,Similar
+1609,Cotswold,60.7,Similar,2020,Persons,477.5,Similar
+1610,Forest of Dean,70.3,Worse,2020,Persons,396.4,Similar
+1611,Gloucester,72.1,Worse,2020,Persons,416.8,Worse
+1612,Stroud,62.2,Similar,2020,Persons,426.8,Similar
+1613,Tewkesbury,67.6,Similar,2020,Persons,465.1,Similar
+1614,Basingstoke and Deane,60,Similar,2020,Persons,563.7,Better
+1615,East Hampshire,60.7,Similar,2020,Persons,510.4,Similar
+1616,Eastleigh,65.9,Similar,2020,Persons,508,Similar
+1617,Fareham,62.5,Similar,2020,Persons,531.3,Similar
+1618,Gosport,71,Worse,2020,Persons,460,Similar
+1619,Hart,63.1,Similar,2020,Persons,604.6,Better
+1620,Havant,63.9,Similar,2020,Persons,438.6,Similar
+1621,New Forest,65.5,Similar,2020,Persons,478.2,Similar
+1622,Rushmoor,64.7,Similar,2020,Persons,556.4,Similar
+1623,Test Valley,62.5,Similar,2020,Persons,479.1,Similar
+1624,Winchester,57.3,Better,2020,Persons,567.2,Better
+1625,Broxbourne,66.2,Similar,2020,Persons,574.9,Similar
+1626,Dacorum,61.8,Similar,2020,Persons,525.4,Similar
+1627,Hertsmere,62.8,Similar,2020,Persons,519.2,Similar
+1628,North Hertfordshire,55.5,Better,2020,Persons,574.9,Better
+1629,Three Rivers,62.9,Similar,2020,Persons,520,Similar
+1630,Watford,67.3,Similar,2020,Persons,566.1,Better
+1631,Ashford,63.5,Similar,2020,Persons,440.8,Similar
+1632,Canterbury,59.2,Similar,2020,Persons,453.5,Similar
+1633,Dartford,70.4,Worse,2020,Persons,575.2,Similar
+1634,Dover,64.3,Similar,2020,Persons,463.2,Similar
+1635,Gravesham,65.2,Similar,2020,Persons,460.8,Similar
+1636,Maidstone,61,Similar,2020,Persons,506.6,Similar
+1637,Sevenoaks,55.3,Better,2020,Persons,516.4,Similar
+1638,Folkestone & Hythe,66.7,Similar,2020,Persons,439.9,Similar
+1639,Swale,70.6,Worse,2020,Persons,436.3,Similar
+1640,Thanet,65.1,Similar,2020,Persons,406.1,Worse
+1641,Tonbridge and Malling,57.4,Better,2020,Persons,575.2,Better
+1642,Tunbridge Wells,58.7,Better,2020,Persons,517.3,Similar
+1643,Burnley,73.4,Worse,2020,Persons,412.1,Similar
+1644,Chorley,65.8,Similar,2020,Persons,452.8,Similar
+1645,Fylde,67.8,Similar,2020,Persons,487.2,Similar
+1646,Hyndburn,71.1,Worse,2020,Persons,372.1,Worse
+1647,Lancaster,66.1,Similar,2020,Persons,417.7,Similar
+1648,Pendle,68.7,Worse,2020,Persons,358.9,Worse
+1649,Preston,62.8,Similar,2020,Persons,416.3,Worse
+1650,Ribble Valley,60.7,Similar,2020,Persons,484.4,Similar
+1651,Rossendale,67.9,Similar,2020,Persons,421.3,Similar
+1652,South Ribble,61.5,Similar,2020,Persons,433.3,Similar
+1653,West Lancashire,65.1,Similar,2020,Persons,424.2,Similar
+1654,Wyre,64.2,Similar,2020,Persons,402.6,Worse
+1655,Blaby,71.4,Worse,2020,Persons,517.5,Similar
+1656,Charnwood,62.6,Similar,2020,Persons,456.2,Similar
+1657,Harborough,59.7,Similar,2020,Persons,564.9,Similar
+1658,Hinckley and Bosworth,68.5,Worse,2020,Persons,498.1,Similar
+1659,Melton,58.4,Better,2020,Persons,389.2,Similar
+1660,North West Leicestershire,70.9,Worse,2020,Persons,469.9,Similar
+1661,Oadby and Wigston,66.3,Similar,2020,Persons,494.4,Similar
+1662,Boston,73.4,Worse,2020,Persons,348.2,Worse
+1663,East Lindsey,62.4,Similar,2020,Persons,374.1,Worse
+1664,Lincoln,67.5,Similar,2020,Persons,415.7,Similar
+1665,North Kesteven,63.3,Similar,2020,Persons,494,Similar
+1666,South Holland,72.9,Worse,2020,Persons,464.2,Similar
+1667,South Kesteven,68.9,Worse,2020,Persons,411.4,Worse
+1668,West Lindsey,67.3,Similar,2020,Persons,467,Similar
+1669,Breckland,62,Similar,2020,Persons,403,Worse
+1670,Broadland,61.2,Similar,2020,Persons,418.9,Similar
+1671,Great Yarmouth,68.7,Worse,2020,Persons,358.8,Worse
+1672,King's Lynn and West Norfolk,68.3,Worse,2020,Persons,403.5,Worse
+1673,North Norfolk,69.3,Worse,2020,Persons,366.1,Worse
+1674,Norwich,61.8,Similar,2020,Persons,452.1,Similar
+1675,South Norfolk,59.8,Similar,2020,Persons,435.9,Similar
+1676,Craven,55,Better,2020,Persons,357.4,Worse
+1677,Hambleton,64.1,Similar,2020,Persons,431.7,Similar
+1678,Harrogate,59.4,Similar,2020,Persons,432.7,Similar
+1679,Richmondshire,64.4,Similar,2020,Persons,382.1,Worse
+1680,Ryedale,62.3,Similar,2020,Persons,412.4,Similar
+1681,Scarborough,59.3,Similar,2020,Persons,415.8,Similar
+1682,Selby,66.3,Similar,2020,Persons,489.9,Similar
+1683,Ashfield,71,Worse,2020,Persons,438.4,Similar
+1684,Bassetlaw,67.4,Similar,2020,Persons,441.1,Similar
+1685,Broxtowe,63.5,Similar,2020,Persons,525.8,Similar
+1686,Gedling,62.9,Similar,2020,Persons,416.1,Similar
+1687,Mansfield,67.6,Similar,2020,Persons,405.6,Worse
+1688,Newark and Sherwood,66.9,Similar,2020,Persons,408.4,Similar
+1689,Rushcliffe,56.4,Better,2020,Persons,520.8,Similar
+1690,Cherwell,65.8,Similar,2020,Persons,496.1,Similar
+1691,Oxford,48.4,Better,2020,Persons,495.7,Similar
+1692,South Oxfordshire,59.8,Similar,2020,Persons,574.9,Better
+1693,Vale of White Horse,57.3,Better,2020,Persons,549.4,Similar
+1694,West Oxfordshire,61,Similar,2020,Persons,503.5,Similar
+1695,Mendip,63.2,Similar,2020,Persons,392.2,Worse
+1696,Sedgemoor,62.7,Similar,2020,Persons,408.7,Worse
+1697,South Somerset,60.5,Similar,2020,Persons,399.3,Worse
+1698,Cannock Chase,73.7,Worse,2020,Persons,437.1,Similar
+1699,East Staffordshire,70.6,Worse,2020,Persons,458.8,Similar
+1700,Lichfield,64.9,Similar,2020,Persons,507,Similar
+1701,Newcastle-under-Lyme,69.2,Worse,2020,Persons,451.7,Similar
+1702,South Staffordshire,68.4,Worse,2020,Persons,537,Similar
+1703,Stafford,61.7,Similar,2020,Persons,491.6,Similar
+1704,Staffordshire Moorlands,68.8,Worse,2020,Persons,486.9,Similar
+1705,Tamworth,74.9,Worse,2020,Persons,419.9,Similar
+1706,Babergh,63.8,Similar,2020,Persons,431.9,Similar
+1707,Ipswich,68.2,Worse,2020,Persons,424.7,Worse
+1708,Mid Suffolk,60.4,Similar,2020,Persons,423.3,Similar
+1709,Elmbridge,50.8,Better,2020,Persons,559.7,Similar
+1710,Epsom and Ewell,58.6,Better,2020,Persons,520.7,Similar
+1711,Guildford,59.8,Similar,2020,Persons,591.6,Similar
+1712,Mole Valley,54.5,Better,2020,Persons,443.4,Similar
+1713,Reigate and Banstead,61,Similar,2020,Persons,576.9,Better
+1714,Runnymede,62.1,Similar,2020,Persons,498.9,Similar
+1715,Spelthorne,64.4,Similar,2020,Persons,557.1,Similar
+1716,Surrey Heath,62.3,Similar,2020,Persons,634.5,Better
+1717,Tandridge,56.7,Better,2020,Persons,528.9,Similar
+1718,Waverley,56.7,Better,2020,Persons,564.1,Similar
+1719,Woking,56.7,Better,2020,Persons,587.6,Better
+1720,North Warwickshire,69.4,Worse,2020,Persons,492.4,Similar
+1721,Nuneaton and Bedworth,69.1,Worse,2020,Persons,427.4,Similar
+1722,Rugby,68.5,Worse,2020,Persons,510.1,Similar
+1723,Stratford-on-Avon,64.2,Similar,2020,Persons,505.5,Similar
+1724,Warwick,62.3,Similar,2020,Persons,536.9,Similar
+1725,Adur,69.9,Worse,2020,Persons,452.6,Similar
+1726,Arun,66.7,Similar,2020,Persons,392.7,Worse
+1727,Chichester,59.4,Similar,2020,Persons,421.4,Similar
+1728,Crawley,66.5,Similar,2020,Persons,490.6,Similar
+1729,Horsham,63.2,Similar,2020,Persons,495.2,Similar
+1730,Mid Sussex,65.3,Similar,2020,Persons,510.1,Similar
+1731,Worthing,58.6,Better,2020,Persons,478.6,Similar
+1732,Bromsgrove,59,Similar,2020,Persons,502.5,Similar
+1733,Malvern Hills,60,Similar,2020,Persons,428.7,Similar
+1734,Redditch,67.4,Similar,2020,Persons,413,Worse
+1735,Worcester,63.2,Similar,2020,Persons,420,Similar
+1736,Wychavon,65.7,Similar,2020,Persons,426.8,Similar
+1737,Wyre Forest,68.9,Worse,2020,Persons,443.4,Similar
+1738,St Albans,51,Better,2020,Persons,669.2,Better
+1739,Welwyn Hatfield,64.5,Similar,2020,Persons,505.8,Similar
+1740,East Hertfordshire,63.4,Similar,2020,Persons,574.9,Similar
+1741,Stevenage,68.5,Worse,2020,Persons,474.8,Similar
+1742,East Suffolk,61.9,Similar,2020,Persons,,Not compared
+1743,West Suffolk,60.7,Similar,2020,Persons,,Not compared
+1744,Somerset West and Taunton,62.6,Similar,2020,Persons,,Not compared
+1745,Bolton,63.8,Similar,2020,Persons,422.3,Worse
+1746,Bury,61.6,Similar,2020,Persons,497.8,Similar
+1747,Manchester,61.7,Similar,2020,Persons,431.2,Worse
+1748,Oldham,70.4,Worse,2020,Persons,413.7,Worse
+1749,Rochdale,69.7,Worse,2020,Persons,413.7,Worse
+1750,Salford,66.7,Worse,2020,Persons,440.9,Similar
+1751,Stockport,63.1,Similar,2020,Persons,479.1,Similar
+1752,Tameside,70.3,Worse,2020,Persons,414.5,Worse
+1753,Trafford,60.7,Similar,2020,Persons,508.2,Similar
+1754,Wigan,73.7,Worse,2020,Persons,451.6,Similar
+1755,Knowsley,74,Worse,2020,Persons,469.8,Similar
+1756,Liverpool,65.9,Worse,2020,Persons,460,Similar
+1757,St. Helens,67.6,Similar,2020,Persons,440.6,Similar
+1758,Sefton,71.5,Worse,2020,Persons,435.4,Similar
+1759,Wirral,71.8,Worse,2020,Persons,462.6,Similar
+1760,Barnsley,70.6,Worse,2020,Persons,421.2,Worse
+1761,Doncaster,71,Worse,2020,Persons,432.4,Similar
+1762,Rotherham,68.3,Worse,2020,Persons,402.8,Worse
+1763,Sheffield,63.9,Similar,2020,Persons,412.4,Worse
+1764,Newcastle upon Tyne,66.6,Worse,2020,Persons,414.7,Worse
+1765,North Tyneside,65.9,Similar,2020,Persons,457.3,Similar
+1766,South Tyneside,65.9,Similar,2020,Persons,432.1,Similar
+1767,Sunderland,69.1,Worse,2020,Persons,416.2,Worse
+1768,Birmingham,63.5,Similar,2020,Persons,434.9,Worse
+1769,Coventry,68.4,Worse,2020,Persons,446.4,Similar
+1770,Dudley,66.8,Similar,2020,Persons,475.6,Similar
+1771,Sandwell,70.8,Worse,2020,Persons,413.6,Worse
+1772,Solihull,62.8,Similar,2020,Persons,547.1,Similar
+1773,Walsall,71.5,Worse,2020,Persons,416.7,Worse
+1774,Wolverhampton,68.5,Worse,2020,Persons,429,Worse
+1775,Bradford,63.2,Similar,2020,Persons,437.7,Worse
+1776,Calderdale,63.7,Similar,2020,Persons,448.4,Similar
+1777,Kirklees,69.7,Worse,2020,Persons,437.1,Worse
+1778,Leeds,63.6,Similar,2020,Persons,480.7,Similar
+1779,Wakefield,71.6,Worse,2020,Persons,405,Worse
+1780,Gateshead,73.3,Worse,2020,Persons,419.4,Worse
+1781,City of London,51.3,Better,2020,Persons,,Not compared
+1782,Barking and Dagenham,64.5,Similar,2020,Persons,494.3,Similar
+1783,Barnet,61.1,Similar,2020,Persons,513.3,Similar
+1784,Bexley,64.6,Similar,2020,Persons,552.1,Similar
+1785,Brent,55.9,Better,2020,Persons,524.7,Similar
+1786,Bromley,58,Better,2020,Persons,600,Better
+1787,Camden,50.5,Better,2020,Persons,617.2,Better
+1788,Croydon,61.8,Similar,2020,Persons,544.4,Better
+1789,Ealing,53,Better,2020,Persons,564,Better
+1790,Enfield,60.9,Similar,2020,Persons,470.3,Similar
+1791,Greenwich,62.2,Similar,2020,Persons,573.5,Better
+1792,Hackney,52.4,Better,2020,Persons,574.9,Better
+1793,Hammersmith and Fulham,46.4,Better,2020,Persons,709.1,Better
+1794,Haringey,49.5,Better,2020,Persons,543.6,Similar
+1795,Harrow,53,Better,2020,Persons,563.5,Better
+1796,Havering,68.8,Worse,2020,Persons,564.4,Better
+1797,Hillingdon,55.7,Better,2020,Persons,553.1,Better
+1798,Hounslow,63.2,Similar,2020,Persons,498.3,Similar
+1799,Islington,44,Better,2020,Persons,695.4,Better
+1800,Kensington and Chelsea,46.4,Better,2020,Persons,778.8,Better
+1801,Kingston upon Thames,57.6,Better,2020,Persons,612.8,Better
+1802,Lambeth,57.8,Better,2020,Persons,660.7,Better
+1803,Lewisham,51,Better,2020,Persons,573.4,Better
+1804,Merton,50.4,Better,2020,Persons,577.6,Better
+1805,Newham,61.2,Similar,2020,Persons,514.1,Similar
+1806,Redbridge,57.4,Better,2020,Persons,574.9,Better
+1807,Richmond upon Thames,45.5,Better,2020,Persons,701.5,Better
+1808,Southwark,47.9,Better,2020,Persons,609.6,Better
+1809,Sutton,62.8,Similar,2020,Persons,540.7,Better
+1810,"Bournemouth, Christchurch and Poole",63.9,Similar,2020,Persons,,Not compared
+1811,Dorset,59,Similar,2020,Persons,,Not compared
+1812,Tower Hamlets,53.5,Better,2020,Persons,680.6,Better
+1813,Waltham Forest,54.7,Better,2020,Persons,593.9,Better
+1814,Wandsworth,49.7,Better,2020,Persons,749.3,Better
+1815,Westminster,45.3,Better,2020,Persons,691.8,Better

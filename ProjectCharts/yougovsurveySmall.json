@@ -1,0 +1,107 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Public Opinions on Strategies to Address Obesity",
+    "fontSize": 15,
+    "subtitle": "Source: YouGov Survey Data 2021",
+    "subtitleFontStyle": "italic",
+    "subtitlePadding": 4,
+    "subtitleFontSize": 12,
+    "anchor": "middle",
+    "color": "black"
+  },
+
+  "width":300,
+  "height":300,
+  "data": {
+    "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/yougovsurvey1.csv"
+  },
+
+  "mark": {"type": "bar", "stroke": null, "strokeWidth": 0.2},
+  "transform": [
+    {"filter": {"selection": "EffectivenessSelector"}},
+    {
+      "filter": {
+        "field": "Effectiveness",
+        "oneOf": [
+          "Very effective",
+          "Fairly effective",
+          "Fairly ineffective",
+          "Very ineffective",
+          "Don't know"
+        ]
+      }
+    }
+  ],
+
+  "selection": {
+    "EffectivenessSelector": {
+      "type": "single",
+      "fields": ["Effectiveness"],
+      "bind": {
+        "input": "select",
+        "options": [
+          "None selected",
+          "Very effective",
+          "Fairly effective",
+          "Fairly ineffective",
+          "Very ineffective",
+          "Don't know"
+        ],
+        "name": "Effectiveness"
+      }
+    }
+  },
+  "encoding": {
+    "x": {
+      "field": "Measure",
+      "title":null,
+      "type": "nominal",
+      "axis": {
+        "labels":false,
+        "ticks":false,
+        "grid": false,
+        "titleFontSize": 11,
+        "titlePadding": 12
+      }
+    },
+
+
+    "y": {
+      "field": "Votes",
+      "type": "quantitative",
+      "title": "% of votes",
+      "scale": {"domain": [0, 100]},
+      "axis": {
+        "labelFontSize":10,
+        "grid": false,
+        "titleFontSize": 12,
+        "titlePadding": 6
+        
+      },
+      "sort": {"field": "Score"}
+    },
+    "color": {
+      "field": "Effectiveness",
+      "type": "nominal",
+      "scale": {"range": ["lightgrey", "lightgreen", "orange","darkgreen", "red"]},
+      "title": "Effectiveness",
+      "legend": {
+        "titleFontSize": 11,
+        "labelFontSize": 10
+      }
+    },
+
+    "fillOpacity": {"value": 0.6},
+  
+    "tooltip": [
+      {"field": "Effectiveness", "type": "nominal", "title": "Effectiveness Rating"},
+      {
+        "field": "Measure",
+        "type": "nominal",
+        "title": "Measure"
+      },
+      {"field": "Votes", "type": "quantitative","title":"% of votes"}
+    ]
+  }
+}

@@ -47,7 +47,7 @@
            
      <div class="myWeek1">
         <h3>Where are we now?<h3>
-        <p2>The map below demonstrates the relative unsuccessful nature of efforts made so far, becoming increasingly darker between 2015 and 2020.   
+        <p2>The map below demonstrates the relative unsuccessful nature of efforts made so far, becoming darker between 2015 and 2020.   
         <br>
         </p2>   
           <div class="chart" id="Chart2"></div>         
@@ -73,7 +73,7 @@
           <p2>
           <br>
           </p2>
-        <p2>Cleaning this data was difficult, where health indicators were inconsistent in their age groups and time periods. Addressing this involved frequently printing the most and least common variable options to ensure I did not delete too much data purely because it didn’t align with the formatting of other datasets. I encountered an issue when trying to calculate correlations because Colab wanted to drop rows when columns had missing data, but this would have affected the number of inputs for other indicators in the table: I addressed this by using the =CORREL in Excel which ignored empty cells. Initially this chart moved right across the page because of the long names in the drop down. I have tried shortening names to resolve this, to part success.
+        <p2>Cleaning this data was difficult, where health indicators were inconsistent in their age groups and time periods. Addressing this involved frequently printing the most and least common variable options to ensure I did not delete too much data purely because it didn’t align with the formatting of other datasets. I encountered an issue when trying to calculate correlations because Colab wanted to drop rows when columns had missing data, but this would have affected the number of inputs for other indicators in the table: I addressed this by using "=CORREL" in Excel which ignored empty cells. Initially this chart moved right across the page because of the long names in the drop down. I have tried shortening names to resolve this, to part success.
             <br>
         </p2>
          
@@ -111,7 +111,7 @@
         </p2>
         <p2>Despite the positive correlation, the relationship is weak, as shown by the poor fit of the regression line and low R squared value. This policy may not be a worthwhile endeavour to directly address obesity relative to others: arguably, it makes sense that this policy research paper was not taken further or updated since 2014.
             <br>
-            Merging these two datasets was difficult because of some local authorities merging together between the two datasets being released: calculating density meant also calculating populations of the new boundary areas to divide the sum of outlets the by. I sped this process up in Excel. 
+            Merging these two datasets was difficult because of some local authorities merging together between the two datasets being released: calculating density meant also calculating populations of the new boundary areas to divide the sum of outlets by. I sped this process up in Excel (see References). 
             </p2>
             <p2>
                 <br>
@@ -120,13 +120,13 @@
                 <br>
                 <p2>
                 <br>
-                <p2>Public opinion points to better GP support. This data comes from a table that was difficult to copy and paste. To save time, I scraped it using Python.</p2>
+                <p2>This data comes from a table that was difficult to copy and paste. To save time, I scraped it using Python.</p2>
     </div>   
     
     
     <div class="myWeek1">     
         <h3>Conclusion<h3> 
-            <p2>Having set out to find if there were any surprising correlations between obesity and other variables but being largely unsuccessful, my results begin to reiterate the importance of acknowledging the symmetries between health and income inequalities, where policies addressing this may be the more effective kinds.
+            <p2>Having set out to find if there were any surprising correlations between obesity and other variables but being largely unsuccessful, my results instead begin to reiterate the importance of acknowledging the symmetries between health and income inequalities, where policies addressing this may be more effective than restrictive ones like limiting fast food outlets. The survey data also supports this, where GP support is favoured over multi-buy promotions.
                 </p2>
         </div>  
         
@@ -167,6 +167,12 @@
     <br>2017 to 2021 Local Authority Matching done in Excel - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/LA%20Name%20Changes.xlsx">LA Name Changes.xlsx</a>        
     <br>Colab notebook used to clean obesity rate data for merging - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/ObesityandOutletDataMerged.ipynb">ObesityandOutletDataMerged.ipynb</a>
     <br>Final CSV - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/FastFoodDensityAndObesity.csv">FastFoodDensityAndObesity.csv</a></p2>
+
+    <h3>Chart 6: Public Opinions on Strategies to Address Obesity</h3>
+    <p2>Survey data - <a href="https://docs.cdn.yougov.com/kdqnm3m1we/Obesity%20policies.pdf">YouGov Obesity Policies</a>
+    <br>Colab notebook used to scrape PDF data - <a href="https://github.com/jesme00/jesme00.github.io/blob/main/PDFScraper.ipynb">PDFScraper.ipynb</a>      
+    <br>Final CSV - <a href="https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/yougovsurvey1.csv">yougovsurvey1.csv</a></p2>
+
 
 </div> 
 </container>

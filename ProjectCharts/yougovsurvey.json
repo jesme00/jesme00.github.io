@@ -13,6 +13,7 @@
 
   "width":600,
   "height":400,
+  "padding":10,
   "data": {
     "url": "https://raw.githubusercontent.com/jesme00/jesme00.github.io/main/yougovsurvey1.csv"
   },

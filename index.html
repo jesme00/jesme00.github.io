@@ -73,7 +73,7 @@
           <p2>
           <br>
           </p2>
-        <p2>Cleaning this data was difficult, where health indicators were inconsistent in their age groups and time periods. Addressing this involved frequently printing the most and least common variable options to ensure I did not delete too much data purely because it didn’t align with the formatting of other datasets. I encountered an issue when trying to calculate correlations because Colab wanted to drop rows when columns had missing data, but this would have affected the number of inputs for other indicators in the table: I addressed this by using the =CORREL in Excel which ignored empty cells. Initially this chart moved right across the page because of the long names in the drop down. I have tried shortening names and removed the y axis title to resolve this, to part success.
+        <p2>Cleaning this data was difficult, where health indicators were inconsistent in their age groups and time periods. Addressing this involved frequently printing the most and least common variable options to ensure I did not delete too much data purely because it didn’t align with the formatting of other datasets. I encountered an issue when trying to calculate correlations because Colab wanted to drop rows when columns had missing data, but this would have affected the number of inputs for other indicators in the table: I addressed this by using the =CORREL in Excel which ignored empty cells. Initially this chart moved right across the page because of the long names in the drop down. I have tried shortening names to resolve this, to part success.
             <br>
         </p2>
          
@@ -92,7 +92,7 @@
         <br>
         </p2>
         <br>
-        <p2>I used the same API to create this chart, this time collecting it across 6 years, to see how robust across time this relationship is. Although the R squared value is not particulary high, the rate of overweight and obese adults is clearly trending down in income, .</p2>
+        <p2>I used the same API to create this chart, this time collecting it across 6 years, to see how the relationship holds over time. The rate of overweight and obese adults is clearly trending down in income.</p2>
 
         </div>
 
@@ -109,16 +109,24 @@
         <p2>
         <br>
         </p2>
-        <p2>Despite the positive correlation, it is a very weak relationship, as shown by the poor fit of the regression line and low R squared value. This policy may not be a worthwhile endeavour to directly address obesity relative to others: arguably, it makes sense that this policy research paper was not taken further or updated since 2014.
+        <p2>Despite the positive correlation, the relationship is weak, as shown by the poor fit of the regression line and low R squared value. This policy may not be a worthwhile endeavour to directly address obesity relative to others: arguably, it makes sense that this policy research paper was not taken further or updated since 2014.
             <br>
             Merging these two datasets was difficult because of some local authorities merging together between the two datasets being released: calculating density meant also calculating populations of the new boundary areas to divide the sum of outlets the by. I sped this process up in Excel. 
             </p2>
+            <p2>
+                <br>
+                </p2>
+                <div class="chart" id="Chart6"></div>
+                <br>
+                <p2>
+                <br>
+                <p2>Public opinion points to better GP support. This data comes from a table that was difficult to copy and paste. To save time, I scraped it using Python.</p2>
     </div>   
     
     
     <div class="myWeek1">     
         <h3>Conclusion<h3> 
-            <p2>Having set out to find if there were any surprising correlations between obesity and other variables but being largely unsuccessful, my results instead reiterate the importance of acknowledging the symmetries between health inequality and income inequality, where policies addressing this may be the more effective kinds. Taking this further, I would like to load more variables into the correlations chart and track it across multiple years.
+            <p2>Having set out to find if there were any surprising correlations between obesity and other variables but being largely unsuccessful, my results begin to reiterate the importance of acknowledging the symmetries between health and income inequalities, where policies addressing this may be the more effective kinds.
                 </p2>
         </div>  
         
@@ -174,20 +182,24 @@ if (width > 950) {
     myChart2 = "ProjectCharts/EnglandObesity.json"
     myChart3 = "ProjectCharts/Correlations.json";
     myChart4 = "ProjectCharts/earnings.json";   
-    myChart5 = "ProjectCharts/FastFoodOutletregregression2.json";} 
+    myChart5 = "ProjectCharts/FastFoodOutletregregression2.json";
+    myChart6 = "ProjectCharts/yougovsurvey.json";} 
     else {
     myChart1 = "ProjectCharts/NHSForecastedCostsSmall.json";
     myChart2 = "ProjectCharts/EnglandObesitySmall.json"
     myChart3 = "ProjectCharts/CorrelationsSmall.json";
     myChart4 = "ProjectCharts/earningsSmall.json";   
-    myChart5 = "ProjectCharts/FastFoodOutletregregression2Small.json";}
+    myChart5 = "ProjectCharts/FastFoodOutletregregression2Small.json";
+    myChart6 = "ProjectCharts/yougovsurveySmall.json";
+}
 
     vegaEmbed('#Chart1', myChart1);
     vegaEmbed('#Chart2', myChart2);          
     vegaEmbed('#Chart3', myChart3);    
     vegaEmbed('#Chart4', myChart4);    
     vegaEmbed('#Chart5', myChart5);    
-    
+    vegaEmbed('#Chart6', myChart6);    
+ 
 </script>
 
 </html>
